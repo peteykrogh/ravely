@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ravely</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@300;400&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="header-inner">
+        <span class="site-logo">Ravely</span>
+        <p class="site-tagline">Rave events across Denmark</p>
+      </div>
+    </header>
+
+    <main>
+      <!-- Month overview calendar -->
+      <div class="cal-wrapper">
+        <span class="cal-year" id="cal-year"></span>
+        <span class="cal-label">Events per month</span>
+        <div class="month-calendar" id="month-calendar"></div>
+      </div>
+
+      <!-- Copenhagen raves — sourced from Resident Advisor -->
+      <section class="promoter-section" id="copenhagen">
+        <div class="promoter-header">
+          <div class="promoter-meta">
+            <h2 class="promoter-name">Copenhagen</h2>
+            <p class="promoter-description">
+              Upcoming raves and club nights in Copenhagen, sourced live from
+              Resident Advisor.
+            </p>
+          </div>
+          <a
+            class="promoter-link"
+            href="https://ra.co/events/dk"
+            target="_blank"
+            rel="noopener noreferrer"
+            >RA ↗</a
+          >
+        </div>
+
+        <p class="active-month-label" id="month-heading"></p>
+
+        <div class="events-list" id="ra-events">
+          <!-- Populated by events.js -->
+        </div>
+
+        <p class="no-events-msg hidden" id="ra-empty">
+          No events found. Run: <code>python3 fetch-ra-events.py</code>
+        </p>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>Last updated <span id="last-updated"></span></p>
+    </footer>
+
+    <script src="events.js"></script>
+  </body>
+</html>
