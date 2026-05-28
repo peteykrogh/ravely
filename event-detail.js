@@ -60,8 +60,8 @@ function render(event, allEvents) {
 
   const navHtml = (prev || next) ? `
     <div class="detail-nav">
-      ${prev ? navLink(prev, "← " + escHtml(prev.title)) : "<span></span>"}
-      ${next ? navLink(next, escHtml(next.title) + " →") : "<span></span>"}
+      ${prev ? navLink(prev, "← Previous event") : "<span></span>"}
+      ${next ? navLink(next, "Next event →") : "<span></span>"}
     </div>` : "";
 
   const isFbUrl = (url) => url && (url.includes("facebook.com") || url.includes("fb.me"));
@@ -98,7 +98,7 @@ function render(event, allEvents) {
 
         <div class="detail-venue">
           <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
-          <span>${escHtml(event.venue)}</span>
+          <a class="detail-venue-link" href="https://www.google.com/maps/search/${encodeURIComponent(event.venue)}" target="_blank" rel="noopener noreferrer">${escHtml(event.venue)}</a>
         </div>
 
         ${event.lineup && event.lineup.length > 0 ? `
@@ -126,6 +126,18 @@ function render(event, allEvents) {
             <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
             View on RA
           </a>
+
+          <div class="share-wrap" id="share-wrap">
+            <button class="detail-action-btn share" id="share-btn" type="button">
+              <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
+              Share
+            </button>
+            <div class="share-dropdown hidden" id="share-dropdown">
+              <button class="share-item" id="share-copy" type="button">Copy link</button>
+              <a class="share-item" id="share-wa" href="#" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+              <a class="share-item" id="share-x" href="#" target="_blank" rel="noopener noreferrer">X / Twitter</a>
+            </div>
+          </div>
         </div>
 
         ${otherLinks.length > 0 ? `
@@ -144,6 +156,38 @@ function render(event, allEvents) {
 
   if (upcoming && !event.soldOut) {
     document.getElementById("cal-btn")?.addEventListener("click", () => openGoogleCalendar(event));
+  }
+
+  // Share
+  const pageUrl  = window.location.href;
+  const shareText = `${event.title} — ${shortDate(event.date)} at ${event.venue}`;
+  const shareBtn  = document.getElementById("share-btn");
+  const shareDrop = document.getElementById("share-dropdown");
+
+  if (navigator.share) {
+    shareBtn?.addEventListener("click", () => {
+      navigator.share({ title: event.title, text: shareText, url: pageUrl }).catch(() => {});
+    });
+  } else {
+    // Fallback dropdown
+    document.getElementById("share-wa").href =
+      `https://wa.me/?text=${encodeURIComponent(shareText + "\n" + pageUrl)}`;
+    document.getElementById("share-x").href =
+      `https://x.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(pageUrl)}`;
+
+    shareBtn?.addEventListener("click", (e) => {
+      e.stopPropagation();
+      shareDrop?.classList.toggle("hidden");
+    });
+
+    document.getElementById("share-copy")?.addEventListener("click", () => {
+      navigator.clipboard.writeText(pageUrl).then(() => {
+        const btn = document.getElementById("share-copy");
+        if (btn) { btn.textContent = "Copied!"; setTimeout(() => { btn.textContent = "Copy link"; }, 1800); }
+      });
+    });
+
+    document.addEventListener("click", () => shareDrop?.classList.add("hidden"));
   }
 
   document.title = `${event.title} — Ravely`;

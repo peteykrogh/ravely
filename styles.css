@@ -687,6 +687,72 @@ main {
   opacity: 0.6;
 }
 
+.detail-venue-link {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.detail-venue-link:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+/* ── Share button & dropdown ──────────────────────────────── */
+.share-wrap {
+  position: relative;
+}
+
+.detail-action-btn.share {
+  border-color: var(--border);
+  color: var(--text-secondary);
+}
+
+.detail-action-btn.share:hover {
+  border-color: var(--text-muted);
+  color: var(--text-primary);
+  background-color: var(--surface-hover);
+}
+
+.share-dropdown {
+  position: absolute;
+  top: calc(100% + 0.4rem);
+  right: 0;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  min-width: 140px;
+  z-index: 10;
+  overflow: hidden;
+}
+
+.share-item {
+  display: block;
+  width: 100%;
+  padding: 0.6rem 1rem;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  text-align: left;
+  text-decoration: none;
+  color: var(--text-secondary);
+  background: none;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.12s, color 0.12s;
+}
+
+.share-item:hover {
+  background-color: var(--surface-hover);
+  color: var(--text-primary);
+}
+
+.share-item + .share-item {
+  border-top: 1px solid var(--border);
+}
+
 /* ── Sections (lineup, links) ─────────────────────────────── */
 .detail-section {
   display: flex;
