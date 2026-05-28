@@ -12,32 +12,6 @@
 
 let allEvents = [];
 let activeTile = null;
-let showingFavourites = false;
-
-// ─── Favourites (localStorage) ───────────────────────────────────────────────
-
-const FAV_KEY = "ravely-favourites";
-
-function getFavourites() {
-  try { return new Set(JSON.parse(localStorage.getItem(FAV_KEY)) || []); }
-  catch { return new Set(); }
-}
-
-function toggleFavourite(id) {
-  const favs = getFavourites();
-  favs.has(id) ? favs.delete(id) : favs.add(id);
-  localStorage.setItem(FAV_KEY, JSON.stringify([...favs]));
-  return favs.has(id);
-}
-
-function updateFavFilterBtn() {
-  const btn = document.getElementById("fav-filter-btn");
-  if (!btn) return;
-  const favs = getFavourites();
-  btn.classList.toggle("hidden", favs.size === 0);
-  const countEl = document.getElementById("fav-count");
-  if (countEl) countEl.textContent = favs.size > 0 ? favs.size : "";
-}
 
 // ─── Helpers ─────────────────────────────────────────────────────────────────
 
@@ -93,9 +67,11 @@ function buildRow(event) {
 
   const row = document.createElement("a");
   row.className = `event-row${upcoming ? " upcoming" : ""}`;
-  row.href = event.tickets;
-  row.target = "_blank";
-  row.rel = "noopener noreferrer";
+  row.href = `event.html?id=${encodeURIComponent(event.id)}`;
+  row.target = "_self";
+  row.addEventListener("click", () => {
+    sessionStorage.setItem("ravely-scroll", String(window.scrollY));
+  });
 
   const dateEl = document.createElement("div");
   dateEl.className = "event-date";
@@ -128,11 +104,36 @@ function buildRow(event) {
 
   infoEl.append(titleEl, venueEl);
 
+  const fbUrl = (event.promotionalLinks || []).find(
+    (l) => l.url && (l.url.includes("facebook.com") || l.url.includes("fb.me"))
+  )?.url;
+
+  const fbSlot = fbUrl ? (() => {
+    const btn = document.createElement("button");
+    btn.className = "fb-link-btn";
+    btn.type = "button";
+    btn.title = "Open Facebook event";
+    btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="6 2 12 20" fill="currentColor" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>`;
+    btn.addEventListener("click", (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      window.open(fbUrl, "_blank", "noopener,noreferrer");
+    });
+    return btn;
+  })() : (() => {
+    const ph = document.createElement("span");
+    ph.className = "fb-placeholder";
+    return ph;
+  })();
+
+  // FB slot first, then cal slot
+  row.append(dateEl, infoEl, fbSlot);
+
   if (event.soldOut) {
     const tagEl = document.createElement("span");
     tagEl.className = "tag sold-out";
     tagEl.textContent = "Sold out";
-    row.append(dateEl, infoEl, tagEl);
+    row.append(tagEl);
   } else if (upcoming) {
     const calBtn = document.createElement("button");
     calBtn.className = "cal-add-btn";
@@ -144,28 +145,12 @@ function buildRow(event) {
       e.stopPropagation();
       openGoogleCalendar(event);
     });
-    row.append(dateEl, infoEl, calBtn);
+    row.append(calBtn);
   } else {
-    row.append(dateEl, infoEl);
+    const calPh = document.createElement("span");
+    calPh.className = "cal-placeholder";
+    row.append(calPh);
   }
-
-  // Heart button — all events
-  const favBtn = document.createElement("button");
-  favBtn.className = "fav-btn";
-  favBtn.type = "button";
-  favBtn.title = "Save to favourites";
-  const isFav = getFavourites().has(event.id);
-  favBtn.classList.toggle("active", isFav);
-  favBtn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>`;
-  favBtn.addEventListener("click", (e) => {
-    e.preventDefault();
-    e.stopPropagation();
-    const nowFav = toggleFavourite(event.id);
-    favBtn.classList.toggle("active", nowFav);
-    updateFavFilterBtn();
-    if (showingFavourites) renderFavourites();
-  });
-  row.append(favBtn);
 
   return row;
 }
@@ -247,40 +232,6 @@ function renderMonth(monthIndex) {
     upcoming.forEach((ev) => upcomingList.append(buildRow(ev)));
     container.append(upcomingList);
   }
-}
-
-// ─── Favourites view ─────────────────────────────────────────────────────────
-
-function renderFavourites() {
-  const container = document.getElementById("ra-events");
-  const heading   = document.getElementById("month-heading");
-  const emptyMsg  = document.getElementById("ra-empty");
-  if (!container) return;
-
-  container.innerHTML = "";
-  if (heading) heading.textContent = "Favourites";
-
-  const favs = getFavourites();
-  const favEvents = allEvents
-    .filter((ev) => favs.has(ev.id))
-    .sort((a, b) => new Date(a.date) - new Date(b.date));
-
-  if (favEvents.length === 0) {
-    container.classList.add("hidden");
-    if (emptyMsg) {
-      emptyMsg.textContent = "No favourites yet — tap ♥ on any event to save it.";
-      emptyMsg.classList.remove("hidden");
-    }
-    return;
-  }
-
-  container.classList.remove("hidden");
-  if (emptyMsg) emptyMsg.classList.add("hidden");
-
-  const list = document.createElement("div");
-  list.className = "events-list";
-  favEvents.forEach((ev) => list.append(buildRow(ev)));
-  container.append(list);
 }
 
 function buildMonthCalendar() {
@@ -368,24 +319,12 @@ async function init() {
 
   buildMonthCalendar();
   renderMonth(new Date().getMonth());
-  updateFavFilterBtn();
 
-  // Favourites filter button
-  const favFilterBtn = document.getElementById("fav-filter-btn");
-  if (favFilterBtn) {
-    favFilterBtn.addEventListener("click", () => {
-      showingFavourites = !showingFavourites;
-      favFilterBtn.classList.toggle("active", showingFavourites);
-      if (activeTile) activeTile.classList.toggle("dimmed", showingFavourites);
-      if (showingFavourites) {
-        renderFavourites();
-      } else {
-        const currentMonthIndex = activeTile
-          ? [...activeTile.closest(".month-calendar").children].indexOf(activeTile)
-          : new Date().getMonth();
-        renderMonth(currentMonthIndex);
-      }
-    });
+  // Restore scroll position if returning from a detail page
+  const savedScroll = sessionStorage.getItem("ravely-scroll");
+  if (savedScroll !== null) {
+    requestAnimationFrame(() => window.scrollTo(0, parseInt(savedScroll, 10)));
+    sessionStorage.removeItem("ravely-scroll");
   }
 
   // Footer: show when data was last fetched from RA

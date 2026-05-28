@@ -325,7 +325,7 @@ main {
 /* ── Event row ───────────────────────────────────────────── */
 .event-row {
   display: grid;
-  grid-template-columns: 7.5rem 1fr auto auto auto;
+  grid-template-columns: 7.5rem 1fr auto auto;
   align-items: center;
   gap: 0.75rem;
   padding: 0.7rem 0.6rem 0.7rem 1rem;
@@ -424,6 +424,36 @@ main {
   color: var(--bg);
 }
 
+.fb-link-btn {
+  background: none;
+  border: 1px solid var(--accent);
+  border-radius: var(--radius);
+  color: var(--accent);
+  font-size: 0.75rem;
+  line-height: 1;
+  padding: 0.25rem 0.45rem;
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.fb-link-btn:hover {
+  background-color: var(--accent);
+  color: var(--bg);
+}
+
+.fb-link-btn svg {
+  display: block;
+}
+
+.fb-placeholder,
+.cal-placeholder {
+  display: block;
+  width: 1.75rem;
+  height: 1.75rem;
+  flex-shrink: 0;
+}
+
 /* ── Active month label ──────────────────────────────────── */
 .active-month-label {
   font-family: var(--font-mono);
@@ -432,75 +462,6 @@ main {
   text-transform: uppercase;
   letter-spacing: 0.1em;
   color: var(--text-primary);
-}
-
-/* ── Favourites filter button ────────────────────────────── */
-.fav-filter-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.4rem;
-  background: none;
-  border: 1px solid var(--accent);
-  border-radius: var(--radius);
-  color: var(--accent);
-  font-family: var(--font-mono);
-  font-size: 0.68rem;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  padding: 0.35rem 0.75rem;
-  cursor: pointer;
-  transition: background-color 0.15s, color 0.15s;
-  align-self: flex-start;
-}
-
-.fav-filter-btn svg {
-  fill: var(--accent);
-  flex-shrink: 0;
-}
-
-.fav-filter-btn:hover {
-  background-color: color-mix(in srgb, var(--accent) 10%, transparent);
-}
-
-.fav-filter-btn.active {
-  background-color: var(--accent);
-  color: var(--bg);
-}
-
-.fav-filter-btn.active svg {
-  fill: var(--bg);
-}
-
-/* ── Favourite star button ───────────────────────────────── */
-.fav-btn {
-  background: none;
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  color: var(--text-muted);
-  font-size: 0.75rem;
-  line-height: 1;
-  padding: 0.25rem 0.45rem;
-  cursor: pointer;
-  flex-shrink: 0;
-  transition: color 0.15s, border-color 0.15s;
-}
-
-.fav-btn svg {
-  fill: none;
-}
-
-.fav-btn:hover {
-  color: var(--accent);
-  border-color: var(--accent);
-}
-
-.fav-btn.active {
-  color: var(--accent);
-  border-color: var(--accent);
-}
-
-.fav-btn.active svg {
-  fill: var(--accent);
 }
 
 .tag {
@@ -575,7 +536,7 @@ main {
     grid-template-columns: 1fr auto auto;
     grid-template-rows: auto auto;
     grid-template-areas:
-      "date cal fav"
+      "date fb cal"
       "info info info";
     align-items: start;
     gap: 0.35rem 0.5rem;
@@ -589,15 +550,306 @@ main {
     grid-area: info;
   }
 
+  .event-row .fb-link-btn,
+  .event-row .fb-placeholder {
+    grid-area: fb;
+  }
+
+  .event-row .cal-add-btn,
+  .event-row .cal-placeholder,
   .event-row .tag {
     grid-area: cal;
   }
+}
 
-  .event-row .cal-add-btn {
-    grid-area: cal;
+/* ══════════════════════════════════════════════════════════
+   Event detail page
+   ══════════════════════════════════════════════════════════ */
+
+.site-logo[href] {
+  text-decoration: none;
+  color: inherit;
+}
+
+.event-detail-main {
+  flex: 1;
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.detail-back {
+  margin-bottom: 0.25rem;
+}
+
+.back-link {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.back-link:hover {
+  color: var(--accent);
+}
+
+/* ── Card ─────────────────────────────────────────────────── */
+.detail-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: 260px 1fr;
+}
+
+.detail-flyer {
+  background: #000;
+  overflow: hidden;
+  min-height: 0;
+}
+
+.detail-flyer img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  object-position: center top;
+}
+
+.detail-body {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+/* ── Meta row (date + sold-out badge) ─────────────────────── */
+.detail-meta-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.detail-date-block {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.detail-date {
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+}
+
+.detail-time {
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  letter-spacing: 0.06em;
+  color: var(--text-secondary);
+}
+
+.detail-soldout {
+  margin-top: 0.1rem;
+}
+
+/* ── Title & venue ────────────────────────────────────────── */
+.detail-title {
+  font-family: var(--font-sans);
+  font-size: clamp(1.4rem, 3vw, 2rem);
+  font-weight: 500;
+  line-height: 1.15;
+  color: var(--text-primary);
+  margin: 0;
+}
+
+.detail-venue {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.88rem;
+  color: var(--text-secondary);
+}
+
+.detail-venue svg {
+  flex-shrink: 0;
+  opacity: 0.6;
+}
+
+/* ── Sections (lineup, links) ─────────────────────────────── */
+.detail-section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.detail-section-label {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-muted);
+}
+
+.detail-lineup {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.detail-lineup li {
+  font-size: 0.95rem;
+  color: var(--text-primary);
+  padding-left: 0.8rem;
+  position: relative;
+}
+
+.detail-lineup li::before {
+  content: "–";
+  position: absolute;
+  left: 0;
+  color: var(--text-muted);
+}
+
+.detail-links {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.detail-links a {
+  font-size: 0.88rem;
+  color: var(--text-secondary);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.detail-links a:hover {
+  color: var(--accent);
+}
+
+/* ── Action buttons ───────────────────────────────────────── */
+.detail-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: auto;
+  padding-top: 0.5rem;
+}
+
+.detail-action-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-radius: var(--radius);
+  padding: 0.5rem 0.9rem;
+  cursor: pointer;
+  transition: background-color 0.15s, color 0.15s, border-color 0.15s;
+  border: 1px solid var(--accent);
+  background: none;
+  color: var(--accent);
+}
+
+.detail-action-btn:hover {
+  background-color: var(--accent);
+  color: var(--bg);
+}
+
+.detail-action-btn.ra {
+  border-color: var(--border);
+  color: var(--text-secondary);
+}
+
+.detail-action-btn.ra:hover {
+  background-color: var(--surface-hover);
+  color: var(--text-primary);
+  border-color: var(--text-muted);
+}
+
+/* ── Error state ──────────────────────────────────────────── */
+.detail-error {
+  color: var(--text-secondary);
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+}
+
+/* ── Prev / next navigation ───────────────────────────────── */
+.detail-nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.6rem;
+  margin-top: 0.25rem;
+}
+
+.detail-nav-btn {
+  display: block;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.75rem 1rem;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.05em;
+  color: var(--text-secondary);
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transition: border-color 0.15s, color 0.15s, background-color 0.15s;
+}
+
+.detail-nav-btn:hover {
+  border-color: var(--accent);
+  color: var(--text-primary);
+  background-color: var(--surface-hover);
+}
+
+.detail-nav-btn:first-child {
+  text-align: left;
+}
+
+.detail-nav-btn:last-child {
+  text-align: right;
+}
+
+/* ── No-flyer layout (single column) ─────────────────────── */
+.detail-card:not(:has(.detail-flyer)) {
+  grid-template-columns: 1fr;
+}
+
+/* ── Responsive ───────────────────────────────────────────── */
+@media (max-width: 680px) {
+  .detail-card {
+    grid-template-columns: 1fr;
   }
 
-  .event-row .fav-btn {
-    grid-area: fav;
+  .detail-flyer img {
+    width: 100%;
+    height: auto;
+    max-height: 75vw;
+    object-fit: cover;
+    object-position: center top;
+  }
+
+  .detail-body {
+    padding: 1.25rem;
   }
 }

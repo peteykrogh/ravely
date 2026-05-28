@@ -46,6 +46,8 @@ def fetch_events(start: str, end: str, page: int = 1) -> list:
             venue { name }
             artists { name }
             flyerFront
+            images { filename type }
+            promotionalLinks { title url }
           }
         }
       }
@@ -92,7 +94,12 @@ def map_event(item: dict) -> dict:
         "lineup":    artists,
         "tickets":   "https://ra.co" + e["contentUrl"],
         "soldOut":   e.get("status") == "SOLD_OUT",
-        "flyer":     e.get("flyerFront"),
+        "flyer":     next(
+            (img["filename"] for img in (e.get("images") or [])
+             if img.get("type") == "FLYERFRONT" and img.get("filename")),
+            None
+        ),
+        "promotionalLinks": e.get("promotionalLinks") or [],
     }
 
 
