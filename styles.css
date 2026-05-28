@@ -226,7 +226,7 @@ main {
   margin-top: 0.5rem;
   font-size: 0.9rem;
   color: var(--text-secondary);
-  max-width: 55ch;
+  max-width: 100%;
   line-height: 1.5;
 }
 
@@ -291,11 +291,6 @@ main {
 
 .past-toggle-icon {
   font-size: 0.8rem;
-  transition: transform 0.2s;
-}
-
-.past-toggle[data-open="true"] .past-toggle-icon {
-  transform: rotate(180deg);
 }
 
 /* ── Event row ───────────────────────────────────────────── */
@@ -403,10 +398,11 @@ main {
 /* ── Active month label ──────────────────────────────────── */
 .active-month-label {
   font-family: var(--font-mono);
-  font-size: 0.7rem;
+  font-size: 1.1rem;
+  font-weight: 500;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--text-secondary);
+  letter-spacing: 0.1em;
+  color: var(--text-primary);
 }
 
 .tag {
