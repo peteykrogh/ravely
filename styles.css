@@ -303,7 +303,7 @@ main {
   display: grid;
   grid-template-columns: 7.5rem 1fr auto;
   align-items: center;
-  gap: 1rem;
+  gap: 0.75rem;
   padding: 0.7rem 1rem;
   border-bottom: 1px solid var(--border);
   text-decoration: none;
@@ -379,6 +379,25 @@ main {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+
+/* ── Add to calendar button ─────────────────────────────── */
+.cal-add-btn {
+  background: none;
+  border: 1px solid var(--accent);
+  border-radius: var(--radius);
+  color: var(--accent);
+  font-size: 0.75rem;
+  line-height: 1;
+  padding: 0.25rem 0.45rem;
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.cal-add-btn:hover {
+  background-color: var(--accent);
+  color: var(--bg);
 }
 
 /* ── Active month label ──────────────────────────────────── */
@@ -462,10 +481,10 @@ main {
     grid-template-columns: 1fr auto;
     grid-template-rows: auto auto;
     grid-template-areas:
-      "date tag"
+      "date cal"
       "info info";
     align-items: start;
-    gap: 0.35rem 0.75rem;
+    gap: 0.35rem 0.5rem;
   }
 
   .event-row .event-date {
@@ -477,6 +496,10 @@ main {
   }
 
   .event-row .tag {
-    grid-area: tag;
+    grid-area: cal;
+  }
+
+  .event-row .cal-add-btn {
+    grid-area: cal;
   }
 }

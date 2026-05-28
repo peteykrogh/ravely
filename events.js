@@ -32,6 +32,36 @@ function shortDate(dateStr) {
 
 // ─── Event Row ───────────────────────────────────────────────────────────────
 
+function gcalDateTime(dateStr, timeStr, offsetDays = 0) {
+  const [y, m, d] = dateStr.split("-").map(Number);
+  const date = new Date(y, m - 1, d + offsetDays);
+  const pad = (n) => String(n).padStart(2, "0");
+  const datepart = `${date.getFullYear()}${pad(date.getMonth() + 1)}${pad(date.getDate())}`;
+  if (!timeStr) return datepart;
+  const [hh, mm] = timeStr.split(":");
+  return `${datepart}T${hh}${mm}00`;
+}
+
+function openGoogleCalendar(event) {
+  const startH = event.startTime ? parseInt(event.startTime) : 20;
+  const endH   = event.endTime   ? parseInt(event.endTime)   : startH + 2;
+  const endOffsetDays = event.endTime && endH < startH ? 1 : 0;
+
+  const dtstart = gcalDateTime(event.date, event.startTime || "20:00");
+  const dtend   = gcalDateTime(event.date, event.endTime || "", endOffsetDays) ||
+                  gcalDateTime(event.date, "", 1);
+
+  const params = new URLSearchParams({
+    action:   "TEMPLATE",
+    text:     event.title,
+    dates:    `${dtstart}/${dtend}`,
+    location: event.venue,
+    details:  `Tickets & info: ${event.tickets}`,
+  });
+
+  window.open(`https://calendar.google.com/calendar/render?${params}`, "_blank", "noopener,noreferrer");
+}
+
 function buildRow(event) {
   const upcoming = isUpcoming(event.date);
 
@@ -72,19 +102,27 @@ function buildRow(event) {
 
   infoEl.append(titleEl, venueEl);
 
-  const tagEl = document.createElement("span");
   if (event.soldOut) {
+    const tagEl = document.createElement("span");
     tagEl.className = "tag sold-out";
     tagEl.textContent = "Sold out";
+    row.append(dateEl, infoEl, tagEl);
   } else if (upcoming) {
-    tagEl.className = "tag tickets";
-    tagEl.textContent = "RA ↗";
+    const calBtn = document.createElement("button");
+    calBtn.className = "cal-add-btn";
+    calBtn.type = "button";
+    calBtn.title = "Add to Google Calendar";
+    calBtn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/><line x1="12" y1="14" x2="12" y2="18"/><line x1="10" y1="16" x2="14" y2="16"/></svg>`;
+    calBtn.addEventListener("click", (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      openGoogleCalendar(event);
+    });
+    row.append(dateEl, infoEl, calBtn);
   } else {
-    tagEl.className = "tag";
-    tagEl.textContent = "Past";
+    row.append(dateEl, infoEl);
   }
 
-  row.append(dateEl, infoEl, tagEl);
   return row;
 }
 
