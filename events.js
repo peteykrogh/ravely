@@ -30,6 +30,13 @@ function toggleFavourite(id) {
   return favs.has(id);
 }
 
+function updateFavFilterBtn() {
+  const btn = document.getElementById("fav-filter-btn");
+  if (!btn) return;
+  const hasFavs = getFavourites().size > 0;
+  btn.classList.toggle("hidden", !hasFavs);
+}
+
 // ─── Helpers ─────────────────────────────────────────────────────────────────
 
 function isUpcoming(dateStr) {
@@ -153,6 +160,7 @@ function buildRow(event) {
     e.stopPropagation();
     const nowFav = toggleFavourite(event.id);
     favBtn.classList.toggle("active", nowFav);
+    updateFavFilterBtn();
     if (showingFavourites) renderFavourites();
   });
   row.append(favBtn);
@@ -358,6 +366,7 @@ async function init() {
 
   buildMonthCalendar();
   renderMonth(new Date().getMonth());
+  updateFavFilterBtn();
 
   // Favourites filter button
   const favFilterBtn = document.getElementById("fav-filter-btn");
