@@ -99,7 +99,7 @@ def map_event(item: dict) -> dict:
 def main():
     today    = datetime.now()
     end_date = today + timedelta(days=MONTHS_AHD * 30)
-    start    = today.strftime("%Y-%m-%d")
+    start    = today.strftime("%Y-01-01")  # fetch from start of current year
     end      = end_date.strftime("%Y-%m-%d")
 
     print(f"Fetching Copenhagen events from {start} to {end} …")

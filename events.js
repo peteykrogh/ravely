@@ -119,10 +119,46 @@ function renderMonth(monthIndex) {
       emptyMsg.textContent = `No events in ${MONTH_NAMES[monthIndex]}.`;
       emptyMsg.classList.remove("hidden");
     }
-  } else {
-    container.classList.remove("hidden");
-    if (emptyMsg) emptyMsg.classList.add("hidden");
-    filtered.forEach((ev) => container.append(buildRow(ev)));
+    return;
+  }
+
+  container.classList.remove("hidden");
+  if (emptyMsg) emptyMsg.classList.add("hidden");
+
+  const upcoming = filtered.filter((ev) => isUpcoming(ev.date));
+  const past     = filtered.filter((ev) => !isUpcoming(ev.date));
+
+  // Render past events first (collapsed) so chronological order is top→bottom
+  if (past.length > 0) {
+    const toggle = document.createElement("button");
+    toggle.className = "past-toggle";
+    toggle.type = "button";
+    toggle.dataset.open = "false";
+    toggle.innerHTML = `<span class="past-toggle-label">Show ${past.length} past event${past.length === 1 ? "" : "s"}</span><span class="past-toggle-icon">↓</span>`;
+
+    const pastList = document.createElement("div");
+    pastList.className = "events-list past-list hidden";
+    past.forEach((ev) => pastList.append(buildRow(ev)));
+
+    toggle.addEventListener("click", () => {
+      const isOpen = toggle.dataset.open === "true";
+      toggle.dataset.open = String(!isOpen);
+      pastList.classList.toggle("hidden", isOpen);
+      toggle.querySelector(".past-toggle-label").textContent = isOpen
+        ? `Show ${past.length} past event${past.length === 1 ? "" : "s"}`
+        : `Hide past events`;
+      toggle.querySelector(".past-toggle-icon").textContent = isOpen ? "↓" : "↑";
+    });
+
+    container.append(toggle, pastList);
+  }
+
+  // Render upcoming events below
+  if (upcoming.length > 0) {
+    const upcomingList = document.createElement("div");
+    upcomingList.className = "events-list";
+    upcoming.forEach((ev) => upcomingList.append(buildRow(ev)));
+    container.append(upcomingList);
   }
 }
 

@@ -248,12 +248,53 @@ main {
 }
 
 /* ── Events list ─────────────────────────────────────────── */
+.events-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
 .events-list {
   display: flex;
   flex-direction: column;
   border: 1px solid var(--border);
   border-radius: var(--radius);
   overflow: hidden;
+}
+
+/* ── Past events toggle ──────────────────────────────────── */
+.past-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.55rem 1rem;
+  cursor: pointer;
+  color: var(--text-secondary);
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  width: 100%;
+  text-align: left;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.past-toggle:hover {
+  color: var(--text-primary);
+  border-color: var(--text-secondary);
+}
+
+.past-toggle-icon {
+  font-size: 0.8rem;
+  transition: transform 0.2s;
+}
+
+.past-toggle[data-open="true"] .past-toggle-icon {
+  transform: rotate(180deg);
 }
 
 /* ── Event row ───────────────────────────────────────────── */
@@ -279,6 +320,20 @@ main {
 
 .event-row:hover .event-title {
   color: var(--accent);
+}
+
+/* Past events — visually de-emphasised */
+.event-row:not(.upcoming) {
+  opacity: 0.45;
+}
+
+.event-row:not(.upcoming):hover {
+  opacity: 0.7;
+}
+
+.event-row:not(.upcoming) .event-title {
+  text-decoration: line-through;
+  text-decoration-color: var(--text-muted);
 }
 
 .event-date {
@@ -386,7 +441,25 @@ main {
 /* ── Responsive ───────────────────────────────────────────── */
 @media (max-width: 480px) {
   .promoter-header {
-    flex-direction: column;
+    display: grid;
+    grid-template-areas:
+      "name link"
+      "desc desc";
+    grid-template-columns: 1fr auto;
+    align-items: center;
+  }
+
+  .promoter-name {
+    grid-area: name;
+  }
+
+  .promoter-description {
+    grid-area: desc;
+  }
+
+  .promoter-link {
+    grid-area: link;
+    align-self: center;
   }
 
   .event-row {
