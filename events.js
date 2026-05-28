@@ -33,8 +33,10 @@ function toggleFavourite(id) {
 function updateFavFilterBtn() {
   const btn = document.getElementById("fav-filter-btn");
   if (!btn) return;
-  const hasFavs = getFavourites().size > 0;
-  btn.classList.toggle("hidden", !hasFavs);
+  const favs = getFavourites();
+  btn.classList.toggle("hidden", favs.size === 0);
+  const countEl = document.getElementById("fav-count");
+  if (countEl) countEl.textContent = favs.size > 0 ? favs.size : "";
 }
 
 // ─── Helpers ─────────────────────────────────────────────────────────────────
