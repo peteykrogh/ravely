@@ -125,19 +125,24 @@ function renderMonth(monthIndex) {
   container.classList.remove("hidden");
   if (emptyMsg) emptyMsg.classList.add("hidden");
 
+  const currentMonth = new Date().getMonth();
+  const isFullyPastMonth = monthIndex < currentMonth;
+
   const upcoming = filtered.filter((ev) => isUpcoming(ev.date));
   const past     = filtered.filter((ev) => !isUpcoming(ev.date));
 
-  // Render past events first (collapsed) so chronological order is top→bottom
+  // Render past events first so chronological order is top→bottom
   if (past.length > 0) {
     const toggle = document.createElement("button");
     toggle.className = "past-toggle";
     toggle.type = "button";
-    toggle.dataset.open = "false";
-    toggle.innerHTML = `<span class="past-toggle-label">Show ${past.length} past event${past.length === 1 ? "" : "s"}</span><span class="past-toggle-icon">↓</span>`;
+    toggle.dataset.open = String(isFullyPastMonth);
+    toggle.innerHTML = isFullyPastMonth
+      ? `<span class="past-toggle-label">Hide past events</span><span class="past-toggle-icon">↑</span>`
+      : `<span class="past-toggle-label">Show ${past.length} past event${past.length === 1 ? "" : "s"}</span><span class="past-toggle-icon">↓</span>`;
 
     const pastList = document.createElement("div");
-    pastList.className = "events-list past-list hidden";
+    pastList.className = `events-list past-list${isFullyPastMonth ? "" : " hidden"}`;
     past.forEach((ev) => pastList.append(buildRow(ev)));
 
     toggle.addEventListener("click", () => {
@@ -188,6 +193,7 @@ function buildMonthCalendar() {
     tile.className = "cal-month";
     tile.type = "button";
     if (i === currentMonth) tile.classList.add("current");
+    if (i < currentMonth) tile.classList.add("past");
     if (counts[i] > 0) tile.classList.add("has-events");
 
     const nameEl = document.createElement("span");

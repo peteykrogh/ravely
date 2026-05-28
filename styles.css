@@ -181,6 +181,11 @@ main {
   color: var(--accent);
 }
 
+/* Past months — completed look */
+.cal-month.past.has-events .cal-month-count {
+  color: var(--text-secondary);
+}
+
 .cal-month-unit {
   font-family: var(--font-mono);
   font-size: 0.55rem;
@@ -329,11 +334,6 @@ main {
 
 .event-row:not(.upcoming):hover {
   opacity: 0.7;
-}
-
-.event-row:not(.upcoming) .event-title {
-  text-decoration: line-through;
-  text-decoration-color: var(--text-muted);
 }
 
 .event-date {
