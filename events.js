@@ -12,6 +12,23 @@
 
 let allEvents = [];
 let activeTile = null;
+let showingFavourites = false;
+
+// ─── Favourites (localStorage) ───────────────────────────────────────────────
+
+const FAV_KEY = "ravely-favourites";
+
+function getFavourites() {
+  try { return new Set(JSON.parse(localStorage.getItem(FAV_KEY)) || []); }
+  catch { return new Set(); }
+}
+
+function toggleFavourite(id) {
+  const favs = getFavourites();
+  favs.has(id) ? favs.delete(id) : favs.add(id);
+  localStorage.setItem(FAV_KEY, JSON.stringify([...favs]));
+  return favs.has(id);
+}
 
 // ─── Helpers ─────────────────────────────────────────────────────────────────
 
@@ -123,6 +140,23 @@ function buildRow(event) {
     row.append(dateEl, infoEl);
   }
 
+  // Heart button — all events
+  const favBtn = document.createElement("button");
+  favBtn.className = "fav-btn";
+  favBtn.type = "button";
+  favBtn.title = "Save to favourites";
+  const isFav = getFavourites().has(event.id);
+  favBtn.classList.toggle("active", isFav);
+  favBtn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>`;
+  favBtn.addEventListener("click", (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    const nowFav = toggleFavourite(event.id);
+    favBtn.classList.toggle("active", nowFav);
+    if (showingFavourites) renderFavourites();
+  });
+  row.append(favBtn);
+
   return row;
 }
 
@@ -203,6 +237,40 @@ function renderMonth(monthIndex) {
     upcoming.forEach((ev) => upcomingList.append(buildRow(ev)));
     container.append(upcomingList);
   }
+}
+
+// ─── Favourites view ─────────────────────────────────────────────────────────
+
+function renderFavourites() {
+  const container = document.getElementById("ra-events");
+  const heading   = document.getElementById("month-heading");
+  const emptyMsg  = document.getElementById("ra-empty");
+  if (!container) return;
+
+  container.innerHTML = "";
+  if (heading) heading.textContent = "Favourites";
+
+  const favs = getFavourites();
+  const favEvents = allEvents
+    .filter((ev) => favs.has(ev.id))
+    .sort((a, b) => new Date(a.date) - new Date(b.date));
+
+  if (favEvents.length === 0) {
+    container.classList.add("hidden");
+    if (emptyMsg) {
+      emptyMsg.textContent = "No favourites yet — tap ♥ on any event to save it.";
+      emptyMsg.classList.remove("hidden");
+    }
+    return;
+  }
+
+  container.classList.remove("hidden");
+  if (emptyMsg) emptyMsg.classList.add("hidden");
+
+  const list = document.createElement("div");
+  list.className = "events-list";
+  favEvents.forEach((ev) => list.append(buildRow(ev)));
+  container.append(list);
 }
 
 function buildMonthCalendar() {
@@ -290,6 +358,24 @@ async function init() {
 
   buildMonthCalendar();
   renderMonth(new Date().getMonth());
+
+  // Favourites filter button
+  const favFilterBtn = document.getElementById("fav-filter-btn");
+  if (favFilterBtn) {
+    favFilterBtn.addEventListener("click", () => {
+      showingFavourites = !showingFavourites;
+      favFilterBtn.classList.toggle("active", showingFavourites);
+      if (activeTile) activeTile.classList.toggle("dimmed", showingFavourites);
+      if (showingFavourites) {
+        renderFavourites();
+      } else {
+        const currentMonthIndex = activeTile
+          ? [...activeTile.closest(".month-calendar").children].indexOf(activeTile)
+          : new Date().getMonth();
+        renderMonth(currentMonthIndex);
+      }
+    });
+  }
 
   // Footer: show when data was last fetched from RA
   const el = document.getElementById("last-updated");
