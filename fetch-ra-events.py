@@ -68,20 +68,31 @@ def fetch_events(start: str, end: str, page: int = 1) -> list:
     return body["data"]["eventListings"]["data"]
 
 
+def parse_time(time_str: str) -> str:
+    """Extract HH:MM from an ISO datetime string, e.g. '2026-05-28T23:00:00.000Z' → '23:00'."""
+    if not time_str:
+        return ""
+    # Handle both "HH:MM" and full ISO "…THH:MM…"
+    t = time_str[11:16] if "T" in time_str else time_str[:5]
+    return t if len(t) == 5 else ""
+
+
 def map_event(item: dict) -> dict:
     e = item["event"]
     date_str = e["date"][:10]   # "2026-05-28T…" → "2026-05-28"
     artists  = [a["name"] for a in (e.get("artists") or [])]
     venue    = (e.get("venue") or {}).get("name") or "Copenhagen"
     return {
-        "id":      "ra-" + e["id"],
-        "date":    date_str,
-        "title":   e["title"],
-        "venue":   venue + ", Copenhagen",
-        "lineup":  artists,
-        "tickets": "https://ra.co" + e["contentUrl"],
-        "soldOut": e.get("status") == "SOLD_OUT",
-        "flyer":   e.get("flyerFront"),
+        "id":        "ra-" + e["id"],
+        "date":      date_str,
+        "startTime": parse_time(e.get("startTime", "")),
+        "endTime":   parse_time(e.get("endTime", "")),
+        "title":     e["title"],
+        "venue":     venue + ", Copenhagen",
+        "lineup":    artists,
+        "tickets":   "https://ra.co" + e["contentUrl"],
+        "soldOut":   e.get("status") == "SOLD_OUT",
+        "flyer":     e.get("flyerFront"),
     }
 
 

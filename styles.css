@@ -288,10 +288,21 @@ main {
   letter-spacing: 0.04em;
   text-transform: uppercase;
   white-space: nowrap;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
 }
 
 .event-row.upcoming .event-date {
   color: var(--accent);
+}
+
+.event-time {
+  font-family: var(--font-mono);
+  font-size: 0.63rem;
+  color: var(--text-secondary);
+  letter-spacing: 0.03em;
+  text-transform: none;
 }
 
 .event-info {
@@ -380,9 +391,23 @@ main {
 
   .event-row {
     grid-template-columns: 1fr auto;
+    grid-template-rows: auto auto;
+    grid-template-areas:
+      "date tag"
+      "info info";
+    align-items: start;
+    gap: 0.35rem 0.75rem;
   }
 
   .event-row .event-date {
-    display: none;
+    grid-area: date;
+  }
+
+  .event-row .event-info {
+    grid-area: info;
+  }
+
+  .event-row .tag {
+    grid-area: tag;
   }
 }

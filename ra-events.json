@@ -1,11 +1,13 @@
 {
-  "fetched": "2026-05-27T14:30:27",
+  "fetched": "2026-05-28T08:28:47",
   "area": "Copenhagen, Denmark",
   "source": "https://ra.co/events/dk",
   "events": [
     {
       "id": "ra-2438459",
       "date": "2026-05-28",
+      "startTime": "20:00",
+      "endTime": "01:00",
       "title": "28 MAY - Croatian Amor, Scandinavian Star, Moodkiller, Franarchy, Yuki, oqbqbo",
       "venue": "Mayhem, Copenhagen",
       "lineup": [
@@ -25,6 +27,8 @@
     {
       "id": "ra-2428442",
       "date": "2026-05-28",
+      "startTime": "22:00",
+      "endTime": "03:00",
       "title": "FLOOR",
       "venue": "Sigurd CPH, Copenhagen",
       "lineup": [],
@@ -35,6 +39,8 @@
     {
       "id": "ra-2406050",
       "date": "2026-05-28",
+      "startTime": "15:00",
+      "endTime": "21:00",
       "title": "mikey + Minais B // Byhaven",
       "venue": "Byhaven, Copenhagen",
       "lineup": [
@@ -47,6 +53,8 @@
     {
       "id": "ra-2447755",
       "date": "2026-05-28",
+      "startTime": "20:00",
+      "endTime": "23:59",
       "title": "DJ VAMMEN X Galathea",
       "venue": "Galathea, Copenhagen",
       "lineup": [],
@@ -55,8 +63,24 @@
       "flyer": null
     },
     {
+      "id": "ra-2453702",
+      "date": "2026-05-28",
+      "startTime": "22:00",
+      "endTime": "04:00",
+      "title": "NINA MICHELLE x LOUIS WOOD",
+      "venue": "Baggen, Copenhagen",
+      "lineup": [
+        "Nina Michelle"
+      ],
+      "tickets": "https://ra.co/events/2453702",
+      "soldOut": false,
+      "flyer": null
+    },
+    {
       "id": "ra-2419348",
       "date": "2026-05-29",
+      "startTime": "22:00",
+      "endTime": "08:00",
       "title": "ONYVAA / Mikkel Wonsbek / AZADÎ / Midele / Mëtro",
       "venue": "Culture Box, Copenhagen",
       "lineup": [
@@ -73,6 +97,8 @@
     {
       "id": "ra-2441041",
       "date": "2026-05-29",
+      "startTime": "23:59",
+      "endTime": "08:00",
       "title": "Mala Junta",
       "venue": "Den Anden Side, Copenhagen",
       "lineup": [
@@ -86,8 +112,26 @@
       "flyer": null
     },
     {
+      "id": "ra-2412362",
+      "date": "2026-05-29",
+      "startTime": "22:00",
+      "endTime": "04:00",
+      "title": "Presence: INTRO",
+      "venue": "H15 Scene & Studio, Copenhagen",
+      "lineup": [
+        "sendo",
+        "SimSi",
+        "zaymie"
+      ],
+      "tickets": "https://ra.co/events/2412362",
+      "soldOut": false,
+      "flyer": null
+    },
+    {
       "id": "ra-2442690",
       "date": "2026-05-29",
+      "startTime": "22:00",
+      "endTime": "05:00",
       "title": "Unearth: The Twins, Double Virgo, Helen Sun",
       "venue": "Hangaren, Copenhagen",
       "lineup": [
@@ -104,22 +148,10 @@
       "flyer": null
     },
     {
-      "id": "ra-2412362",
-      "date": "2026-05-29",
-      "title": "Presence: INTRO",
-      "venue": "H15 Scene & Studio, Copenhagen",
-      "lineup": [
-        "sendo",
-        "SimSi",
-        "zaymie"
-      ],
-      "tickets": "https://ra.co/events/2412362",
-      "soldOut": false,
-      "flyer": null
-    },
-    {
       "id": "ra-2401339",
       "date": "2026-05-29",
+      "startTime": "22:00",
+      "endTime": "04:00",
       "title": "Spaghetti Disco 4",
       "venue": "Cecil AM, Copenhagen",
       "lineup": [
@@ -133,6 +165,8 @@
     {
       "id": "ra-2448220",
       "date": "2026-05-29",
+      "startTime": "23:59",
+      "endTime": "08:00",
       "title": "TYSTYS X MODULE",
       "venue": "MODULE, Copenhagen",
       "lineup": [
@@ -146,6 +180,8 @@
     {
       "id": "ra-2438098",
       "date": "2026-05-29",
+      "startTime": "20:30",
+      "endTime": "01:00",
       "title": "CLUB DECONSTRUCT VOL.V",
       "venue": "Mayhem, Copenhagen",
       "lineup": [],
@@ -156,6 +192,8 @@
     {
       "id": "ra-2428904",
       "date": "2026-05-29",
+      "startTime": "22:00",
+      "endTime": "04:00",
       "title": "2200",
       "venue": "Sigurd CPH, Copenhagen",
       "lineup": [],
@@ -164,8 +202,26 @@
       "flyer": null
     },
     {
+      "id": "ra-2453708",
+      "date": "2026-05-29",
+      "startTime": "23:00",
+      "endTime": "05:00",
+      "title": "Garage Grooves",
+      "venue": "Baggen, Copenhagen",
+      "lineup": [
+        "Marble",
+        "parashoot",
+        "DAISY"
+      ],
+      "tickets": "https://ra.co/events/2453708",
+      "soldOut": false,
+      "flyer": null
+    },
+    {
       "id": "ra-2397292",
       "date": "2026-05-30",
+      "startTime": "22:00",
+      "endTime": "08:00",
       "title": "Yannick Müller / UMLOUD / ALMOST GINGER / OVERTONE SOUND COLLECTIVE",
       "venue": "Culture Box, Copenhagen",
       "lineup": [
@@ -182,6 +238,8 @@
     {
       "id": "ra-2429679",
       "date": "2026-05-30",
+      "startTime": "22:30",
+      "endTime": "08:00",
       "title": "Yours Truly - 2 Years",
       "venue": "Den Anden Side, Copenhagen",
       "lineup": [
@@ -199,6 +257,8 @@
     {
       "id": "ra-2420439",
       "date": "2026-05-30",
+      "startTime": "15:00",
+      "endTime": "05:00",
       "title": "IMMERSION x Radio PANINI x OO takeover with Objekt",
       "venue": "Jolene, Copenhagen",
       "lineup": [
@@ -225,6 +285,8 @@
     {
       "id": "ra-2415208",
       "date": "2026-05-30",
+      "startTime": "16:00",
+      "endTime": "08:00",
       "title": "Endurance 8 year Anniversary",
       "venue": "Hangaren, Copenhagen",
       "lineup": [
@@ -246,6 +308,8 @@
     {
       "id": "ra-2405559",
       "date": "2026-05-30",
+      "startTime": "23:00",
+      "endTime": "03:00",
       "title": "Dr Dubplate (UK) // Rust Natklub",
       "venue": "RUST Natklub, Copenhagen",
       "lineup": [
@@ -258,6 +322,8 @@
     {
       "id": "ra-2427174",
       "date": "2026-05-30",
+      "startTime": "19:00",
+      "endTime": "23:59",
       "title": "DJ VAMMEN X Galathea",
       "venue": "Galathea, Copenhagen",
       "lineup": [],
@@ -268,6 +334,8 @@
     {
       "id": "ra-2433319",
       "date": "2026-05-30",
+      "startTime": "22:00",
+      "endTime": "04:00",
       "title": "The Remix",
       "venue": "Sigurd CPH, Copenhagen",
       "lineup": [
@@ -280,6 +348,8 @@
     {
       "id": "ra-2453096",
       "date": "2026-05-30",
+      "startTime": "14:00",
+      "endTime": "22:00",
       "title": "Bølgen Beach",
       "venue": "TBA - Havkajakvej 14, Copenhagen",
       "lineup": [],
@@ -290,6 +360,8 @@
     {
       "id": "ra-2453100",
       "date": "2026-05-30",
+      "startTime": "15:00",
+      "endTime": "22:00",
       "title": "Kaj - Din Ven i Solen",
       "venue": "Nemoland, Copenhagen",
       "lineup": [],
@@ -298,8 +370,26 @@
       "flyer": null
     },
     {
+      "id": "ra-2453718",
+      "date": "2026-05-30",
+      "startTime": "18:00",
+      "endTime": "05:00",
+      "title": "My Little Party",
+      "venue": "Baggen, Copenhagen",
+      "lineup": [
+        "Sparkly Pony",
+        "Gavnlig",
+        "Rita Blue"
+      ],
+      "tickets": "https://ra.co/events/2453718",
+      "soldOut": false,
+      "flyer": null
+    },
+    {
       "id": "ra-2429219",
       "date": "2026-05-31",
+      "startTime": "13:00",
+      "endTime": "21:00",
       "title": "Zeitgeist: Under The Sun // Byhaven",
       "venue": "Byhaven, Copenhagen",
       "lineup": [
@@ -316,6 +406,8 @@
     {
       "id": "ra-2384151",
       "date": "2026-06-01",
+      "startTime": "18:00",
+      "endTime": "23:00",
       "title": "Massive Attack - Royal Arena",
       "venue": "Royal Arena, Copenhagen",
       "lineup": [
@@ -328,6 +420,8 @@
     {
       "id": "ra-2419293",
       "date": "2026-06-02",
+      "startTime": "19:30",
+      "endTime": "23:59",
       "title": "PRAED in København",
       "venue": "Basement Vesterbro, Copenhagen",
       "lineup": [
@@ -340,6 +434,8 @@
     {
       "id": "ra-2191591",
       "date": "2026-06-03",
+      "startTime": "16:00",
+      "endTime": "22:00",
       "title": "Distortion | 3–7 June 2026",
       "venue": "Hangaren, Copenhagen",
       "lineup": [
@@ -397,6 +493,8 @@
     {
       "id": "ra-2436173",
       "date": "2026-06-03",
+      "startTime": "16:00",
+      "endTime": "23:59",
       "title": "Black Coffee - Copenhagen City Hall Square",
       "venue": "Copenhagen City Hall Square, Copenhagen",
       "lineup": [
@@ -410,6 +508,8 @@
     {
       "id": "ra-2421089",
       "date": "2026-06-03",
+      "startTime": "19:00",
+      "endTime": "23:00",
       "title": "Nuovo Testamento (IT/US) // RUST",
       "venue": "RUST, Copenhagen",
       "lineup": [],
@@ -420,6 +520,8 @@
     {
       "id": "ra-2191591",
       "date": "2026-06-03",
+      "startTime": "16:00",
+      "endTime": "22:00",
       "title": "Distortion | 3–7 June 2026",
       "venue": "Hangaren, Copenhagen",
       "lineup": [
@@ -477,6 +579,8 @@
     {
       "id": "ra-2191591",
       "date": "2026-06-03",
+      "startTime": "16:00",
+      "endTime": "22:00",
       "title": "Distortion | 3–7 June 2026",
       "venue": "Hangaren, Copenhagen",
       "lineup": [
@@ -534,6 +638,8 @@
     {
       "id": "ra-2191591",
       "date": "2026-06-03",
+      "startTime": "16:00",
+      "endTime": "22:00",
       "title": "Distortion | 3–7 June 2026",
       "venue": "Hangaren, Copenhagen",
       "lineup": [
@@ -591,6 +697,8 @@
     {
       "id": "ra-2191591",
       "date": "2026-06-03",
+      "startTime": "16:00",
+      "endTime": "22:00",
       "title": "Distortion | 3–7 June 2026",
       "venue": "Hangaren, Copenhagen",
       "lineup": [
@@ -648,6 +756,8 @@
     {
       "id": "ra-2437719",
       "date": "2026-06-04",
+      "startTime": "22:00",
+      "endTime": "05:00",
       "title": "Distortion Club: Extrawelt",
       "venue": "Den Anden Side, Copenhagen",
       "lineup": [
@@ -661,6 +771,8 @@
     {
       "id": "ra-2401577",
       "date": "2026-06-04",
+      "startTime": "22:00",
+      "endTime": "05:00",
       "title": "Distortion Club: Denis Horvat / Tim Andresen / Skarn / NAYZ / AK",
       "venue": "Culture Box, Copenhagen",
       "lineup": [
@@ -675,6 +787,8 @@
     {
       "id": "ra-2444804",
       "date": "2026-06-04",
+      "startTime": "16:00",
+      "endTime": "22:00",
       "title": "BLOCK PARTY W/ Young Marco (NL) & MORE",
       "venue": "TBA - SØNDER BOULEVARD 110, Copenhagen",
       "lineup": [
@@ -690,6 +804,8 @@
     {
       "id": "ra-2449931",
       "date": "2026-06-04",
+      "startTime": "23:00",
+      "endTime": "06:00",
       "title": "RADIO PANINI x Distortion Street Party: The Red Truck",
       "venue": "TBA - halmtorvet 38, 1700, Copenhagen, Copenhagen",
       "lineup": [
@@ -707,6 +823,8 @@
     {
       "id": "ra-2437059",
       "date": "2026-06-04",
+      "startTime": "16:00",
+      "endTime": "22:00",
       "title": "TECH THE STREETS # 2026",
       "venue": "TBA - Dybbølsgade 14, Copenhagen",
       "lineup": [
@@ -723,6 +841,8 @@
     {
       "id": "ra-2394809",
       "date": "2026-06-04",
+      "startTime": "21:00",
+      "endTime": "23:59",
       "title": "Skt. Delarge & St. Digue // Basement",
       "venue": "Basement Vesterbro, Copenhagen",
       "lineup": [
@@ -735,6 +855,8 @@
     {
       "id": "ra-2448241",
       "date": "2026-06-04",
+      "startTime": "23:00",
+      "endTime": "07:00",
       "title": "DISTORTION CLUB X MODULE: Don Woezik (SE)",
       "venue": "MODULE, Copenhagen",
       "lineup": [
@@ -752,6 +874,8 @@
     {
       "id": "ra-2446647",
       "date": "2026-06-04",
+      "startTime": "22:00",
+      "endTime": "03:00",
       "title": "Open Decks & Ping Pong (Distortion afterhours)",
       "venue": "H15 Scene & Studio, Copenhagen",
       "lineup": [
@@ -766,6 +890,8 @@
     {
       "id": "ra-2449956",
       "date": "2026-06-04",
+      "startTime": "22:00",
+      "endTime": "04:00",
       "title": "Panini by Night x Distortion Club with Secret Lineup ",
       "venue": "Jolene, Copenhagen",
       "lineup": [],
@@ -776,6 +902,8 @@
     {
       "id": "ra-2450693",
       "date": "2026-06-04",
+      "startTime": "22:30",
+      "endTime": "03:00",
       "title": "næ",
       "venue": "Café Bopa, Copenhagen",
       "lineup": [
@@ -788,6 +916,8 @@
     {
       "id": "ra-2445685",
       "date": "2026-06-04",
+      "startTime": "22:00",
+      "endTime": "03:00",
       "title": "FLOOR",
       "venue": "Sigurd CPH, Copenhagen",
       "lineup": [],
@@ -798,6 +928,8 @@
     {
       "id": "ra-2453088",
       "date": "2026-06-04",
+      "startTime": "16:00",
+      "endTime": "22:00",
       "title": "Udonno Chillout @ Distortion Street Party",
       "venue": "Udonno Store Vesterbro, Copenhagen",
       "lineup": [
@@ -813,6 +945,8 @@
     {
       "id": "ra-2453089",
       "date": "2026-06-04",
+      "startTime": "16:00",
+      "endTime": "22:00",
       "title": "WOMEN ON DECK",
       "venue": "TBA - Halmtorvet 48, Copenhagen",
       "lineup": [
@@ -827,6 +961,8 @@
     {
       "id": "ra-2453091",
       "date": "2026-06-04",
+      "startTime": "16:00",
+      "endTime": "22:00",
       "title": "Rootikal Station 2 day Soundsystem Yardeh",
       "venue": "Refshaleøen, Copenhagen",
       "lineup": [],
@@ -837,6 +973,8 @@
     {
       "id": "ra-2453091",
       "date": "2026-06-04",
+      "startTime": "16:00",
+      "endTime": "22:00",
       "title": "Rootikal Station 2 day Soundsystem Yardeh",
       "venue": "Refshaleøen, Copenhagen",
       "lineup": [],
@@ -847,6 +985,8 @@
     {
       "id": "ra-2423247",
       "date": "2026-06-05",
+      "startTime": "22:00",
+      "endTime": "08:00",
       "title": "Distortion Club: SOMMA / SCHAARUP / FREDE / RØNHÖFF & LOUIN / THE OMG",
       "venue": "Culture Box, Copenhagen",
       "lineup": [
@@ -861,6 +1001,8 @@
     {
       "id": "ra-2444318",
       "date": "2026-06-05",
+      "startTime": "23:59",
+      "endTime": "08:00",
       "title": "Distortion Club: Enter the Void — Volume 2",
       "venue": "Den Anden Side, Copenhagen",
       "lineup": [
@@ -875,6 +1017,8 @@
     {
       "id": "ra-2426530",
       "date": "2026-06-05",
+      "startTime": "16:00",
+      "endTime": "23:00",
       "title": "Klub Werkstatt x Distortion Havnefest",
       "venue": "Klub Werkstatt, Copenhagen",
       "lineup": [
@@ -892,6 +1036,8 @@
     {
       "id": "ra-2426520",
       "date": "2026-06-05",
+      "startTime": "23:00",
+      "endTime": "04:00",
       "title": "Distortion Club X Klub Werkstatt",
       "venue": "Klub Werkstatt, Copenhagen",
       "lineup": [
@@ -909,6 +1055,8 @@
     {
       "id": "ra-2446892",
       "date": "2026-06-05",
+      "startTime": "22:00",
+      "endTime": "05:00",
       "title": "slow dance x Jolene x Distortion",
       "venue": "Jolene, Copenhagen",
       "lineup": [
@@ -927,6 +1075,8 @@
     {
       "id": "ra-2393262",
       "date": "2026-06-05",
+      "startTime": "18:00",
+      "endTime": "06:00",
       "title": "Teletech x Distortion Ø, Copenhagen",
       "venue": "TBA - Refshaleøen, Copenhagen, Copenhagen",
       "lineup": [
@@ -948,6 +1098,8 @@
     {
       "id": "ra-2441551",
       "date": "2026-06-05",
+      "startTime": "23:00",
+      "endTime": "05:00",
       "title": "Jay Tripwire / Ricardo Roessel",
       "venue": "Baggen, Copenhagen",
       "lineup": [
@@ -961,6 +1113,8 @@
     {
       "id": "ra-2445763",
       "date": "2026-06-05",
+      "startTime": "23:00",
+      "endTime": "04:00",
       "title": "2200",
       "venue": "Sigurd CPH, Copenhagen",
       "lineup": [
@@ -973,6 +1127,8 @@
     {
       "id": "ra-2393262",
       "date": "2026-06-05",
+      "startTime": "18:00",
+      "endTime": "06:00",
       "title": "Teletech x Distortion Ø, Copenhagen",
       "venue": "TBA - Refshaleøen, Copenhagen, Copenhagen",
       "lineup": [
@@ -994,6 +1150,8 @@
     {
       "id": "ra-2395056",
       "date": "2026-06-06",
+      "startTime": "22:00",
+      "endTime": "08:00",
       "title": "Drum & Bass Klubben: UOGA / Bobby 6 Killa / HDN / DJ Breakfast / Maxi Mo / L.A.D.J",
       "venue": "Culture Box, Copenhagen",
       "lineup": [
@@ -1007,6 +1165,8 @@
     {
       "id": "ra-2449955",
       "date": "2026-06-06",
+      "startTime": "22:00",
+      "endTime": "04:00",
       "title": "COUNTDOWN",
       "venue": "Sigurd CPH, Copenhagen",
       "lineup": [
@@ -1019,6 +1179,8 @@
     {
       "id": "ra-2453090",
       "date": "2026-06-06",
+      "startTime": "20:00",
+      "endTime": "23:59",
       "title": "Movement Shaped Like a Heart presents",
       "venue": "Huset I Magstræde, Copenhagen",
       "lineup": [],
@@ -1029,6 +1191,8 @@
     {
       "id": "ra-2439007",
       "date": "2026-06-07",
+      "startTime": "12:00",
+      "endTime": "23:59",
       "title": "All Dayer with special guest Dee Brown",
       "venue": "H15 Scene & Studio, Copenhagen",
       "lineup": [
@@ -1043,6 +1207,8 @@
     {
       "id": "ra-2452981",
       "date": "2026-06-07",
+      "startTime": "12:00",
+      "endTime": "21:00",
       "title": "SUNRAVE SESSIONS x RESONANZ",
       "venue": "H15 Scene & Studio, Copenhagen",
       "lineup": [
@@ -1057,6 +1223,8 @@
     {
       "id": "ra-2421087",
       "date": "2026-06-09",
+      "startTime": "19:00",
+      "endTime": "23:00",
       "title": "Kumo 99 (US) // RUST",
       "venue": "RUST, Copenhagen",
       "lineup": [],
@@ -1067,6 +1235,8 @@
     {
       "id": "ra-2431500",
       "date": "2026-06-09",
+      "startTime": "20:00",
+      "endTime": "21:00",
       "title": "Pitchblack Playback: Radiohead 'Amnesiac' (25th Anniversary)",
       "venue": "Empire Bio, Copenhagen",
       "lineup": [],
@@ -1077,6 +1247,8 @@
     {
       "id": "ra-2421090",
       "date": "2026-06-10",
+      "startTime": "19:00",
+      "endTime": "23:00",
       "title": "Swordes (US) // RUST",
       "venue": "RUST, Copenhagen",
       "lineup": [
@@ -1089,6 +1261,8 @@
     {
       "id": "ra-2421094",
       "date": "2026-06-11",
+      "startTime": "19:00",
+      "endTime": "23:00",
       "title": "Alto Aria + Francesca Burattelli // RUST",
       "venue": "RUST, Copenhagen",
       "lineup": [
@@ -1102,6 +1276,8 @@
     {
       "id": "ra-2439739",
       "date": "2026-06-11",
+      "startTime": "20:00",
+      "endTime": "23:59",
       "title": "Sofie Birch x OTOOTO / Hotel Cecil / Copenhagen Jazz Festival",
       "venue": "Hotel Cecil, Copenhagen",
       "lineup": [
@@ -1112,8 +1288,26 @@
       "flyer": null
     },
     {
+      "id": "ra-2453488",
+      "date": "2026-06-11",
+      "startTime": "20:00",
+      "endTime": "01:00",
+      "title": "RUN THE RAVE: spin-off [episode 4]",
+      "venue": "Kraftwerket, Copenhagen",
+      "lineup": [
+        "Dwonji",
+        "HDN (DK)",
+        "Delff"
+      ],
+      "tickets": "https://ra.co/events/2453488",
+      "soldOut": false,
+      "flyer": null
+    },
+    {
       "id": "ra-2407145",
       "date": "2026-06-12",
+      "startTime": "22:00",
+      "endTime": "08:00",
       "title": "Peccāvī: NoNameLeft / Aja Gulris / Only Ollie / CERJ / tadoh / VÄM",
       "venue": "Culture Box, Copenhagen",
       "lineup": [
@@ -1130,6 +1324,8 @@
     {
       "id": "ra-2451095",
       "date": "2026-06-12",
+      "startTime": "23:59",
+      "endTime": "08:00",
       "title": "WEEEIRDOS with Chippy Nonstop, LOLSNAKE and Neri J",
       "venue": "Den Anden Side, Copenhagen",
       "lineup": [
@@ -1144,6 +1340,8 @@
     {
       "id": "ra-2413629",
       "date": "2026-06-12",
+      "startTime": "23:00",
+      "endTime": "05:00",
       "title": "Cinderella",
       "venue": "Søpavillonen, Copenhagen",
       "lineup": [
@@ -1156,6 +1354,8 @@
     {
       "id": "ra-2448254",
       "date": "2026-06-12",
+      "startTime": "23:00",
+      "endTime": "06:00",
       "title": "Staggered Discotheque: djGEM, Fruit DJ, DJ JM",
       "venue": "Baggen, Copenhagen",
       "lineup": [
@@ -1169,6 +1369,8 @@
     {
       "id": "ra-2412386",
       "date": "2026-06-13",
+      "startTime": "22:00",
+      "endTime": "08:00",
       "title": "Storken / Brynjolfur / Mousan Corr / Flight Crew: Jonas Tuk / Cousin Albert",
       "venue": "Culture Box, Copenhagen",
       "lineup": [
@@ -1184,6 +1386,8 @@
     {
       "id": "ra-2346727",
       "date": "2026-06-13",
+      "startTime": "15:00",
+      "endTime": "22:00",
       "title": "MAINSTREAM - Open Air",
       "venue": "Byhaven, Copenhagen",
       "lineup": [
@@ -1199,6 +1403,8 @@
     {
       "id": "ra-2445635",
       "date": "2026-06-13",
+      "startTime": "13:00",
+      "endTime": "22:00",
       "title": "Syntharax & Den Anden Side: Det Kolde Bord in Mimersparken, Nørrebro",
       "venue": "Mimersparken, Copenhagen",
       "lineup": [
@@ -1212,6 +1418,8 @@
     {
       "id": "ra-2443299",
       "date": "2026-06-13",
+      "startTime": "19:00",
+      "endTime": "23:00",
       "title": "GAZE - AN INVITATION TO LISTEN",
       "venue": "Empire Bio, Copenhagen",
       "lineup": [
@@ -1226,6 +1434,8 @@
     {
       "id": "ra-2439741",
       "date": "2026-06-18",
+      "startTime": "20:00",
+      "endTime": "23:59",
       "title": "Tom Misch // VEGA",
       "venue": "VEGA, Copenhagen",
       "lineup": [],
@@ -1236,6 +1446,8 @@
     {
       "id": "ra-2384188",
       "date": "2026-06-18",
+      "startTime": "20:00",
+      "endTime": "23:59",
       "title": "Youth Code (US)",
       "venue": "Beta, Copenhagen",
       "lineup": [],
@@ -1246,6 +1458,8 @@
     {
       "id": "ra-2421095",
       "date": "2026-06-18",
+      "startTime": "19:00",
+      "endTime": "23:00",
       "title": "Dame Area (ES) // RUST",
       "venue": "RUST, Copenhagen",
       "lineup": [
@@ -1258,6 +1472,8 @@
     {
       "id": "ra-2453092",
       "date": "2026-06-18",
+      "startTime": "19:00",
+      "endTime": "23:00",
       "title": "SPOILR x Øyunn at ALICE",
       "venue": "ALICE, Copenhagen",
       "lineup": [],
@@ -1268,6 +1484,8 @@
     {
       "id": "ra-2383073",
       "date": "2026-06-19",
+      "startTime": "22:00",
+      "endTime": "07:00",
       "title": "OPEN CALL FOR ARTISTS: DENIS / CARLA SJØLUND / LISA KAYE / BA$H / MONTAÑA / ESMØRGA / EMMA PRII",
       "venue": "Culture Box, Copenhagen",
       "lineup": [],
@@ -1278,6 +1496,8 @@
     {
       "id": "ra-2449974",
       "date": "2026-06-19",
+      "startTime": "23:59",
+      "endTime": "08:00",
       "title": "FOMO Vol. 4: 50 Blades of Slay",
       "venue": "Den Anden Side, Copenhagen",
       "lineup": [
@@ -1292,6 +1512,8 @@
     {
       "id": "ra-2437976",
       "date": "2026-06-19",
+      "startTime": "16:00",
+      "endTime": "02:00",
       "title": "SoundSet: midsummer mini-festival",
       "venue": "Sidste Mole, Copenhagen",
       "lineup": [],
@@ -1302,6 +1524,8 @@
     {
       "id": "ra-2450646",
       "date": "2026-06-19",
+      "startTime": "17:00",
+      "endTime": "04:00",
       "title": "Burgerfest",
       "venue": "FUKK, Copenhagen",
       "lineup": [
@@ -1315,6 +1539,8 @@
     {
       "id": "ra-2424086",
       "date": "2026-06-20",
+      "startTime": "22:00",
+      "endTime": "08:00",
       "title": "What Happens: Nicolas Rada / Alejo Fochi / Tim Andresen / Shansen / Lele / AYELEN",
       "venue": "Culture Box, Copenhagen",
       "lineup": [
@@ -1330,6 +1556,8 @@
     {
       "id": "ra-2405358",
       "date": "2026-06-20",
+      "startTime": "16:00",
+      "endTime": "00:00",
       "title": "Beat Symposium 2026",
       "venue": "Poolen, Copenhagen",
       "lineup": [
@@ -1346,6 +1574,8 @@
     {
       "id": "ra-2427157",
       "date": "2026-06-20",
+      "startTime": "22:00",
+      "endTime": "04:00",
       "title": "SPEKTRUM",
       "venue": "Pladeværkstedet, Copenhagen",
       "lineup": [
@@ -1361,6 +1591,8 @@
     {
       "id": "ra-2346626",
       "date": "2026-06-20",
+      "startTime": "19:00",
+      "endTime": "23:00",
       "title": "Tricky (Special Guest: Marta Zlakowska)",
       "venue": "VEGA, Copenhagen",
       "lineup": [
@@ -1373,6 +1605,8 @@
     {
       "id": "ra-2419810",
       "date": "2026-06-26",
+      "startTime": "22:00",
+      "endTime": "08:00",
       "title": "Theory X Showcase: Sezer Uysal / NILU / REXIE LEX / Diogo Accioly / Severin",
       "venue": "Culture Box, Copenhagen",
       "lineup": [
@@ -1388,6 +1622,8 @@
     {
       "id": "ra-2449982",
       "date": "2026-06-26",
+      "startTime": "21:30",
+      "endTime": "08:00",
       "title": "Whipped #4 with RUIZ OSC1",
       "venue": "Den Anden Side, Copenhagen",
       "lineup": [
@@ -1402,6 +1638,8 @@
     {
       "id": "ra-2425627",
       "date": "2026-06-27",
+      "startTime": "22:00",
+      "endTime": "08:00",
       "title": "Solstice Echo: OnsBerg / Arya / Kaliszan / SoundConnects: Ooops / Sandy P B2B Kalinka / Maedita",
       "venue": "Culture Box, Copenhagen",
       "lineup": [
@@ -1415,6 +1653,8 @@
     {
       "id": "ra-2436839",
       "date": "2026-06-27",
+      "startTime": "15:00",
+      "endTime": "21:00",
       "title": "Techno In The Garden - summer 26",
       "venue": "Byhaven, Copenhagen",
       "lineup": [
@@ -1427,6 +1667,8 @@
     {
       "id": "ra-2439879",
       "date": "2026-07-03",
+      "startTime": "22:00",
+      "endTime": "08:00",
       "title": "ALI3N / PAVI / Rexxx M / SoundVibe: StefAir B2B VI/TO / CøkiT / Anders HP B2B Pab Disco",
       "venue": "Culture Box, Copenhagen",
       "lineup": [
@@ -1444,6 +1686,8 @@
     {
       "id": "ra-2394296",
       "date": "2026-07-03",
+      "startTime": "21:00",
+      "endTime": "04:00",
       "title": "Magic City- Copenhagen Jazz Festival (AFTER PARTY)",
       "venue": "H15 Scene & Studio, Copenhagen",
       "lineup": [
@@ -1454,11 +1698,36 @@
       "flyer": null
     },
     {
+      "id": "ra-2453525",
+      "date": "2026-07-04",
+      "startTime": "23:00",
+      "endTime": "04:00",
+      "title": "Culture Box presents OLING",
+      "venue": "Culture Box, Copenhagen",
+      "lineup": [
+        "OLING"
+      ],
+      "tickets": "https://ra.co/events/2453525",
+      "soldOut": false,
+      "flyer": null
+    },
+    {
       "id": "ra-2398186",
       "date": "2026-07-10",
+      "startTime": "16:00",
+      "endTime": "23:59",
       "title": "CULTURE BOX CHILLOUT 2026",
       "venue": "TBA - Østre Anlæg, Stockholmsgade 20, 2100 København., Copenhagen",
-      "lineup": [],
+      "lineup": [
+        "El Mundo",
+        "Tim Andresen",
+        "Eski",
+        "Gerssein",
+        "Djuma Soundsystem",
+        "Bow Miller",
+        "GÆO",
+        "Ida Daugaard"
+      ],
       "tickets": "https://ra.co/events/2398186",
       "soldOut": false,
       "flyer": null
@@ -1466,6 +1735,8 @@
     {
       "id": "ra-2431515",
       "date": "2026-07-10",
+      "startTime": "22:00",
+      "endTime": "07:00",
       "title": "Culture Box Chillout Afterparty: ANII / Almost Ginger / Klarskov / THE SWEET SPOT",
       "venue": "Culture Box, Copenhagen",
       "lineup": [
@@ -1479,6 +1750,8 @@
     {
       "id": "ra-2444729",
       "date": "2026-07-10",
+      "startTime": "20:00",
+      "endTime": "06:00",
       "title": "Summer Season Opening: DJ BORING",
       "venue": "Hangaren, Copenhagen",
       "lineup": [
@@ -1491,6 +1764,8 @@
     {
       "id": "ra-2453095",
       "date": "2026-07-10",
+      "startTime": "22:00",
+      "endTime": "01:00",
       "title": "Rumpistol Residency",
       "venue": "H15 Scene & Studio, Copenhagen",
       "lineup": [
@@ -1503,9 +1778,20 @@
     {
       "id": "ra-2398186",
       "date": "2026-07-10",
+      "startTime": "16:00",
+      "endTime": "23:59",
       "title": "CULTURE BOX CHILLOUT 2026",
       "venue": "TBA - Østre Anlæg, Stockholmsgade 20, 2100 København., Copenhagen",
-      "lineup": [],
+      "lineup": [
+        "El Mundo",
+        "Tim Andresen",
+        "Eski",
+        "Gerssein",
+        "Djuma Soundsystem",
+        "Bow Miller",
+        "GÆO",
+        "Ida Daugaard"
+      ],
       "tickets": "https://ra.co/events/2398186",
       "soldOut": false,
       "flyer": null
@@ -1513,6 +1799,8 @@
     {
       "id": "ra-2436168",
       "date": "2026-07-11",
+      "startTime": "22:00",
+      "endTime": "07:00",
       "title": "Culture Box Chillout Afterparty: Pascale Voltaire / MISS ALBA / Safe Spacers / Household",
       "venue": "Culture Box, Copenhagen",
       "lineup": [
@@ -1526,6 +1814,8 @@
     {
       "id": "ra-2426726",
       "date": "2026-07-11",
+      "startTime": "15:00",
+      "endTime": "00:00",
       "title": "Gravity Beach Festival - Copenhagen",
       "venue": "Amager Strandpark, Copenhagen",
       "lineup": [
@@ -1538,6 +1828,8 @@
     {
       "id": "ra-2427675",
       "date": "2026-07-11",
+      "startTime": "15:00",
+      "endTime": "23:59",
       "title": "Bas Under Buen 2026",
       "venue": "Bispeengbuen, Copenhagen",
       "lineup": [],
@@ -1548,6 +1840,8 @@
     {
       "id": "ra-2446695",
       "date": "2026-07-16",
+      "startTime": "19:00",
+      "endTime": "02:00",
       "title": "Open Decks & Ping Pong",
       "venue": "H15 Scene & Studio, Copenhagen",
       "lineup": [
@@ -1561,6 +1855,8 @@
     {
       "id": "ra-2427839",
       "date": "2026-07-17",
+      "startTime": "22:00",
+      "endTime": "08:00",
       "title": "HOTBOX JULY: B From E / avoN / JACOBXFREY / HORNS",
       "venue": "Culture Box, Copenhagen",
       "lineup": [
@@ -1575,6 +1871,8 @@
     {
       "id": "ra-2444731",
       "date": "2026-07-17",
+      "startTime": "20:00",
+      "endTime": "06:00",
       "title": "Hangaren x Culture Box: Ida Engberg, Tim Andresen, MiniMalene, Rexie Lex, Thiim",
       "venue": "Hangaren, Copenhagen",
       "lineup": [
@@ -1590,6 +1888,8 @@
     {
       "id": "ra-2446946",
       "date": "2026-07-18",
+      "startTime": "22:00",
+      "endTime": "07:00",
       "title": "Ricardo Roessel / KC Wray / CCTV",
       "venue": "Culture Box, Copenhagen",
       "lineup": [
@@ -1604,6 +1904,8 @@
     {
       "id": "ra-2428227",
       "date": "2026-07-18",
+      "startTime": "21:00",
+      "endTime": "04:00",
       "title": "Hernan Cattaneo x DISTRIKT SOUTH",
       "venue": "Poolen, Copenhagen",
       "lineup": [
@@ -1617,6 +1919,8 @@
     {
       "id": "ra-2442343",
       "date": "2026-07-25",
+      "startTime": "22:00",
+      "endTime": "08:00",
       "title": "IGNITE: RELO4D / Stefan Soare [Live] / Rexie Lex / Ivan Ibarra / Thor Calin",
       "venue": "Culture Box, Copenhagen",
       "lineup": [
@@ -1631,6 +1935,8 @@
     {
       "id": "ra-2444733",
       "date": "2026-07-26",
+      "startTime": "16:00",
+      "endTime": "23:59",
       "title": "Sunday Psy: DJ MARIA ",
       "venue": "Hangaren, Copenhagen",
       "lineup": [
@@ -1643,6 +1949,8 @@
     {
       "id": "ra-2318730",
       "date": "2026-07-30",
+      "startTime": "13:00",
+      "endTime": "01:00",
       "title": "O Days 2026",
       "venue": "Sønder Hoved, Copenhagen",
       "lineup": [
@@ -1670,6 +1978,8 @@
     {
       "id": "ra-2318730",
       "date": "2026-07-30",
+      "startTime": "13:00",
+      "endTime": "01:00",
       "title": "O Days 2026",
       "venue": "Sønder Hoved, Copenhagen",
       "lineup": [
@@ -1697,6 +2007,8 @@
     {
       "id": "ra-2444736",
       "date": "2026-07-31",
+      "startTime": "20:00",
+      "endTime": "06:00",
       "title": "Trancemaster Krause, Ollie Lishman",
       "venue": "Hangaren, Copenhagen",
       "lineup": [
@@ -1710,6 +2022,8 @@
     {
       "id": "ra-2448897",
       "date": "2026-08-01",
+      "startTime": "22:00",
+      "endTime": "08:00",
       "title": "NECKLESS",
       "venue": "Culture Box, Copenhagen",
       "lineup": [
@@ -1728,6 +2042,8 @@
     {
       "id": "ra-2444741",
       "date": "2026-08-01",
+      "startTime": "20:00",
+      "endTime": "06:00",
       "title": "DJ Tennis",
       "venue": "Hangaren, Copenhagen",
       "lineup": [
@@ -1740,6 +2056,8 @@
     {
       "id": "ra-2400145",
       "date": "2026-08-06",
+      "startTime": "20:00",
+      "endTime": "23:00",
       "title": "Neil Frances (DJ set)",
       "venue": "Hotel Cecil, Copenhagen",
       "lineup": [
@@ -1752,6 +2070,8 @@
     {
       "id": "ra-2446696",
       "date": "2026-08-06",
+      "startTime": "19:00",
+      "endTime": "02:00",
       "title": "Open Decks & Ping Pong",
       "venue": "H15 Scene & Studio, Copenhagen",
       "lineup": [
@@ -1765,6 +2085,8 @@
     {
       "id": "ra-2444744",
       "date": "2026-08-08",
+      "startTime": "20:00",
+      "endTime": "06:00",
       "title": "Effy",
       "venue": "Hangaren, Copenhagen",
       "lineup": [
@@ -1777,6 +2099,8 @@
     {
       "id": "ra-2421097",
       "date": "2026-08-09",
+      "startTime": "19:00",
+      "endTime": "23:00",
       "title": "MISSIO (US) // RUST",
       "venue": "RUST, Copenhagen",
       "lineup": [],
@@ -1787,6 +2111,8 @@
     {
       "id": "ra-2437917",
       "date": "2026-08-13",
+      "startTime": "20:00",
+      "endTime": "23:00",
       "title": "Vinocio Copenhagen 2026",
       "venue": "H15 Scene & Studio, Copenhagen",
       "lineup": [
@@ -1799,6 +2125,8 @@
     {
       "id": "ra-2452029",
       "date": "2026-08-14",
+      "startTime": "22:00",
+      "endTime": "07:00",
       "title": "THE SHAKER ROOM: Shay De Castro / Naiva / Midele / RO / Ama Lien",
       "venue": "Culture Box, Copenhagen",
       "lineup": [
@@ -1814,6 +2142,8 @@
     {
       "id": "ra-2421099",
       "date": "2026-08-21",
+      "startTime": "19:00",
+      "endTime": "23:00",
       "title": "Takuya Nakamura (JP) // RUST",
       "venue": "RUST, Copenhagen",
       "lineup": [
@@ -1826,6 +2156,8 @@
     {
       "id": "ra-2346747",
       "date": "2026-08-22",
+      "startTime": "15:00",
+      "endTime": "22:00",
       "title": "MAINSTREAM PRIDE",
       "venue": "Byhaven, Copenhagen",
       "lineup": [],
@@ -1836,6 +2168,8 @@
     {
       "id": "ra-2248516",
       "date": "2026-08-27",
+      "startTime": "18:00",
+      "endTime": "03:00",
       "title": "Karrusel | 27–29 Aug 2026",
       "venue": "Hangaren, Copenhagen",
       "lineup": [
@@ -1888,6 +2222,8 @@
     {
       "id": "ra-2248516",
       "date": "2026-08-27",
+      "startTime": "18:00",
+      "endTime": "03:00",
       "title": "Karrusel | 27–29 Aug 2026",
       "venue": "Hangaren, Copenhagen",
       "lineup": [
@@ -1940,6 +2276,8 @@
     {
       "id": "ra-2248516",
       "date": "2026-08-27",
+      "startTime": "18:00",
+      "endTime": "03:00",
       "title": "Karrusel | 27–29 Aug 2026",
       "venue": "Hangaren, Copenhagen",
       "lineup": [
@@ -1992,6 +2330,8 @@
     {
       "id": "ra-2445895",
       "date": "2026-08-28",
+      "startTime": "22:00",
+      "endTime": "08:00",
       "title": "Drum & Bass Klubben: Taxman + Drum & Bass Klubben / Elevate presents Bass Rave",
       "venue": "Culture Box, Copenhagen",
       "lineup": [
@@ -2011,6 +2351,8 @@
     {
       "id": "ra-2411708",
       "date": "2026-09-02",
+      "startTime": "19:00",
+      "endTime": "23:00",
       "title": "Final Descent: Mohammad Reza Mortazavi",
       "venue": "Basement Vesterbro, Copenhagen",
       "lineup": [
@@ -2023,6 +2365,8 @@
     {
       "id": "ra-2446699",
       "date": "2026-09-03",
+      "startTime": "19:00",
+      "endTime": "02:00",
       "title": "Open Decks & Ping Pong",
       "venue": "H15 Scene & Studio, Copenhagen",
       "lineup": [
@@ -2036,6 +2380,8 @@
     {
       "id": "ra-2439750",
       "date": "2026-09-05",
+      "startTime": "20:00",
+      "endTime": "23:00",
       "title": "Dengue Dengue Dengue (PE)",
       "venue": "ALICE, Copenhagen",
       "lineup": [
@@ -2048,6 +2394,8 @@
     {
       "id": "ra-2439953",
       "date": "2026-09-07",
+      "startTime": "23:00",
+      "endTime": "06:00",
       "title": "Berverly Glenn-Copeland (CA)",
       "venue": "Bellevue Teatret, Copenhagen",
       "lineup": [
@@ -2060,6 +2408,8 @@
     {
       "id": "ra-2402534",
       "date": "2026-09-11",
+      "startTime": "15:00",
+      "endTime": "23:59",
       "title": "&ME and Adam Port (Keinemusik) – Copenhagen 2026",
       "venue": "Valby Park - Gryden, Copenhagen",
       "lineup": [
@@ -2073,6 +2423,8 @@
     {
       "id": "ra-2416939",
       "date": "2026-09-11",
+      "startTime": "15:00",
+      "endTime": "23:59",
       "title": "IMPACT FESTIVAL 2026",
       "venue": "Trifolium, Copenhagen",
       "lineup": [
@@ -2087,6 +2439,8 @@
     {
       "id": "ra-2416939",
       "date": "2026-09-11",
+      "startTime": "15:00",
+      "endTime": "23:59",
       "title": "IMPACT FESTIVAL 2026",
       "venue": "Trifolium, Copenhagen",
       "lineup": [
@@ -2101,6 +2455,8 @@
     {
       "id": "ra-2413631",
       "date": "2026-09-18",
+      "startTime": "23:00",
+      "endTime": "05:00",
       "title": "Cinderella",
       "venue": "Søpavillonen, Copenhagen",
       "lineup": [
@@ -2114,6 +2470,8 @@
     {
       "id": "ra-2364521",
       "date": "2026-09-19",
+      "startTime": "20:00",
+      "endTime": "23:59",
       "title": "tonser // Pumpehuset",
       "venue": "Pumpehuset, Copenhagen",
       "lineup": [
@@ -2126,6 +2484,8 @@
     {
       "id": "ra-2364521",
       "date": "2026-09-19",
+      "startTime": "20:00",
+      "endTime": "23:59",
       "title": "tonser // Pumpehuset",
       "venue": "Pumpehuset, Copenhagen",
       "lineup": [
@@ -2138,6 +2498,8 @@
     {
       "id": "ra-2421898",
       "date": "2026-09-25",
+      "startTime": "20:30",
+      "endTime": "05:00",
       "title": "Etnica 30 Years Celebration - Origin Of Trance",
       "venue": "Pumpehuset, Copenhagen",
       "lineup": [],
@@ -2148,6 +2510,8 @@
     {
       "id": "ra-2452375",
       "date": "2026-09-26",
+      "startTime": "19:00",
+      "endTime": "03:00",
       "title": "Gravity presents: Armin van Buuren - Copenhagen",
       "venue": "Tap1, Copenhagen",
       "lineup": [
@@ -2160,6 +2524,8 @@
     {
       "id": "ra-2421101",
       "date": "2026-10-02",
+      "startTime": "19:00",
+      "endTime": "23:00",
       "title": "Holy Fuck (CA) // RUST",
       "venue": "RUST, Copenhagen",
       "lineup": [],
@@ -2170,6 +2536,8 @@
     {
       "id": "ra-2421105",
       "date": "2026-10-29",
+      "startTime": "19:00",
+      "endTime": "23:00",
       "title": "DJ Krush (JP) // RUST",
       "venue": "RUST, Copenhagen",
       "lineup": [
@@ -2182,6 +2550,8 @@
     {
       "id": "ra-2407079",
       "date": "2026-10-31",
+      "startTime": "19:00",
+      "endTime": "23:00",
       "title": "Kenton Slash Demon",
       "venue": "VEGA, Copenhagen",
       "lineup": [
@@ -2194,6 +2564,8 @@
     {
       "id": "ra-2416751",
       "date": "2026-11-17",
+      "startTime": "20:00",
+      "endTime": "23:59",
       "title": "The Prodigy // Royal Arena",
       "venue": "Royal Arena, Copenhagen",
       "lineup": [
@@ -2206,6 +2578,8 @@
     {
       "id": "ra-2421106",
       "date": "2026-11-20",
+      "startTime": "19:00",
+      "endTime": "23:00",
       "title": "Ductape (TR) // RUST",
       "venue": "RUST, Copenhagen",
       "lineup": [],

@@ -41,9 +41,23 @@ function buildRow(event) {
   row.target = "_blank";
   row.rel = "noopener noreferrer";
 
-  const dateEl = document.createElement("span");
+  const dateEl = document.createElement("div");
   dateEl.className = "event-date";
-  dateEl.textContent = shortDate(event.date);
+
+  const dateTextEl = document.createElement("span");
+  dateTextEl.className = "event-date-text";
+  dateTextEl.textContent = shortDate(event.date);
+  dateEl.append(dateTextEl);
+
+  if (event.startTime) {
+    const timeEl = document.createElement("span");
+    timeEl.className = "event-time";
+    const timeText = event.endTime
+      ? `${event.startTime} – ${event.endTime}`
+      : event.startTime;
+    timeEl.textContent = timeText;
+    dateEl.append(timeEl);
+  }
 
   const infoEl = document.createElement("div");
   infoEl.className = "event-info";
