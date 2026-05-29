@@ -109,6 +109,12 @@ function render(event, allEvents) {
           </ul>
         </div>` : ""}
 
+        ${event.description ? `
+        <div class="detail-section">
+          <h2 class="detail-section-label">About</h2>
+          <div class="detail-description">${event.description.split(/\n\n+/).map(p => `<p>${escHtml(p.trim()).replace(/\n/g, "<br>")}</p>`).filter(p => p !== "<p></p>").join("")}</div>
+        </div>` : ""}
+
         <div class="detail-actions">
           ${upcoming && !event.soldOut ? `
           <button class="detail-action-btn cal" id="cal-btn" type="button">

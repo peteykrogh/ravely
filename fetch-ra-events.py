@@ -47,6 +47,7 @@ def fetch_events(start: str, end: str, page: int = 1) -> list:
             artists { name }
             flyerFront
             images { filename type }
+            content
             promotionalLinks { title url }
           }
         }
@@ -100,6 +101,7 @@ def map_event(item: dict) -> dict:
             None
         ),
         "promotionalLinks": e.get("promotionalLinks") or [],
+        "description":      (e.get("content") or "").strip(),
     }
 
 
