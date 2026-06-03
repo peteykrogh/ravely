@@ -38,8 +38,20 @@
           >
         </div>
 
+        <!-- Search bar -->
+        <div class="search-wrapper">
+          <input
+            type="search"
+            id="event-search"
+            class="search-input"
+            placeholder="Search events, artists, venues…"
+            autocomplete="off"
+            spellcheck="false"
+          />
+        </div>
+
         <!-- Month overview calendar -->
-        <div class="cal-wrapper">
+        <div class="cal-wrapper" id="cal-wrapper">
           <span class="cal-year" id="cal-year"></span>
           <span class="cal-label">Events per month</span>
           <div class="month-calendar" id="month-calendar"></div>

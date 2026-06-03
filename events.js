@@ -12,6 +12,7 @@
 
 let allEvents = [];
 let activeTile = null;
+let searchTimeout = null;
 
 // ─── Helpers ─────────────────────────────────────────────────────────────────
 
@@ -153,6 +154,61 @@ function buildRow(event) {
   }
 
   return row;
+}
+
+// ─── Search ──────────────────────────────────────────────────────────────────
+
+function renderSearch(query) {
+  const container  = document.getElementById("ra-events");
+  const emptyMsg   = document.getElementById("ra-empty");
+  const calWrapper = document.getElementById("cal-wrapper");
+  const heading    = document.getElementById("month-heading");
+  if (!container) return;
+
+  const q = query.trim().toLowerCase();
+
+  if (q.length < 3) {
+    // Restore month view
+    if (calWrapper) calWrapper.classList.remove("hidden");
+    renderMonth(activeTile
+      ? Array.from(document.querySelectorAll(".cal-month")).indexOf(activeTile)
+      : new Date().getMonth());
+    return;
+  }
+
+  // Hide month calendar while searching
+  if (calWrapper) calWrapper.classList.add("hidden");
+  if (heading) heading.textContent = `Results for "${query.trim()}"`;
+
+  const results = allEvents.filter((ev) => {
+    if (!isUpcoming(ev.date)) return false;
+    const haystack = [
+      ev.title,
+      ev.venue,
+      ...(ev.lineup || []),
+      ev.description || "",
+    ].join(" ").toLowerCase();
+    return haystack.includes(q);
+  });
+
+  container.innerHTML = "";
+
+  if (results.length === 0) {
+    container.classList.add("hidden");
+    if (emptyMsg) {
+      emptyMsg.textContent = `No events found for "${query.trim()}".`;
+      emptyMsg.classList.remove("hidden");
+    }
+    return;
+  }
+
+  container.classList.remove("hidden");
+  if (emptyMsg) emptyMsg.classList.add("hidden");
+
+  const list = document.createElement("div");
+  list.className = "events-list";
+  results.forEach((ev) => list.append(buildRow(ev)));
+  container.append(list);
 }
 
 // ─── Month Calendar ─────────────────────────────────────────────────────────
@@ -319,6 +375,15 @@ async function init() {
 
   buildMonthCalendar();
   renderMonth(new Date().getMonth());
+
+  // Search
+  const searchInput = document.getElementById("event-search");
+  if (searchInput) {
+    searchInput.addEventListener("input", () => {
+      clearTimeout(searchTimeout);
+      searchTimeout = setTimeout(() => renderSearch(searchInput.value), 200);
+    });
+  }
 
   // Restore scroll position if returning from a detail page
   const savedScroll = sessionStorage.getItem("ravely-scroll");

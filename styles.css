@@ -127,6 +127,40 @@ main {
   gap: 4rem;
 }
 
+/* ── Search ───────────────────────────────────────────────── */
+.search-wrapper {
+  margin-bottom: 0;
+}
+
+.search-input {
+  width: 100%;
+  background: var(--surface);
+  border: 1px solid var(--accent);
+  border-radius: var(--radius);
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  padding: 0.75rem 1rem;
+  outline: none;
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 25%, transparent),
+              0 0 8px 0   color-mix(in srgb, var(--accent) 15%, transparent);
+  transition: box-shadow 0.15s, border-color 0.15s;
+  -webkit-appearance: none;
+}
+
+.search-input::placeholder {
+  color: var(--text-secondary);
+}
+
+.search-input:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 60%, transparent),
+              0 0 14px 0  color-mix(in srgb, var(--accent) 30%, transparent);
+}
+
+/* hide the browser's built-in ✕ clear button */
+.search-input::-webkit-search-cancel-button { display: none; }
+
 /* ── Month calendar ──────────────────────────────────────── */
 .cal-wrapper {
   display: flex;
