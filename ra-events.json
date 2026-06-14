@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-13T09:57:05",
+  "fetched": "2026-06-14T10:26:03",
   "area": "Copenhagen, Denmark",
   "source": "https://ra.co/events/dk",
   "events": [
@@ -1556,20 +1556,6 @@
       "description": "Every Sonic-night is about creating a sense of home, where we can experience music in a community that feels both genuine and nostalgic.\n—————————————\nDETAILS\n• Friday January 23rd\n• Time: 23.00 – 04.00\n• Age restriction • 21\n• Entry: 60\n• Safer Space Policy\n—————————————\nABOUT SONICFEST\nWith Sonicfest presents Sonic Nights, we create an atmospheric space where electronic DJs deliver the soundtrack for the dancefloor. We specialize in genres such as Hyperpop, Trance, Techno, and House – and everything in between.\nSonicfest is designed to strengthen the electronic music community and promises to deliver unforgettable nights, where you can meet new friends and discover amazing new sounds and artists.\n—————————————\nLINEUP\nTBA\n--------------------------------------\nSAFER SPACE POLICY\nBefore entering RUST Natklub, you will be asked to read and accept our safer space policy. By doing so, you agree to help create a safe and inclusive environment—being mindful of both others and your own presence.\nWe have zero tolerance for racism, sexism, homophobia, transphobia, violence, or any form of discrimination. At RUST Natklub, we all share a responsibility to look out for one another. If you see someone in an unsafe situation, please check in on them or reach out to our staff."
     },
     {
-      "id": "ra-2339917",
-      "date": "2026-01-23",
-      "startTime": "22:00",
-      "endTime": "04:00",
-      "title": "2200!",
-      "venue": "Sigurd CPH, Copenhagen",
-      "lineup": [],
-      "tickets": "https://ra.co/events/2339917",
-      "soldOut": false,
-      "flyer": "https://images.ra.co/b7ff5ca756132ba6ba71db292092c78bc4818bc4.png",
-      "promotionalLinks": [],
-      "description": "2200! is a place where seasoned selectors and fresh energy coexist, and where the dance floor is built on the trust in the DJ and their selections in hip-hop, RnB, house, afro, and everything in between, rather than trends. Every Friday is a reminder of why club culture matters in the first place.\n\nThis night brings together deep roots and forward-moving rhythms.\n\nPato Siebenhaar is a true pillar of Copenhagen’s music scene. With decades of experience across hip hop, reggae, and club culture, his sets carry both weight and ease. Expect confident selections, classic foundations, and a sharp sense of timing that keeps the floor locked in.\n\nDJ Alipapa is known for turning rooms into full-on dance spaces. Blending dancehall, afro influences, and Middle Eastern flavors, his sound is rhythmic, bass-heavy, and highly infectious. Once he takes over, standing still is no longer an option.\n\nA quick reminder: At Sigurd, we let the DJs COOK: No requests, OK?!\n\nSigurdsgade 39, 2200\n22 – 04\nFree entrance till 23\n120 dkk after 23\nFree wardrobe\n21+ age limit"
-    },
-    {
       "id": "ra-2352991",
       "date": "2026-01-23",
       "startTime": "22:00",
@@ -1584,6 +1570,20 @@
       "flyer": "https://images.ra.co/604ddefabcd7e001cb5fe895bd8d4336a7915417.png",
       "promotionalLinks": [],
       "description": "FRIDAY JANUARY 23rd\n\nStake House:\nw/ Hugo all night long\n\nNew residency coming this Friday, don’t miss out and join us on the dancefloor!\n\n21+\nOPEN: 22:00 - 05:00\nFREE ENTRAN"
+    },
+    {
+      "id": "ra-2339917",
+      "date": "2026-01-23",
+      "startTime": "22:00",
+      "endTime": "04:00",
+      "title": "2200!",
+      "venue": "Sigurd CPH, Copenhagen",
+      "lineup": [],
+      "tickets": "https://ra.co/events/2339917",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/b7ff5ca756132ba6ba71db292092c78bc4818bc4.png",
+      "promotionalLinks": [],
+      "description": "2200! is a place where seasoned selectors and fresh energy coexist, and where the dance floor is built on the trust in the DJ and their selections in hip-hop, RnB, house, afro, and everything in between, rather than trends. Every Friday is a reminder of why club culture matters in the first place.\n\nThis night brings together deep roots and forward-moving rhythms.\n\nPato Siebenhaar is a true pillar of Copenhagen’s music scene. With decades of experience across hip hop, reggae, and club culture, his sets carry both weight and ease. Expect confident selections, classic foundations, and a sharp sense of timing that keeps the floor locked in.\n\nDJ Alipapa is known for turning rooms into full-on dance spaces. Blending dancehall, afro influences, and Middle Eastern flavors, his sound is rhythmic, bass-heavy, and highly infectious. Once he takes over, standing still is no longer an option.\n\nA quick reminder: At Sigurd, we let the DJs COOK: No requests, OK?!\n\nSigurdsgade 39, 2200\n22 – 04\nFree entrance till 23\n120 dkk after 23\nFree wardrobe\n21+ age limit"
     },
     {
       "id": "ra-2352991",
@@ -2201,6 +2201,27 @@
       "description": "Outernational Soundmeeting coming up!\nDalarna Dubz out of Munich, Germany, touching down in Dubfabrikken for a soundmeeting with the Dubfabrikken crew playing on the Candy Factory Sound System.\nRoots'n'culture all night, 8 Scoops loud....\nEntrance 40 kr. - 20 kr. before 22.00\n2/3 of all profit is donated to https://careforothers.dk/ - rest is for maintenance of the house and sound.\n//\nCOME EARLY - both to catch the vibes & to make shure you get in!\nPlease note: This session is a 18+ only, so please remember to bring a valid ID to show in the door!\n//\nBring CASH - we don't deal with plastic or mobile phones.\nAnd bring a padlock for the wardrobe 🙂\nAs always: This is music for the upliftment of our hearts & souls - all tribes welcome!\nWe don't accept any kind of racism, sexism, homophobia, transphobia, hard drugs and other kinds of bad behaviour 🙏\nSo don't assume gender etc but be curious and open minded 💖"
     },
     {
+      "id": "ra-2291017",
+      "date": "2026-01-31",
+      "startTime": "20:00",
+      "endTime": "23:59",
+      "title": "Arsenal Mikebe (UG) - SOLD OUT",
+      "venue": "ALICE, Copenhagen",
+      "lineup": [
+        "Arsenal Mikebe"
+      ],
+      "tickets": "https://ra.co/events/2291017",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/2828c91e486793ac751d4d88f0e7bcfbd542661d.jpg",
+      "promotionalLinks": [
+        {
+          "title": "Tickets",
+          "url": "https://alicecph.com/event/arsenal-mikebe-ug/?fbclid=IwY2xjawNsBRFleHRuA2FlbQIxMABicmlkETFvOTFvRGN3aXNIYUtrZmExAR7MwX8LlTo9ajHNzf653Xk3CK1yJf3ke1QzNWplj7ITqtTxL2y-JOk2fkJOog_aem_Nmat_DRpvGrcbzW18Zn35w"
+        }
+      ],
+      "description": "Kroppe og instrument smelter sammen til én, når Arsenal Mikebe går på scenen. Den ugandiske percussiontrio spiller nemlig på ét og samme, hjemmebyggede trommesæt. Kom med, og tag del i en rytmisk ceremoni, når de indtager ALICEs scene under Vinterjazz 2026!\n⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛\nDøre kl 20:00 / Show kl 21:00\nKøb billet i forsalg: 200 dkk eksl. gebyr / ungebillet: 160 ung dkk eksl. gebyr\nKøb billet: https://alicecph.com/event/arsenal-mikebe-ug/\nLyt: https://www.youtube.com/watch?v=nhH27aQ1Kzg\nNB: Koncerten er stående\nSCROLL DOWN FOR ENGLISH\n⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛\nDen ugandiske percussiontrio Arsenal Mikebe danser på grænsen mellem elektronisk og akustisk musik. De forener nemlig løbende polyrytmer med svimlende udråb og spøgelsesagtige, syntetiske droner. Trioen består af tre fænomenale trommeslagere: Ssentongo Moses, Dratele Epiphany og Luyambi Vicent de Pau, der som en del af det ugandiske kollektiv Nyege Nyege er vokset ud af Østafrikas eksperimentelle scene. Med front mod hinanden, og iført jakkesæt, spiller de på deres hjemmebyggede trommesæt til tre. Med det imellem sig skaber musikerne Arsenal Mikebe en lyd, der både er hektisk og rituel. Det er en slags analog tekno – med en overhængende fare for at falde i trance.\nEn koncert med Arsenal Mikebe er … som at stå foran en vild, uregerlig og aldeles levende trommeskulptur. Sidste år udsendte trioen deres debutalbum, der meget passende har titlen ‘Drum Machine’. Albummet er produceret af portugisiske Jonathan Uliel Saldanha. På pladen spiller trioen sammen med et lydsystem, der er bygget af Henry Segamwenge og inspireret af trommemaskinen Roland TR-808. Arsenal Mikebe forvandler traditionelle rytmer til metalliske labyrinter. En intens, håndspillet tekno, som de blandt andet har gæstet CTM festival, Roskilde festival og Boiler Room Festival med. Kom med, og tag del i en rytmisk ceremoni, når Arsenal Mikebe kommer til ALICEs scene!\nKoncerten er en del af Vinterjazz 2026. Vinterjazz er en landsdækkende musikfestival, som strækker sig over tre uger og rummer omkring 600 koncerter fordelt på flere end 150 spillesteder og arrangører fra Skagen til Svaneke. Vinterjazz 2026 finder sted fra 30. januar til 28. februar. Se mere på www.jazz.dk\nSagt om Arsenal Mikebe:\n“Arsenal Mikebe’s “Omuzimu” is an absolute adrenaline rush of polyrhythmic percussion that borders a little on anxiety-inducing. A multi-layered mix of bass kicks, cymbal clicks, and rim shots, the track leaves little room for anything other than the crests of a burbly synth that arrive in perfectly timed waves from what’s apparently a custom-built, reverse-engineered 808” – The Fader\n“The one phrase that kept coming to mind the more I listened to DRUM MACHINE was the immortal hook from Aphex Twin’s similarly rhythmic “Come to Daddy”: “I want your soul.” With music this exhilarating, you’d be stupid to refuse”. – Bandcamp Daily\n“It’s an absolute belter of a record (...) Nothing outstays its welcome, everything is nominally simple and then shows a rhythmic depth with more listens. It’s rhythm-heavy but it’s not lacking in melodic elements.” – FREQ\n⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛\nENGLISH:\nBodies and instruments merge into one when Arsenal Mikebe take the stage. The Ugandan percussion trio performs on a single, home-built drum kit, played together as one. Join them and become part of a frantic, rhythmic ceremony when they take over ALICE’s stage during Vinterjazz 2026!\nThe Ugandan trio Arsenal Mikebe dance along the edge between electronic and acoustic music. They seamlessly fuse intricate polyrhythms with dizzying shouts and ghostly, synthetic drones. The trio consists of three phenomenal drummers – Ssentongo Moses, Dratele Epiphany, and Luyambi Vicent de Pau – who, as part of the Ugandan collective Nyege Nyege, have grown out of East Africa’s experimental scene. Facing each other in suits, they perform on their jointly built drum kit. With the instrument placed between them, the members of Arsenal Mikebe create a sound that is both frenetic and ritualistic – a kind of analog techno, teetering on the edge of trance.\nA concert with Arsenal Mikebe feels like standing before a wild, ungovernable and utterly alive drum sculpture. Last year, the trio released their debut album, fittingly titled ‘Drum Machine’, produced by Portuguese artist Jonathan Uliel Saldanha. On the record, they perform alongside a sound system built by Henry Segamwenge, inspired by the Roland TR-808 drum machine. Arsenal Mikebe transform traditional rhythms into metallic labyrinths. Their intense, hand-played form of techno that has taken them to CTM Festival, Roskilde Festival, and Boiler Room Festival, among others. Join the rhythmic ceremony when Arsenal Mikebe come to ALICE during Vinterjazz 2026!\nThe concert is part of Vinterjazz 2026. Vinterjazz is a nationwide music festival spanning three weeks, presenting around 600 concerts across more than 150 venues and organizers from Skagen to Svaneke. Vinterjazz 2026 takes place from January 30 to February 28. Learn more at www.jazz.dk."
+    },
+    {
       "id": "ra-2358725",
       "date": "2026-01-31",
       "startTime": "23:00",
@@ -2225,27 +2246,6 @@
         }
       ],
       "description": "Signal Swap x Sauna Radio lands at Jolene for the first edition of Radio Panini’s new international exchange format: one day-to-night handover where community radio heads from different cities end up sharing the same booth, the same room, and (ideally) the same dancefloor.\n\nFor this chapter, Sauna Radio—Stockholm’s community web radio born around a sauna setting—comes to Copenhagen with the crew, the energy and a full-spectrum programme: talk, listening, hanging out and broadcasting before we flip the switch into club mode. Sauna Radio broadcasts weekly and has quickly become a local hub for sets, performances and conversations across scenes.\n\nThe day starts with an introduction to the people behind Sauna Radio, then rolls into an afternoon/evening broadcast featuring Stockholm and Copenhagen selectors side by side. After that, we push into the afterparty and run it late.\n\nOn the night shift:\n\nAbstraxion (Sauna founder / Biologic Records) brings his recognisable blend of Italo-tinged pressure, early trance and rave psychedelia—plus the deep label DNA of releases on imprints like Other People, Hivern Discs and Cocktail d’Amore.\n\nRenlo (SystemError) threads dark disco, Italo and house, with that 80s/90s synth shimmer that keeps the room hot without losing its edge.\n\nSean Fender (he/she/they) joins as part of the Stockholm orbit—DJ/producer energy with a playful streak, also appearing on Sauna Radio’s own compilation sphere.\n\nSoftrex, a Stockholm-based queer DJ with a deliberately wide palette, keeps it moving with genre-blending sets built for momentum and togetherness.\n\n\nTune in online via Radio Panini / Sauna Radio, or come catch the whole exchange IRL—radio faces, club faces, and the nice blurry bit in between."
-    },
-    {
-      "id": "ra-2291017",
-      "date": "2026-01-31",
-      "startTime": "20:00",
-      "endTime": "23:59",
-      "title": "Arsenal Mikebe (UG) - SOLD OUT",
-      "venue": "ALICE, Copenhagen",
-      "lineup": [
-        "Arsenal Mikebe"
-      ],
-      "tickets": "https://ra.co/events/2291017",
-      "soldOut": false,
-      "flyer": "https://images.ra.co/2828c91e486793ac751d4d88f0e7bcfbd542661d.jpg",
-      "promotionalLinks": [
-        {
-          "title": "Tickets",
-          "url": "https://alicecph.com/event/arsenal-mikebe-ug/?fbclid=IwY2xjawNsBRFleHRuA2FlbQIxMABicmlkETFvOTFvRGN3aXNIYUtrZmExAR7MwX8LlTo9ajHNzf653Xk3CK1yJf3ke1QzNWplj7ITqtTxL2y-JOk2fkJOog_aem_Nmat_DRpvGrcbzW18Zn35w"
-        }
-      ],
-      "description": "Kroppe og instrument smelter sammen til én, når Arsenal Mikebe går på scenen. Den ugandiske percussiontrio spiller nemlig på ét og samme, hjemmebyggede trommesæt. Kom med, og tag del i en rytmisk ceremoni, når de indtager ALICEs scene under Vinterjazz 2026!\n⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛\nDøre kl 20:00 / Show kl 21:00\nKøb billet i forsalg: 200 dkk eksl. gebyr / ungebillet: 160 ung dkk eksl. gebyr\nKøb billet: https://alicecph.com/event/arsenal-mikebe-ug/\nLyt: https://www.youtube.com/watch?v=nhH27aQ1Kzg\nNB: Koncerten er stående\nSCROLL DOWN FOR ENGLISH\n⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛\nDen ugandiske percussiontrio Arsenal Mikebe danser på grænsen mellem elektronisk og akustisk musik. De forener nemlig løbende polyrytmer med svimlende udråb og spøgelsesagtige, syntetiske droner. Trioen består af tre fænomenale trommeslagere: Ssentongo Moses, Dratele Epiphany og Luyambi Vicent de Pau, der som en del af det ugandiske kollektiv Nyege Nyege er vokset ud af Østafrikas eksperimentelle scene. Med front mod hinanden, og iført jakkesæt, spiller de på deres hjemmebyggede trommesæt til tre. Med det imellem sig skaber musikerne Arsenal Mikebe en lyd, der både er hektisk og rituel. Det er en slags analog tekno – med en overhængende fare for at falde i trance.\nEn koncert med Arsenal Mikebe er … som at stå foran en vild, uregerlig og aldeles levende trommeskulptur. Sidste år udsendte trioen deres debutalbum, der meget passende har titlen ‘Drum Machine’. Albummet er produceret af portugisiske Jonathan Uliel Saldanha. På pladen spiller trioen sammen med et lydsystem, der er bygget af Henry Segamwenge og inspireret af trommemaskinen Roland TR-808. Arsenal Mikebe forvandler traditionelle rytmer til metalliske labyrinter. En intens, håndspillet tekno, som de blandt andet har gæstet CTM festival, Roskilde festival og Boiler Room Festival med. Kom med, og tag del i en rytmisk ceremoni, når Arsenal Mikebe kommer til ALICEs scene!\nKoncerten er en del af Vinterjazz 2026. Vinterjazz er en landsdækkende musikfestival, som strækker sig over tre uger og rummer omkring 600 koncerter fordelt på flere end 150 spillesteder og arrangører fra Skagen til Svaneke. Vinterjazz 2026 finder sted fra 30. januar til 28. februar. Se mere på www.jazz.dk\nSagt om Arsenal Mikebe:\n“Arsenal Mikebe’s “Omuzimu” is an absolute adrenaline rush of polyrhythmic percussion that borders a little on anxiety-inducing. A multi-layered mix of bass kicks, cymbal clicks, and rim shots, the track leaves little room for anything other than the crests of a burbly synth that arrive in perfectly timed waves from what’s apparently a custom-built, reverse-engineered 808” – The Fader\n“The one phrase that kept coming to mind the more I listened to DRUM MACHINE was the immortal hook from Aphex Twin’s similarly rhythmic “Come to Daddy”: “I want your soul.” With music this exhilarating, you’d be stupid to refuse”. – Bandcamp Daily\n“It’s an absolute belter of a record (...) Nothing outstays its welcome, everything is nominally simple and then shows a rhythmic depth with more listens. It’s rhythm-heavy but it’s not lacking in melodic elements.” – FREQ\n⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛\nENGLISH:\nBodies and instruments merge into one when Arsenal Mikebe take the stage. The Ugandan percussion trio performs on a single, home-built drum kit, played together as one. Join them and become part of a frantic, rhythmic ceremony when they take over ALICE’s stage during Vinterjazz 2026!\nThe Ugandan trio Arsenal Mikebe dance along the edge between electronic and acoustic music. They seamlessly fuse intricate polyrhythms with dizzying shouts and ghostly, synthetic drones. The trio consists of three phenomenal drummers – Ssentongo Moses, Dratele Epiphany, and Luyambi Vicent de Pau – who, as part of the Ugandan collective Nyege Nyege, have grown out of East Africa’s experimental scene. Facing each other in suits, they perform on their jointly built drum kit. With the instrument placed between them, the members of Arsenal Mikebe create a sound that is both frenetic and ritualistic – a kind of analog techno, teetering on the edge of trance.\nA concert with Arsenal Mikebe feels like standing before a wild, ungovernable and utterly alive drum sculpture. Last year, the trio released their debut album, fittingly titled ‘Drum Machine’, produced by Portuguese artist Jonathan Uliel Saldanha. On the record, they perform alongside a sound system built by Henry Segamwenge, inspired by the Roland TR-808 drum machine. Arsenal Mikebe transform traditional rhythms into metallic labyrinths. Their intense, hand-played form of techno that has taken them to CTM Festival, Roskilde Festival, and Boiler Room Festival, among others. Join the rhythmic ceremony when Arsenal Mikebe come to ALICE during Vinterjazz 2026!\nThe concert is part of Vinterjazz 2026. Vinterjazz is a nationwide music festival spanning three weeks, presenting around 600 concerts across more than 150 venues and organizers from Skagen to Svaneke. Vinterjazz 2026 takes place from January 30 to February 28. Learn more at www.jazz.dk."
     },
     {
       "id": "ra-2341094",
@@ -2349,27 +2349,6 @@
       "description": "Heart Greetings\n\nSoundsystem Sunday \n1st of february \ninna Special Soundsystem \nConfrence style \n2 Sounds 1 Arena\n\nDalarna Dubz Soundsystem \nhand build boxes outta \nDortmund Germany\n\nmeets\n\nRockers Ark Soundsystem  \nSoundsystem Sunday Host\npushing roots rockers music\nat H15 for more than 3 years.\n\nDoors opens at 15 until Late\n50 kr entrance \n( 2.pers for 50kr before 18:00 )\n\nmore guest selectahs, vokalist and players of instruments on both soundsystems \nT.B.A soon stay tuned Idreens\n\nRoots and Culture Tradition \nhandbuild HI-Power Soundsystem \n1st sunday every month.\n\n-------------------- Record Shop --------------------\n\nRockers Ark Record Distribution \nthere as always providing brand new \nlocal and internationale records\nfor all to enjoy for ivah and ivah more.\n\nAll tribes are welcome\n\nStricktly One Love Soundsystem Dance"
     },
     {
-      "id": "ra-2350274",
-      "date": "2026-02-04",
-      "startTime": "20:00",
-      "endTime": "23:59",
-      "title": "Lost2Reality: SØS Gunver Ryberg (live) Support: Mikael Frykman",
-      "venue": "Huset I Magstræde, Copenhagen",
-      "lineup": [
-        "SØS Gunver Ryberg"
-      ],
-      "tickets": "https://ra.co/events/2350274",
-      "soldOut": false,
-      "flyer": "https://images.ra.co/ad20de0b7da03f0f1940c6664c8de401d5b14e54.jpg",
-      "promotionalLinks": [
-        {
-          "title": "Tickets",
-          "url": "https://billetto.dk/e/lost2reality-sos-gunver-ryberg-live-support-mikael-frykman-musikcafeen-billetter-1812262"
-        }
-      ],
-      "description": "I årets første kapitel af elektroniske onsdagskoncerter byder vi velkommen til SØS Gunver Ryberg: En prisvindende elektronisk komponist og lydkunstner, der skaber musik uden genregrænser og med fuld intensitet. Hun har optrådt på scener som Berghain, Roskilde Festival og Venedig Biennalen, og denne aften åbnes og sluttes kapitlet med support fra local friendly man Mikael Frykman.\n●○●○●○●○●○●○●○●○●○●○●○●○\nVenue: Musikcaféen, 3. etage\nDøre: 20:00\nShow: 21:00\nEntré: 70kr.\n●○●○●○●○●○●○●○●○●○●○●○●○\nSØS Gunver Ryberg:\nSØS Gunver Ryberg er en prisvindende elektronisk komponist og lydkunstner, kendt for sin innovative musik, der bryder med traditionelle genredefinitioner. Hun har optrådt på nogle af verdens mest prestigefyldte scener og festivaler, herunder Atonal Festival, Venedig Biennalen, Berlin Philharmonie, Flow Festival, Berghain og Roskilde Festival.\nMed en kompromisløs intensitet transformerer hun lytterens oplevelse og åbner bevidstheden for nye dimensioner. Hendes musik er kendetegnet ved kraftfulde og komplekse klangfarver, teksturer og rytmer, der væver sig sammen i et futuristisk og tidløst udtryk, der frygtløst omfavner nutiden og samtidig skaber perspektiver ind i den ukendte fremtid.\nMikael Frykman:\nLocal friendly man Mikael Frykman vil afkalke din koglekirtel og massere din amygdala med nogle af sine yndlings, afslappede og hjernegode bangers.\n------------------------------------------------------------------------\nENG.\nIn the first chapter of this year’s electronic Wednesday concerts, we welcome SØS Gunver Ryberg — an award-winning electronic composer and sound artist who creates music without genre boundaries and with full intensity. She has performed at venues such as Berghain, Roskilde Festival, and the Venice Biennale, and this evening the chapter opens and closes with support from local friendly man Mikael Frykman.\nSØS Gunver Ryberg:\nSØS Gunver Ryberg is an award-winning electronic composer and sound artist, known for her innovative music that breaks traditional genre boundaries. She has performed on some of the world’s most prestigious stages and festivals, including Atonal Festival, the Venice Biennale, Berlin Philharmonie, Flow Festival, Berghain, and Roskilde Festival.\nWith uncompromising intensity, she transforms the listener’s experience and opens the mind to new dimensions. Her music is characterized by powerful and complex tones, textures, and rhythms, woven together into a futuristic and timeless expression that fearlessly embraces the present while creating new perspectives into the unknown future.\nMikael Frykman:\nLocal friendly man Mikael will decalcify your pineal gland and massage your amygdala with some of his favorite chilled out brainy bangers."
-    },
-    {
       "id": "ra-2352549",
       "date": "2026-02-04",
       "startTime": "20:00",
@@ -2392,6 +2371,27 @@
         }
       ],
       "description": "POSH ISOLATION: LOKE RAHBEK & FREDERIK VALENTIN + VANITY PRODUCTIONS + OQBQBO\nFind billetter: https://www.ticketmaster.dk/event/539828917\n--------------------------------------\n• Døre: 19.00 • koncertstart: 20.00\n• Billetter: • Forsalg: 250 kr • Dørsalg: 260 kr\n--------------------------------------\nLoke Rahbek & Frederik Valentin\n“Together” er det tredje kollaborative album fra Frederik Valentin og Loke Rahbek, efter “Elephant” fra 2020 og \"Buy Corals Online\" fra 2017. Lo-fi-vignetter af guitar og feltoptagelser præsenteres side om side med elektroakustiske eksperimenter som fortryllende invitationer til rytmiske, syntetiske verdener, hvor hver især finder balance i Markers meditation over menneskets hukommelse. Med akustiske instrumenter behandlet digitalt og instrumentale optrædener fortolket på ny bevæger \"Together\" sig ad den frodige retning fra deres tidligere værker mod nye destinationer.\nValentins lange række af soloarbejde og samarbejder omfatter blandt andet hans produktioner med Yung Lean (som Jonatan Leandoer127) på albummet \"Nectar\", samt deres fælles bestillingsværk for Sveriges Cullberg Ballet. I mere end et årti har Rahbek skabt elektronisk musik som Croatian Amor og under en række andre aliaser. Han har siden 2009 drevet Posh Isolation sammen med Christian Stadsgaard.\n--------------------------------------\nVanity Productions\nPosh Isolations anden skaber, Christian Stadsgaard, laver musik under solo-aliasset Vanity Productions - en afgørende figur på den nordiske elektroniske musikscene.\nStadsgaard er kendt for sin innovative og udtryksfulde stil, og med Vanity Productions mixer han larmende elementer med introverte melodier. Med et eksistentialistisk touch og sløret sensibilitet, maler Stadsgaard soniske billeder af moderne melankoli.\nUdover sine anmelderroste solo-udgivelser, har Vanity Productions også samarbejdet med Merzbow, Loke Rahbek, Jonas Rönnberg og Isak Hansen.\n--------------------------------------\noqbqbo\noqbqbo er aliaset for den russiskfødte, København-baserede kunstner Nastya Sipulina. oqbqbo er tilknyttet pladeselskabet Posh Isolation, hvor hun repræsenterer den mere melodiske del af deres roster.\nHendes seneste udgivelse “Tired Sun” er hendes andet værk på Posh Isolation, og det seneste år har oqbqbo samarbejdet med kunstnere som Scandinavian Star og Vallmo – mest markant på singlerne ‘Airdrops’, ‘Open Like A Flash’ og bidraget til “Rift One” YEAR0001-kompilationen med ‘Wakening’.\nDerudover laver oqbqbo jævnligt explorative mixes på NTS Radio og lignende."
+    },
+    {
+      "id": "ra-2350274",
+      "date": "2026-02-04",
+      "startTime": "20:00",
+      "endTime": "23:59",
+      "title": "Lost2Reality: SØS Gunver Ryberg (live) Support: Mikael Frykman",
+      "venue": "Huset I Magstræde, Copenhagen",
+      "lineup": [
+        "SØS Gunver Ryberg"
+      ],
+      "tickets": "https://ra.co/events/2350274",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/ad20de0b7da03f0f1940c6664c8de401d5b14e54.jpg",
+      "promotionalLinks": [
+        {
+          "title": "Tickets",
+          "url": "https://billetto.dk/e/lost2reality-sos-gunver-ryberg-live-support-mikael-frykman-musikcafeen-billetter-1812262"
+        }
+      ],
+      "description": "I årets første kapitel af elektroniske onsdagskoncerter byder vi velkommen til SØS Gunver Ryberg: En prisvindende elektronisk komponist og lydkunstner, der skaber musik uden genregrænser og med fuld intensitet. Hun har optrådt på scener som Berghain, Roskilde Festival og Venedig Biennalen, og denne aften åbnes og sluttes kapitlet med support fra local friendly man Mikael Frykman.\n●○●○●○●○●○●○●○●○●○●○●○●○\nVenue: Musikcaféen, 3. etage\nDøre: 20:00\nShow: 21:00\nEntré: 70kr.\n●○●○●○●○●○●○●○●○●○●○●○●○\nSØS Gunver Ryberg:\nSØS Gunver Ryberg er en prisvindende elektronisk komponist og lydkunstner, kendt for sin innovative musik, der bryder med traditionelle genredefinitioner. Hun har optrådt på nogle af verdens mest prestigefyldte scener og festivaler, herunder Atonal Festival, Venedig Biennalen, Berlin Philharmonie, Flow Festival, Berghain og Roskilde Festival.\nMed en kompromisløs intensitet transformerer hun lytterens oplevelse og åbner bevidstheden for nye dimensioner. Hendes musik er kendetegnet ved kraftfulde og komplekse klangfarver, teksturer og rytmer, der væver sig sammen i et futuristisk og tidløst udtryk, der frygtløst omfavner nutiden og samtidig skaber perspektiver ind i den ukendte fremtid.\nMikael Frykman:\nLocal friendly man Mikael Frykman vil afkalke din koglekirtel og massere din amygdala med nogle af sine yndlings, afslappede og hjernegode bangers.\n------------------------------------------------------------------------\nENG.\nIn the first chapter of this year’s electronic Wednesday concerts, we welcome SØS Gunver Ryberg — an award-winning electronic composer and sound artist who creates music without genre boundaries and with full intensity. She has performed at venues such as Berghain, Roskilde Festival, and the Venice Biennale, and this evening the chapter opens and closes with support from local friendly man Mikael Frykman.\nSØS Gunver Ryberg:\nSØS Gunver Ryberg is an award-winning electronic composer and sound artist, known for her innovative music that breaks traditional genre boundaries. She has performed on some of the world’s most prestigious stages and festivals, including Atonal Festival, the Venice Biennale, Berlin Philharmonie, Flow Festival, Berghain, and Roskilde Festival.\nWith uncompromising intensity, she transforms the listener’s experience and opens the mind to new dimensions. Her music is characterized by powerful and complex tones, textures, and rhythms, woven together into a futuristic and timeless expression that fearlessly embraces the present while creating new perspectives into the unknown future.\nMikael Frykman:\nLocal friendly man Mikael will decalcify your pineal gland and massage your amygdala with some of his favorite chilled out brainy bangers."
     },
     {
       "id": "ra-2316348",
@@ -2607,6 +2607,27 @@
       "description": "3 Years of MAGIC CITY \nCelebrating with a Vinterjazz After Party.\n\nOne of Copenhagen’s best kept secrets where music feels like magic and Danish hygge meets high-fidelity hedonism. A full-on cosmic dance party all night long.\n\nDisco, Jazz, Afro, Funk, Psychedelic, Soul, Percussive, House all on vinyl through a premium sound set up.\n\nMagic City is a pop up artisan audiophile dance party run by music and hifi lovers with the main goal of pushing the boundaries of conventional club culture and providing a space for music that otherwise wouldn’t typically be heard.\n\nInspired by Japan’s culture of jazz kissa, but reimagined for the dance floor, the focus is on providing quality sound through a custom-built sound system and high-end analog hifi components to ensure the music can sound its best.\n\nWe strive to create a space where you can move your body, open your hearts and travel to the tropical forests of your mind, all the while listening to awesome music. That’s why we have an open-minded music policy and encourage our selectors to play music from the soul no matter the genre.\n\nExpect New York City loft party vibes and to dance to Afro, Disco, Funk, House, Fusion, Jazz, Latin, Psychedelic, Soul and beyond all on vinyl...\n\nH15 Scene\nHalmtorvet 15, 1715, Copenhagen\nAGE: 21+"
     },
     {
+      "id": "ra-2308056",
+      "date": "2026-02-06",
+      "startTime": "22:00",
+      "endTime": "05:00",
+      "title": "PROJECT: TECHNO TÆKØVER - Raving Nation Tour // PUMPEHUSET - CPH",
+      "venue": "Pumpehuset, Copenhagen",
+      "lineup": [
+        "LAWLESS"
+      ],
+      "tickets": "https://ra.co/events/2308056",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/f954e8c9e529829789efbf8a846bd8666c961367.png",
+      "promotionalLinks": [
+        {
+          "title": "Tickets",
+          "url": "https://billetfix.dk/en/e/project-techno-tkver-raving-nation-tour-pumpehuset"
+        }
+      ],
+      "description": "The movement expands.\nAfter countless sold-out nights across Jutland, PROJECT: TECHNO TÆKØVER is taking the next step: bringing the Raving Nation Tour to Copenhagen.\nA new chapter begins inside the walls of Pumpehuset, where the raw pulse of hard techno will meet the capital’s underground spirit.\nThis night marks more than just another event. It’s the beginning of a nationwide takeover, uniting ravers across Denmark under one frequency. Expect relentless energy, uncompromising sound, and an atmosphere built by those who live and breathe the rave.\nWelcome to the Raving Nation.\nHard techno all night long.\nTickets:\nhttps://billetfix.dk/.../project-techno-tkver-raving.../\nSuper Early: 149,- // SOLD OUT!\nEarly Bird: 174,- // 4 LEFT!!\nDiscounted: 199,-\nStandard: 224,-\nAt the door: 250,-\nLineup:\nLAWLESS (IE)\n+ Support\nRED MPIRE (DK)\nREFIELD (DK)\nRØSSA (HU)\n+ More TBA\nGenre:\n- Progressive Techno\n- Hard Techno\n- Acid Techno\n- Hard Trance\nAttitude Code:\nAt our events, we're focusing on creating a community, where everyone can feel home, and to provide with a place where everyone who wish to explore curiosity for electronic music is welcome. We want to create an atmosphere of respect and kindness.\nHelp us create a safe environment, bringing your best attitude.\nPlease align yourself with the following:\n- We care how our actions impact others.\n- We show enjoyment of the music, while being mindful of our surroundings.\n- We always check for consent and respect each other's boundaries (no unwanted attention, no staring, no touching).\nAt this event, there's no space for racism, sexism, homophobia, hate speech and discriminatory behavior.\nWe operate zero tolerance policy to any form of harassment. If you are made to feel uncomfortable, please notify our security team, who's always there to assist you.\nWe cant wait to see all of you!\nFollow us on Instagram:\n@prjct_dk / @hazey_dk"
+    },
+    {
       "id": "ra-2355523",
       "date": "2026-02-06",
       "startTime": "23:59",
@@ -2630,27 +2651,6 @@
         }
       ],
       "description": "Dirty Trancing!\nAnd yes — it’s all about dancing to dirty variations of trance music all night long. No pretense, no posing — just sweat, bass, and pure movement. \n\nLINEUP:\nMain Floor:\n00:00–02:00 Lead Ore\n02:00–04:00 Nora Asteroid (CH)\n04:00–06:00 Djandy\n06:00–08:00 Dico Nemus\nKiosk Floor:\n00:00-03:00 Dj Spice\n03:00-06:00 Asta Mari\n\nSafer Space & Inclusion – Our Shared Guidelines\nWe believe that all guests, artists, and staff are entitled to a space free from harassment, discrimination, and exclusion.\nBy entering our space, you agree to respect the following principles:\nⓞ No physical contact without clear consent.\nⓞ Racism, sexism, homophobia, and transphobia will not be tolerated.\nⓞ No staring or intrusive behavior – looking is fine, but respect boundaries.\nⓞ Photos and video recording are not permitted inside the club.\nWe come together with one common goal: to create a safer and open environment for everyone.\nAll genders, skin tones, sexual orientations, ages, and body types are welcome. Harassment of any kind is not accepted.\nOur staff is here to support you. If you feel uncomfortable or experience any form of boundary-crossing\nbehavior, please reach out immediately.\n\nAge: +20\nDoor: 130 DKK"
-    },
-    {
-      "id": "ra-2308056",
-      "date": "2026-02-06",
-      "startTime": "22:00",
-      "endTime": "05:00",
-      "title": "PROJECT: TECHNO TÆKØVER - Raving Nation Tour // PUMPEHUSET - CPH",
-      "venue": "Pumpehuset, Copenhagen",
-      "lineup": [
-        "LAWLESS"
-      ],
-      "tickets": "https://ra.co/events/2308056",
-      "soldOut": false,
-      "flyer": "https://images.ra.co/f954e8c9e529829789efbf8a846bd8666c961367.png",
-      "promotionalLinks": [
-        {
-          "title": "Tickets",
-          "url": "https://billetfix.dk/en/e/project-techno-tkver-raving-nation-tour-pumpehuset"
-        }
-      ],
-      "description": "The movement expands.\nAfter countless sold-out nights across Jutland, PROJECT: TECHNO TÆKØVER is taking the next step: bringing the Raving Nation Tour to Copenhagen.\nA new chapter begins inside the walls of Pumpehuset, where the raw pulse of hard techno will meet the capital’s underground spirit.\nThis night marks more than just another event. It’s the beginning of a nationwide takeover, uniting ravers across Denmark under one frequency. Expect relentless energy, uncompromising sound, and an atmosphere built by those who live and breathe the rave.\nWelcome to the Raving Nation.\nHard techno all night long.\nTickets:\nhttps://billetfix.dk/.../project-techno-tkver-raving.../\nSuper Early: 149,- // SOLD OUT!\nEarly Bird: 174,- // 4 LEFT!!\nDiscounted: 199,-\nStandard: 224,-\nAt the door: 250,-\nLineup:\nLAWLESS (IE)\n+ Support\nRED MPIRE (DK)\nREFIELD (DK)\nRØSSA (HU)\n+ More TBA\nGenre:\n- Progressive Techno\n- Hard Techno\n- Acid Techno\n- Hard Trance\nAttitude Code:\nAt our events, we're focusing on creating a community, where everyone can feel home, and to provide with a place where everyone who wish to explore curiosity for electronic music is welcome. We want to create an atmosphere of respect and kindness.\nHelp us create a safe environment, bringing your best attitude.\nPlease align yourself with the following:\n- We care how our actions impact others.\n- We show enjoyment of the music, while being mindful of our surroundings.\n- We always check for consent and respect each other's boundaries (no unwanted attention, no staring, no touching).\nAt this event, there's no space for racism, sexism, homophobia, hate speech and discriminatory behavior.\nWe operate zero tolerance policy to any form of harassment. If you are made to feel uncomfortable, please notify our security team, who's always there to assist you.\nWe cant wait to see all of you!\nFollow us on Instagram:\n@prjct_dk / @hazey_dk"
     },
     {
       "id": "ra-2357378",
@@ -3512,23 +3512,6 @@
       "description": "ESSENCE EXTENDED\n\n❀ Britney Speed\n❀ Sugar Free\n❀ Naone\n❀ Tania Just\n❀ Alvar\n❀ Téa\n\nSaturday\n14. February 2026\n14.00 - end\n\n!! You need to sign up via essence-cph.fyi to enter !!\n\nSee u ᰔ"
     },
     {
-      "id": "ra-2368188",
-      "date": "2026-02-14",
-      "startTime": "23:00",
-      "endTime": "04:00",
-      "title": "Mana Club / Rust Natklub",
-      "venue": "RUST Natklub, Copenhagen",
-      "lineup": [
-        "ELCA",
-        "Arsom"
-      ],
-      "tickets": "https://ra.co/events/2368188",
-      "soldOut": false,
-      "flyer": "https://images.ra.co/6d2279bd01612e23fe15a5b242af18dc96f6933f.jpg",
-      "promotionalLinks": [],
-      "description": "RUST NATKLUB PRESENTS: MANA CLUB\n----------------------------------------\nDETAILS\n• Date: Saturday February 14th\n• Time: 23:00 - 04:00\n• Entry: 60,- kr.\n• Age restriction: 21+\n• Safer Space Policy\n----------------------------------------\nMana Club is a Copenhagen-based club initiative, DJ collective, and label run by producers and DJs ELCA, Arsom, and ALVA ALVA.\nKnown for their energetic sets, genre-fluid releases, and ability to ignite dancefloors across the country, Mana Club brings a raw, unfiltered presence driven by curiosity, community, and fun.\nDrawing inspiration from techno, UK bass, latincore, and hybrid club, their sound merges intensity with playfulness, constantly bending genre boundaries.\nTheir tracks have resonated across festivals, radio shows, and club spaces worldwide. Most recently, the collective dropped their fourth compilation, Club Potions Vol. 2, premiered on platforms such as Couvre x Chefs, Sound Transitions, Latincore, and Filth Inc."
-    },
-    {
       "id": "ra-2357789",
       "date": "2026-02-14",
       "startTime": "22:00",
@@ -3549,6 +3532,23 @@
         }
       ],
       "description": "At Klubben, Valentine’s Day 2026 is about intimacy and power. It’s about celebrating sensuality on your own terms, whether single, taken, or somewhere in between, and less about heterosexual love rituals and rings hidden in chocolate lava cakes. \n\nThis Saturday, February 14th, we’re excited to welcome back Sacred Sinergy for a special Valentine’s event. This Copenhagen-based, all-female pole-dance group is known for their thoughtful performances that balance strength with softness and control with vulnerability. They turn pole dancing into an art form focused on self-expression, not just show.\n\nSacred Sinergy’s performances aren’t for the male gaze—they move beyond it.\nEvery movement is intentional. Each routine is built on trust, skill, and a shared sense of the body as both strong and poetic.\n\nFor this Valentine’s event, Kitty Spiral and Trap Goddess will be joined by guest performer Anja Provocateur, who is filling in while Velvet Valentina recovers. Anja brings a slow, grounded, and emotional energy, guided by breath, heart, and intention instead of excess.\n\nThe performances will take place throughout the night on a podium in the club, not as interruptions, but as rituals.\n\nTo hold the space, we’ve invited three DJs who understand timing, tension, and atmosphere.\nKaddi Sawaneh, DJ Alipapa, and John Vincent will set the vibe with a balanced mix of hip-hop, afrobeats, R&B, and pop. The music is there to support the performances, not compete with them.\n\nThere are a few important things to remember: this is a space where respect comes first.\n\nNO touching the performers.\nNO climbing the podium.\nAggressive, disruptive, or overly drunk behavior is not allowed.\nAnd NO requests for the DJs.\n\nIf you’re here, your role is to witness, listen, and move—not just to consume.\n\nCome alone, with a partner, or with friends.\nCome open-minded, curious, and present.\nHappy Valentine’s!\n\nSigurdsgade 39, 2200\n22 - 04\nFree entrance till 23\n120 dkk after 23\nFree wardrobe\n21+ age limit"
+    },
+    {
+      "id": "ra-2368188",
+      "date": "2026-02-14",
+      "startTime": "23:00",
+      "endTime": "04:00",
+      "title": "Mana Club / Rust Natklub",
+      "venue": "RUST Natklub, Copenhagen",
+      "lineup": [
+        "ELCA",
+        "Arsom"
+      ],
+      "tickets": "https://ra.co/events/2368188",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/6d2279bd01612e23fe15a5b242af18dc96f6933f.jpg",
+      "promotionalLinks": [],
+      "description": "RUST NATKLUB PRESENTS: MANA CLUB\n----------------------------------------\nDETAILS\n• Date: Saturday February 14th\n• Time: 23:00 - 04:00\n• Entry: 60,- kr.\n• Age restriction: 21+\n• Safer Space Policy\n----------------------------------------\nMana Club is a Copenhagen-based club initiative, DJ collective, and label run by producers and DJs ELCA, Arsom, and ALVA ALVA.\nKnown for their energetic sets, genre-fluid releases, and ability to ignite dancefloors across the country, Mana Club brings a raw, unfiltered presence driven by curiosity, community, and fun.\nDrawing inspiration from techno, UK bass, latincore, and hybrid club, their sound merges intensity with playfulness, constantly bending genre boundaries.\nTheir tracks have resonated across festivals, radio shows, and club spaces worldwide. Most recently, the collective dropped their fourth compilation, Club Potions Vol. 2, premiered on platforms such as Couvre x Chefs, Sound Transitions, Latincore, and Filth Inc."
     },
     {
       "id": "ra-2368114",
@@ -16517,23 +16517,6 @@
       "description": "Pack your bags and join us for a trip into the blue sky as a Frequent Flyer with Module Airlines!\nFor this long distance flight we bring you a main floor of local indie dance / melodic techno legends: Anders HP, Azpecialguest, Onsberg and Ayelen \n\nIn the kiosk we are cranking up the tempo with Hungarian Industrial techno master Stony - setting the tone before stony will be Bestrawa with a high energy journey of Techno, trance and schranz.\n\nWe wish you a pleasent flight with Module Airlines and we thank you for joining our\nFrequent Flyer programme. Please do not keep your personal belongings unattended at anytime.\n\n\nLINEUP:\nMain Floor:\n00:00–02:00 Anders HP\n02:00–04:00 Azpecialguest\n04:00–06:00 Onsberg\n06:00–08:00 Ayelen\n\nKiosk Floor:\n01:00-03:30 Bestrawa\n03:30-06:00 Stony (HU)\n\n\nSafer Space & Inclusion – Our Shared Guidelines\nWe believe that all guests, artists, and staff are entitled to a space free from harassment, discrimination, and exclusion.\nBy entering our space, you agree to respect the following principles:\nⓞ No physical contact without clear consent.\nⓞ Racism, sexism, homophobia, and transphobia will not be tolerated.\nⓞ No staring or intrusive behavior – looking is fine, but respect boundaries.\nⓞ Photos and video recording are not permitted inside the club.\nWe come together with one common goal: to create a safer and open environment for everyone.\nAll genders, skin tones, sexual orientations, ages, and body types are welcome. Harassment of any kind is not accepted.\nOur staff is here to support you. If you feel uncomfortable or experience any form of boundary-crossing\nbehavior, please reach out immediately.\nAge: +20\nDoor: 00.00-01.00 110kr\n01.00-06.00 130kr\n06.00-END. 70k"
     },
     {
-      "id": "ra-2463913",
-      "date": "2026-06-13",
-      "startTime": "23:00",
-      "endTime": "05:00",
-      "title": "Jolene Invites with ATEQ (DE), Amiraku",
-      "venue": "Jolene, Copenhagen",
-      "lineup": [
-        "ATEQ",
-        "Amiraku"
-      ],
-      "tickets": "https://ra.co/events/2463913",
-      "soldOut": false,
-      "flyer": "https://images.ra.co/105106246542c8f7df60fff1b28dfa7c32c566df.jpg",
-      "promotionalLinks": [],
-      "description": "Two artists, one dancefloor, a shared language built on patience and pressure. This is Jolene Invites — a format that trusts the music to do the talking and the room to do the rest.\n\nThe thread running through this night is restraint as a tool. Not sparse for the sake of it, but music that builds slowly, holds tension in the loop, and releases it through the groove rather than the drop. \n\nATEQ brings that sensibility from Berlin and Weimar via one of electronic music's most distinctive collectives. Amiraku brings it from a different route — Casablanca to Denmark, through the dusty shelves of record stores and the archive of 90s rave culture — arriving at his own synthesis that moves between acid, minimal, and the harder edges of techno.\n\nFlorian Lepa has been releasing music as ATEQ on Giegling since the collective's early Weimar years, and those releases remain the clearest map of his sound: rolling, melancholic, deeply functional. His loops don't announce themselves — they accumulate, fold back on themselves, and quietly take hold of the room. His work spans DJ sets and live performance, including a recent collaboration with percussionist Samuel Rohrer that pushed into avant-garde jazz and ambient territory, suggesting a musical curiosity that runs well beyond the obvious. At home in Berlin, he holds a residency with Heideglühen; internationally, he has developed a close bond with Tbilisi's Bassiani. What he brings to Jolene is a set rooted in that Giegling minimalism — house and techno held together by mood and movement, never in a hurry.\n\nAmiraku is a Copenhagen-based DJ whose ear was shaped by two things that rarely get to meet: the percussive, rhythmically complex music culture of Morocco where he grew up, and the UK, Detroit, and Berlin lineage he discovered after arriving in Europe. His sets move across acid, minimal, and tech-house, drawing from 90s rave archives as readily as from the Martinez-school minimal universe he cites as a core influence. There's an inherent eclecticism in how he approaches a set — not genre-hopping, but genuinely genre-fluent — and it makes for a warm-up that doesn't feel like a warm-up.\n\nTogether, these two trace a path from the considered to the insistent. Early hours carry depth and a certain inwardness — the kind of music you lean into before your body catches up. By the time the night finds its stride, the dancefloor has been given something to hold onto. Jolene's room, close and unhurried, is exactly where that joruney makes sense.\n\n---\n\nDate: Saturday, 13 June 2026\nDoors: 23:00 – 05:00\nVenue: Jolene, Flæsketorvet 81, Copenhagen (Kødbyen)\nTickets: Door Only"
-    },
-    {
       "id": "ra-2464586",
       "date": "2026-06-13",
       "startTime": "23:00",
@@ -16549,6 +16532,23 @@
       "flyer": "https://images.ra.co/6fb60bab285bb2a6b52ada4fbd66a55bc9a61676.png",
       "promotionalLinks": [],
       "description": "able nights returns! this time inviting the nottingham nightweaver @n4tee__ for a sweaty 5hr b2b spellslinger showdown with guildmaster ELOQ. @_suesix_ is making her second fable appearance, playing the closer, just to amp things up when you thought things couldnt get intense enough! SWEET LORD see you saturday at @baggenkbh this one is looking to be a steamer!! @itsfablerecords 💜⚔️ sick wizards by @gomismis chaotic flyer by @smallfries91"
+    },
+    {
+      "id": "ra-2463913",
+      "date": "2026-06-13",
+      "startTime": "23:00",
+      "endTime": "05:00",
+      "title": "Jolene Invites with ATEQ (DE), Amiraku",
+      "venue": "Jolene, Copenhagen",
+      "lineup": [
+        "ATEQ",
+        "Amiraku"
+      ],
+      "tickets": "https://ra.co/events/2463913",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/105106246542c8f7df60fff1b28dfa7c32c566df.jpg",
+      "promotionalLinks": [],
+      "description": "Two artists, one dancefloor, a shared language built on patience and pressure. This is Jolene Invites — a format that trusts the music to do the talking and the room to do the rest.\n\nThe thread running through this night is restraint as a tool. Not sparse for the sake of it, but music that builds slowly, holds tension in the loop, and releases it through the groove rather than the drop. \n\nATEQ brings that sensibility from Berlin and Weimar via one of electronic music's most distinctive collectives. Amiraku brings it from a different route — Casablanca to Denmark, through the dusty shelves of record stores and the archive of 90s rave culture — arriving at his own synthesis that moves between acid, minimal, and the harder edges of techno.\n\nFlorian Lepa has been releasing music as ATEQ on Giegling since the collective's early Weimar years, and those releases remain the clearest map of his sound: rolling, melancholic, deeply functional. His loops don't announce themselves — they accumulate, fold back on themselves, and quietly take hold of the room. His work spans DJ sets and live performance, including a recent collaboration with percussionist Samuel Rohrer that pushed into avant-garde jazz and ambient territory, suggesting a musical curiosity that runs well beyond the obvious. At home in Berlin, he holds a residency with Heideglühen; internationally, he has developed a close bond with Tbilisi's Bassiani. What he brings to Jolene is a set rooted in that Giegling minimalism — house and techno held together by mood and movement, never in a hurry.\n\nAmiraku is a Copenhagen-based DJ whose ear was shaped by two things that rarely get to meet: the percussive, rhythmically complex music culture of Morocco where he grew up, and the UK, Detroit, and Berlin lineage he discovered after arriving in Europe. His sets move across acid, minimal, and tech-house, drawing from 90s rave archives as readily as from the Martinez-school minimal universe he cites as a core influence. There's an inherent eclecticism in how he approaches a set — not genre-hopping, but genuinely genre-fluent — and it makes for a warm-up that doesn't feel like a warm-up.\n\nTogether, these two trace a path from the considered to the insistent. Early hours carry depth and a certain inwardness — the kind of music you lean into before your body catches up. By the time the night finds its stride, the dancefloor has been given something to hold onto. Jolene's room, close and unhurried, is exactly where that joruney makes sense.\n\n---\n\nDate: Saturday, 13 June 2026\nDoors: 23:00 – 05:00\nVenue: Jolene, Flæsketorvet 81, Copenhagen (Kødbyen)\nTickets: Door Only"
     },
     {
       "id": "ra-2455438",
