@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-25T10:16:20",
+  "fetched": "2026-06-26T10:23:52",
   "area": "Copenhagen, Denmark",
   "source": "https://ra.co/events/dk",
   "events": [
@@ -1757,24 +1757,6 @@
       "description": "Saturday, the 24th - Synthy Trip at Baggen🫆🪬\n\nNew event series in Copenhagen, done by Sonydiam, that focuses on progressive house and trance this time at Baggen! Featuring two of the very established DJ´s of Copenhagen electronic music scene: Nat & Mikkel Wonsbek.\n\nNat\nResiding in Copenhagen, all the way from Bratislava, NAT is an upcoming talent with a deep passion ranging from acid-spiced vintage house, right up to future-facing techno and progressive electro rollers. With bold yet incisive style, she captivates the dancefloor by pushing the limits of electronic music. Often fast and high- energy yet always seamlessly connected, her selections weave together multifaceted sound niches. Balancing raw intensity with elegance and ease, she brings a dynamic presence to the dance floor, where every set is an unpredictable yet cohesive journey. \n\nMikkel Wonsbek\nMikkel Wonsbek is a Copenhagen-based DJ, drummer, and producer known for his groovy, high-energy sound and dynamic performances. With an extroverted style he regularly brings his vibrant sets to clubs across Denmark and throughout Europe. Beyond his solo projects, Mikkel is also one half of the DK Dance duo Slush Eyes, where he continues to push the boundaries of rhythm and electronic music.\n\nSonydiam\nSonydiam, originally from Ukraine and now based in Copenhagen, performing at underground venues and festivals across Denmark. A member of the Hot Wheelz and Eternity Rave collectives. After some time exploring her sound, now focusing on modern progressive trance and house textures with groovy melodies, while blending old-school with a synthesised forward-thinking sounds.\n\nSet-times:\nNat: kl23-01\nMikkel Wonsbek: kl01-03\nSonydiam: kl03-05 (kl22-23)\n\nOpen kl22-05\nFree entry the first hour!\n75kr after"
     },
     {
-      "id": "ra-2344803",
-      "date": "2026-01-24",
-      "startTime": "23:00",
-      "endTime": "05:00",
-      "title": "Trip Sitters // Tadan (LT), Matriark, STAINS, Al-x",
-      "venue": "Jolene, Copenhagen",
-      "lineup": [
-        "Tadan",
-        "STAINS",
-        "Matriark"
-      ],
-      "tickets": "https://ra.co/events/2344803",
-      "soldOut": false,
-      "flyer": "https://images.ra.co/9a51d9f303c144f16e3f050ad470299cbb8f502d.jpg",
-      "promotionalLinks": [],
-      "description": "Trip Sitters introduces its next takeover in Jolene, created with a purpose to fill the space with well seasoned psychedelia and quality sound curation presented in a club night experience.\nFor this edition we are presenting Tadan, a Lithuanian producer and DJ with refined skills that are consistently being proved in the last years. His work is very well respected and contains an impeccable flow and sound design.\n\nJoining him are the local Stains, founder and curator of Trip Sitter club night series & Al-x for the opening times while Matriark takes over the closing set to complete and close the circle\nAn eventful evening is to be expected!"
-    },
-    {
       "id": "ra-2351604",
       "date": "2026-01-24",
       "startTime": "21:00",
@@ -1797,6 +1779,24 @@
         }
       ],
       "description": "Unearth and Copenhagen Contemporary present:\nThaiboy Digital (live)\ntonser (live)\nAtusa\nDj Srirachas\n\nThis event is part of CC10 - Copenhagen Contemporary’s 10-year anniversary."
+    },
+    {
+      "id": "ra-2344803",
+      "date": "2026-01-24",
+      "startTime": "23:00",
+      "endTime": "05:00",
+      "title": "Trip Sitters // Tadan (LT), Matriark, STAINS, Al-x",
+      "venue": "Jolene, Copenhagen",
+      "lineup": [
+        "Tadan",
+        "STAINS",
+        "Matriark"
+      ],
+      "tickets": "https://ra.co/events/2344803",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/9a51d9f303c144f16e3f050ad470299cbb8f502d.jpg",
+      "promotionalLinks": [],
+      "description": "Trip Sitters introduces its next takeover in Jolene, created with a purpose to fill the space with well seasoned psychedelia and quality sound curation presented in a club night experience.\nFor this edition we are presenting Tadan, a Lithuanian producer and DJ with refined skills that are consistently being proved in the last years. His work is very well respected and contains an impeccable flow and sound design.\n\nJoining him are the local Stains, founder and curator of Trip Sitter club night series & Al-x for the opening times while Matriark takes over the closing set to complete and close the circle\nAn eventful evening is to be expected!"
     },
     {
       "id": "ra-2346605",
@@ -2349,27 +2349,6 @@
       "description": "Heart Greetings\n\nSoundsystem Sunday \n1st of february \ninna Special Soundsystem \nConfrence style \n2 Sounds 1 Arena\n\nDalarna Dubz Soundsystem \nhand build boxes outta \nDortmund Germany\n\nmeets\n\nRockers Ark Soundsystem  \nSoundsystem Sunday Host\npushing roots rockers music\nat H15 for more than 3 years.\n\nDoors opens at 15 until Late\n50 kr entrance \n( 2.pers for 50kr before 18:00 )\n\nmore guest selectahs, vokalist and players of instruments on both soundsystems \nT.B.A soon stay tuned Idreens\n\nRoots and Culture Tradition \nhandbuild HI-Power Soundsystem \n1st sunday every month.\n\n-------------------- Record Shop --------------------\n\nRockers Ark Record Distribution \nthere as always providing brand new \nlocal and internationale records\nfor all to enjoy for ivah and ivah more.\n\nAll tribes are welcome\n\nStricktly One Love Soundsystem Dance"
     },
     {
-      "id": "ra-2350274",
-      "date": "2026-02-04",
-      "startTime": "20:00",
-      "endTime": "23:59",
-      "title": "Lost2Reality: SØS Gunver Ryberg (live) Support: Mikael Frykman",
-      "venue": "Huset I Magstræde, Copenhagen",
-      "lineup": [
-        "SØS Gunver Ryberg"
-      ],
-      "tickets": "https://ra.co/events/2350274",
-      "soldOut": false,
-      "flyer": "https://images.ra.co/ad20de0b7da03f0f1940c6664c8de401d5b14e54.jpg",
-      "promotionalLinks": [
-        {
-          "title": "Tickets",
-          "url": "https://billetto.dk/e/lost2reality-sos-gunver-ryberg-live-support-mikael-frykman-musikcafeen-billetter-1812262"
-        }
-      ],
-      "description": "I årets første kapitel af elektroniske onsdagskoncerter byder vi velkommen til SØS Gunver Ryberg: En prisvindende elektronisk komponist og lydkunstner, der skaber musik uden genregrænser og med fuld intensitet. Hun har optrådt på scener som Berghain, Roskilde Festival og Venedig Biennalen, og denne aften åbnes og sluttes kapitlet med support fra local friendly man Mikael Frykman.\n●○●○●○●○●○●○●○●○●○●○●○●○\nVenue: Musikcaféen, 3. etage\nDøre: 20:00\nShow: 21:00\nEntré: 70kr.\n●○●○●○●○●○●○●○●○●○●○●○●○\nSØS Gunver Ryberg:\nSØS Gunver Ryberg er en prisvindende elektronisk komponist og lydkunstner, kendt for sin innovative musik, der bryder med traditionelle genredefinitioner. Hun har optrådt på nogle af verdens mest prestigefyldte scener og festivaler, herunder Atonal Festival, Venedig Biennalen, Berlin Philharmonie, Flow Festival, Berghain og Roskilde Festival.\nMed en kompromisløs intensitet transformerer hun lytterens oplevelse og åbner bevidstheden for nye dimensioner. Hendes musik er kendetegnet ved kraftfulde og komplekse klangfarver, teksturer og rytmer, der væver sig sammen i et futuristisk og tidløst udtryk, der frygtløst omfavner nutiden og samtidig skaber perspektiver ind i den ukendte fremtid.\nMikael Frykman:\nLocal friendly man Mikael Frykman vil afkalke din koglekirtel og massere din amygdala med nogle af sine yndlings, afslappede og hjernegode bangers.\n------------------------------------------------------------------------\nENG.\nIn the first chapter of this year’s electronic Wednesday concerts, we welcome SØS Gunver Ryberg — an award-winning electronic composer and sound artist who creates music without genre boundaries and with full intensity. She has performed at venues such as Berghain, Roskilde Festival, and the Venice Biennale, and this evening the chapter opens and closes with support from local friendly man Mikael Frykman.\nSØS Gunver Ryberg:\nSØS Gunver Ryberg is an award-winning electronic composer and sound artist, known for her innovative music that breaks traditional genre boundaries. She has performed on some of the world’s most prestigious stages and festivals, including Atonal Festival, the Venice Biennale, Berlin Philharmonie, Flow Festival, Berghain, and Roskilde Festival.\nWith uncompromising intensity, she transforms the listener’s experience and opens the mind to new dimensions. Her music is characterized by powerful and complex tones, textures, and rhythms, woven together into a futuristic and timeless expression that fearlessly embraces the present while creating new perspectives into the unknown future.\nMikael Frykman:\nLocal friendly man Mikael will decalcify your pineal gland and massage your amygdala with some of his favorite chilled out brainy bangers."
-    },
-    {
       "id": "ra-2352549",
       "date": "2026-02-04",
       "startTime": "20:00",
@@ -2392,6 +2371,27 @@
         }
       ],
       "description": "POSH ISOLATION: LOKE RAHBEK & FREDERIK VALENTIN + VANITY PRODUCTIONS + OQBQBO\nFind billetter: https://www.ticketmaster.dk/event/539828917\n--------------------------------------\n• Døre: 19.00 • koncertstart: 20.00\n• Billetter: • Forsalg: 250 kr • Dørsalg: 260 kr\n--------------------------------------\nLoke Rahbek & Frederik Valentin\n“Together” er det tredje kollaborative album fra Frederik Valentin og Loke Rahbek, efter “Elephant” fra 2020 og \"Buy Corals Online\" fra 2017. Lo-fi-vignetter af guitar og feltoptagelser præsenteres side om side med elektroakustiske eksperimenter som fortryllende invitationer til rytmiske, syntetiske verdener, hvor hver især finder balance i Markers meditation over menneskets hukommelse. Med akustiske instrumenter behandlet digitalt og instrumentale optrædener fortolket på ny bevæger \"Together\" sig ad den frodige retning fra deres tidligere værker mod nye destinationer.\nValentins lange række af soloarbejde og samarbejder omfatter blandt andet hans produktioner med Yung Lean (som Jonatan Leandoer127) på albummet \"Nectar\", samt deres fælles bestillingsværk for Sveriges Cullberg Ballet. I mere end et årti har Rahbek skabt elektronisk musik som Croatian Amor og under en række andre aliaser. Han har siden 2009 drevet Posh Isolation sammen med Christian Stadsgaard.\n--------------------------------------\nVanity Productions\nPosh Isolations anden skaber, Christian Stadsgaard, laver musik under solo-aliasset Vanity Productions - en afgørende figur på den nordiske elektroniske musikscene.\nStadsgaard er kendt for sin innovative og udtryksfulde stil, og med Vanity Productions mixer han larmende elementer med introverte melodier. Med et eksistentialistisk touch og sløret sensibilitet, maler Stadsgaard soniske billeder af moderne melankoli.\nUdover sine anmelderroste solo-udgivelser, har Vanity Productions også samarbejdet med Merzbow, Loke Rahbek, Jonas Rönnberg og Isak Hansen.\n--------------------------------------\noqbqbo\noqbqbo er aliaset for den russiskfødte, København-baserede kunstner Nastya Sipulina. oqbqbo er tilknyttet pladeselskabet Posh Isolation, hvor hun repræsenterer den mere melodiske del af deres roster.\nHendes seneste udgivelse “Tired Sun” er hendes andet værk på Posh Isolation, og det seneste år har oqbqbo samarbejdet med kunstnere som Scandinavian Star og Vallmo – mest markant på singlerne ‘Airdrops’, ‘Open Like A Flash’ og bidraget til “Rift One” YEAR0001-kompilationen med ‘Wakening’.\nDerudover laver oqbqbo jævnligt explorative mixes på NTS Radio og lignende."
+    },
+    {
+      "id": "ra-2350274",
+      "date": "2026-02-04",
+      "startTime": "20:00",
+      "endTime": "23:59",
+      "title": "Lost2Reality: SØS Gunver Ryberg (live) Support: Mikael Frykman",
+      "venue": "Huset I Magstræde, Copenhagen",
+      "lineup": [
+        "SØS Gunver Ryberg"
+      ],
+      "tickets": "https://ra.co/events/2350274",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/ad20de0b7da03f0f1940c6664c8de401d5b14e54.jpg",
+      "promotionalLinks": [
+        {
+          "title": "Tickets",
+          "url": "https://billetto.dk/e/lost2reality-sos-gunver-ryberg-live-support-mikael-frykman-musikcafeen-billetter-1812262"
+        }
+      ],
+      "description": "I årets første kapitel af elektroniske onsdagskoncerter byder vi velkommen til SØS Gunver Ryberg: En prisvindende elektronisk komponist og lydkunstner, der skaber musik uden genregrænser og med fuld intensitet. Hun har optrådt på scener som Berghain, Roskilde Festival og Venedig Biennalen, og denne aften åbnes og sluttes kapitlet med support fra local friendly man Mikael Frykman.\n●○●○●○●○●○●○●○●○●○●○●○●○\nVenue: Musikcaféen, 3. etage\nDøre: 20:00\nShow: 21:00\nEntré: 70kr.\n●○●○●○●○●○●○●○●○●○●○●○●○\nSØS Gunver Ryberg:\nSØS Gunver Ryberg er en prisvindende elektronisk komponist og lydkunstner, kendt for sin innovative musik, der bryder med traditionelle genredefinitioner. Hun har optrådt på nogle af verdens mest prestigefyldte scener og festivaler, herunder Atonal Festival, Venedig Biennalen, Berlin Philharmonie, Flow Festival, Berghain og Roskilde Festival.\nMed en kompromisløs intensitet transformerer hun lytterens oplevelse og åbner bevidstheden for nye dimensioner. Hendes musik er kendetegnet ved kraftfulde og komplekse klangfarver, teksturer og rytmer, der væver sig sammen i et futuristisk og tidløst udtryk, der frygtløst omfavner nutiden og samtidig skaber perspektiver ind i den ukendte fremtid.\nMikael Frykman:\nLocal friendly man Mikael Frykman vil afkalke din koglekirtel og massere din amygdala med nogle af sine yndlings, afslappede og hjernegode bangers.\n------------------------------------------------------------------------\nENG.\nIn the first chapter of this year’s electronic Wednesday concerts, we welcome SØS Gunver Ryberg — an award-winning electronic composer and sound artist who creates music without genre boundaries and with full intensity. She has performed at venues such as Berghain, Roskilde Festival, and the Venice Biennale, and this evening the chapter opens and closes with support from local friendly man Mikael Frykman.\nSØS Gunver Ryberg:\nSØS Gunver Ryberg is an award-winning electronic composer and sound artist, known for her innovative music that breaks traditional genre boundaries. She has performed on some of the world’s most prestigious stages and festivals, including Atonal Festival, the Venice Biennale, Berlin Philharmonie, Flow Festival, Berghain, and Roskilde Festival.\nWith uncompromising intensity, she transforms the listener’s experience and opens the mind to new dimensions. Her music is characterized by powerful and complex tones, textures, and rhythms, woven together into a futuristic and timeless expression that fearlessly embraces the present while creating new perspectives into the unknown future.\nMikael Frykman:\nLocal friendly man Mikael will decalcify your pineal gland and massage your amygdala with some of his favorite chilled out brainy bangers."
     },
     {
       "id": "ra-2316348",
@@ -5218,6 +5218,20 @@
       "description": "Join us Saturday, March 7, for the next edition of CLUB LIVE at Sigurd CPH.\n\nAn improv live-session where DJ and musicians meet without rehearsal or a fixed setlist. At CLUB LIVE, DJ John Vincent leads the night as conductor, deconstructing and rebuilding tracks in real time through scratching, looping and live stem separation — while a handpicked lineup of musicians jumps in to reinterpret the music on the spot. Everything happens live. No safety net. No two editions are the same.\n\nLineup:\n\nDJ pre CLUB LIVE: Manuca\nCLUB LIVE: \nJohn Vincent (Turntables/Samples)\nMusikael (Guitar/Bass)\nShields (Perc)\nColumbus (Keys/Synth)\nAisha Simone (Bass)\nValdemar Weile (Drums)\nDJ post CLUB LIVE: Marcus Gordon\n\nRespect the craft — no requests, OK?!\n\nSigurdsgade 39, 2200\n22 - 04\n150 dkk presale\n120 dkk at the door\nFree wardrobe\n21+ age limit"
     },
     {
+      "id": "ra-2378580",
+      "date": "2026-03-07",
+      "startTime": "21:00",
+      "endTime": "03:00",
+      "title": "Cimbrianites Soundsystem - 3 Year Anniversary Dance",
+      "venue": "Bolsjefabrikken, Copenhagen",
+      "lineup": [],
+      "tickets": "https://ra.co/events/2378580",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/4eebb787afc2316eaa98be791286063393f2fabb.jpg",
+      "promotionalLinks": [],
+      "description": "Cimbriantes Soundsystem – 3 Year Anniversary Dance\nAfter one full year of silence, Cimbriantes Soundsystem returns to the session 💥\n\nJoin us for a night of roots dub & steppers, heavy bass and deep meditation vibrations – 100% soundsystem culture.\nThis dance marks our 3 year anniversary and mid-session we commemorate the fight for equality on International Women’s Day.\nThe night is dedicated to all mothers, grandmothers, sisters & daughters ✊🏽❤️\nStrength, resistance and unity – carried through sound and bass.\nExpect serious low-end pressure, conscious selections and a spiritual atmosphere where the music speaks louder than words.\nDubwise, no compromise – pure soundsystem energy from start to finish ⚡️🔊\n📍 Bolsjefabrikken\n🕘 21:00 – 03:00\n💰 Entrance: 40 DKK (20 DKK before 22:00)\nCome early, feel the vibration, and let the sound guide you.\nRoots. Dub. Steppers.\nAll tribes welcome !"
+    },
+    {
       "id": "ra-2386699",
       "date": "2026-03-07",
       "startTime": "22:00",
@@ -5233,20 +5247,6 @@
       "flyer": "https://images.ra.co/ab3261ac023a6c86b8cf1ceeff3cea3199ec2d5a.png",
       "promotionalLinks": [],
       "description": "Jolene Invites w/ Decoder & Grammar Of Movement\n\nJolene Invites welcomes Decoder and Grammar Of Movement, two artists working across deeper and more hypnotic shades of techno.\n\nDallas based producer and DJ, Decoder moves through sci-fi and deep techno, building retrofuturistic soundscapes shaped by experimental electronics and his cultural roots. With releases across Antiterra, Float Records, Subsist and Jeff Mills’ legendary Axis label, his productions have found support from artists like Richie Hawtin, Jeff Mills and Ben Sims, while his DJ sets have taken him through clubs such as De School, Fold and Cialo.\n\nJoining him is Copenhagen based Grammar Of Movement, the moniker of Danish-Iranian artist Puyain Sanati. Moving between Aarhus, Berlin and Copenhagen, his work explores hypnotic rhythms, textured atmospheres and a willingness to experiment. Through releases like Azadi and Plastic Games, as well as work on Copenhagen’s Escho label, he maps out rhythmic structures that feel both personal and expansive.\n\nSee you on the dancefloor."
-    },
-    {
-      "id": "ra-2378580",
-      "date": "2026-03-07",
-      "startTime": "21:00",
-      "endTime": "03:00",
-      "title": "Cimbrianites Soundsystem - 3 Year Anniversary Dance",
-      "venue": "Bolsjefabrikken, Copenhagen",
-      "lineup": [],
-      "tickets": "https://ra.co/events/2378580",
-      "soldOut": false,
-      "flyer": "https://images.ra.co/4eebb787afc2316eaa98be791286063393f2fabb.jpg",
-      "promotionalLinks": [],
-      "description": "Cimbriantes Soundsystem – 3 Year Anniversary Dance\nAfter one full year of silence, Cimbriantes Soundsystem returns to the session 💥\n\nJoin us for a night of roots dub & steppers, heavy bass and deep meditation vibrations – 100% soundsystem culture.\nThis dance marks our 3 year anniversary and mid-session we commemorate the fight for equality on International Women’s Day.\nThe night is dedicated to all mothers, grandmothers, sisters & daughters ✊🏽❤️\nStrength, resistance and unity – carried through sound and bass.\nExpect serious low-end pressure, conscious selections and a spiritual atmosphere where the music speaks louder than words.\nDubwise, no compromise – pure soundsystem energy from start to finish ⚡️🔊\n📍 Bolsjefabrikken\n🕘 21:00 – 03:00\n💰 Entrance: 40 DKK (20 DKK before 22:00)\nCome early, feel the vibration, and let the sound guide you.\nRoots. Dub. Steppers.\nAll tribes welcome !"
     },
     {
       "id": "ra-2306905",
@@ -17623,13 +17623,28 @@
       "venue": "Jolene, Copenhagen",
       "lineup": [
         "Anna Cainelli",
-        "DJ LoveCatt"
+        "DJ LoveCatt",
+        "Savsannah"
       ],
       "tickets": "https://ra.co/events/2474046",
       "soldOut": false,
       "flyer": "https://images.ra.co/df82b033e93f3fc21c04077abb742d7ffb246311.png",
       "promotionalLinks": [],
       "description": "LOVE PARTY is an ode to everything we love about clubbing, heavily inspired by early club and house culture. This night calls for self-expression, dancing, connecting, respect and having fun Grab (a) loved one(s) and create a beautiful, safe, non-jugdemental dancefloor together with us.\nThis night at Jolene is all about love!\n\nFor this edition of LOVE PARTY I’m lucky to be teaming up with E.P.I.Q.!\nThey’re a group of seven DJs based in Cologne whose mission is to combine their eclectic tastes for musical journeys through the night. They join forces with other DJs, artists, and creatives for wholesome events within the local scene and other cities around Germany.\nEnter one of their dance floors and allow the confidence, blissful joy, and passion to embrace you – an energy one can’t explain but only experience. The moment your foot steps into their world, you become part of the symbiotic cell that melts with the multitude of dancing bodies. They aim to create a supportive space where they can share their favorite sounds, togetherness, and radiance with everyone. E.P.I.Q. is Sedaction, Savsannah, Piush, Nikity, C:Mone, Anna Cainelli, & AMSL. From soul to hip-hop, R&B to world pop, house to breakbeats, bass to UK garage, and more, they provide cute B2B2Bs, loving energy, and booty shaking all night long.\n\nE.P.I.Q. is usually seven powerhouses but tonight we get to experience three of them.\n\n𝗟𝗜𝗡𝗘𝗨𝗣\n\n❥ 𝓓𝓙 𝓛𝓸𝓿𝓮𝓒𝓪𝓽𝓽\nis a big sucker for house, garage, disco, chicago house, and anything groovy from the past and the future. Everything should revolve around love! The music we love, the places, surroundings we love, and the people we love.\n\n❥ 𝓐𝓷𝓷𝓪 𝓒𝓪𝓲𝓷𝓮𝓵𝓵𝓲\n\nis a Cologne-based DJ, radio host and part of the seven-member DJ crew E.P.I.Q. From vibrant housey to UK beats and seductive, rhythmic sounds: She sets herself no genre boundaries and plays whatever her heart desires and won't let her feet stand still.\n\n❥ 𝓒:𝓜𝓸𝓷𝓮\nstands for authentic vinyl culture, warm grooves, and musical storytelling. Inspired by the spirit of Kool & The Gang’s quote “Music is the message that sings universal love for one and all” — she creates a vibe that moves between club energy and soulful vibrations — Black Music is the core\n\n❥ 𝓢𝓪𝓿𝓼𝓪𝓷𝓷𝓪𝓱\n\nBetween 2-step kick drums, wobbly basslines, and chopped-up vocal samples, Savsannah's sets create a world filled where cheerful pop elements, summer euphoria, and deep emotions exist in the same realm.\n\nWe can’t wait to party with you all!\n\n——————————\n\n𝗧𝗶𝗰𝗸𝗲𝘁𝘀 & 𝗧𝗶𝗺𝗲\n17-22h: Radio Panini, doors open, free entry\n23-05h: Club night, 85 DKK\n\n𝗪𝗵𝗲𝗿𝗲\nJ𝗼𝗹𝗲𝗻𝗲 B𝗮𝗿\n\n𝗔𝗱𝗺𝗶𝘀𝘀𝗶𝗼𝗻\nEntrance only to 20+ with valid ID.\nWe reserve the right to reject entry without further explanation.\n\n𝗧𝗵𝗶𝘀 𝗶𝘀 𝗵𝗼𝘄 𝘄𝗲 𝗽𝗮𝗿𝘁𝘆\nWe want a safe and welcoming place for anybody and everybody. Bigger Diversity = Better party. We embrace all kinds of people willing to participate. The night is only as good as we make it.\n\n𝗛𝗼𝘂𝘀𝗲 𝗥𝘂𝗹𝗲𝘀\nBe respectful of one another.\nNever grind/grab/grope without consent.\nLook out for each other.\nSpread positive vibes only.\nThe dancefloor is for dancing; don’t have loud conversations or use your phones.\nDo not comment on people’s appearance unless it’s positive.\nImmerse yourself in the music.\nYou are responsible for a good party.\nIf you see or experience any bad behaviour or unwanted attention, do not hesitate to contact our staff!"
+    },
+    {
+      "id": "ra-2475320",
+      "date": "2026-06-26",
+      "startTime": "20:00",
+      "endTime": "23:59",
+      "title": "MIB Rooftop Summer Party",
+      "venue": "TBA - Roof top close to runddelen, Copenhagen",
+      "lineup": [],
+      "tickets": "https://ra.co/events/2475320",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/a8644e4cc0ffa93f3660bc896907b2c2d5d324fc.jpg",
+      "promotionalLinks": [],
+      "description": "*MIB Rooftop Summer Party*\n\nThe finalization of our first year of MIB calls for an end of year celebration, where each of us can step into future endeavours in the best way possible.\n\nJoin us for the last party of the year on the 26th of June!\n\nBring: mixer, alcohol or other beverages to create a shared bar – creativity encouraged"
     },
     {
       "id": "ra-2474699",
@@ -17651,20 +17666,6 @@
       "flyer": "https://images.ra.co/d3aac0790f4b5518662fb9cc13726bea80088d9f.png",
       "promotionalLinks": [],
       "description": "Dirty Trancing! And yes — it’s all about dancing to dirty variations of trance music all night long.\nNo pretense, no posing — just sweat, bass, and pure movement.\nLINEUP:\n\nMain Room\n00.00-02.00 Skalm\n02.00-04.00 Alexander Santana\n04.00-06.00 Sekta\n06.00-08.00 DJ VOID\n\nKiosk\n01.00-03.30 Anna Logic\n03.30-06.00 DJ Joe\n\nSafer Space & Inclusion – Our Shared Guidelines\nWe believe that all guests, artists, and staff are entitled to a space free from harassment, discrimination, and exclusion.\nBy entering our space, you agree to respect the following principles:\nⓞ No physical contact without clear consent.\nⓞ Racism, sexism, homophobia, and transphobia will not be tolerated.\nⓞ No staring or intrusive behavior – looking is fine, but respect boundaries.\nⓞ Photos and video recording are not permitted inside the club.\nWe come together with one common goal: to create a safer and open environment for everyone.\nAll genders, skin tones, sexual orientations, ages, and body types are welcome. Harassment of any kind is not accepted.\nOur staff is here to support you. If you feel uncomfortable or experience any form of boundary-crossing\nbehavior, please reach out immediately.\nAge: +20\nDoor: 00.00-01.00 110kr\n01.00-06.00 130kr\n06.00-END. 70k"
-    },
-    {
-      "id": "ra-2475320",
-      "date": "2026-06-26",
-      "startTime": "20:00",
-      "endTime": "23:59",
-      "title": "MIB Rooftop Summer Party",
-      "venue": "TBA - Roof top close to runddelen, Copenhagen",
-      "lineup": [],
-      "tickets": "https://ra.co/events/2475320",
-      "soldOut": false,
-      "flyer": "https://images.ra.co/a8644e4cc0ffa93f3660bc896907b2c2d5d324fc.jpg",
-      "promotionalLinks": [],
-      "description": "*MIB Rooftop Summer Party*\n\nThe finalization of our first year of MIB calls for an end of year celebration, where each of us can step into future endeavours in the best way possible.\n\nJoin us for the last party of the year on the 26th of June!\n\nBring: mixer, alcohol or other beverages to create a shared bar – creativity encouraged"
     },
     {
       "id": "ra-2456870",
@@ -18058,27 +18059,6 @@
       "description": "østerbro sommer nætter xxx"
     },
     {
-      "id": "ra-2456342",
-      "date": "2026-07-04",
-      "startTime": "19:00",
-      "endTime": "22:00",
-      "title": "K A L E II D O + Mike Sheridan",
-      "venue": "KLEIN kbh, Copenhagen",
-      "lineup": [
-        "Mike Sheridan"
-      ],
-      "tickets": "https://ra.co/events/2456342",
-      "soldOut": false,
-      "flyer": "https://images.ra.co/33449509f8f63e622622598624f7dcb325e0df46.jpg",
-      "promotionalLinks": [
-        {
-          "title": "Tickets",
-          "url": "https://billetto.dk/e/k-a-l-e-ii-d-o-mike-sheridan-billetter-1907462"
-        }
-      ],
-      "description": "Glæd dig til en aften med nærværende og sanselig jazz, når K A L E II D O + Mike Sheridan spiller i Dansepavillonen ved KLEIN under Copenhagen Jazz Festival 2026. Duoen skaber musik i øjeblikket med et roligt, intuitivt samspil, hvor hver tone opstår i nuet.\n▼▼▼\nEntré: 120 kr. plus gebyr (140 kr. i døren)\nBilletter: https://billetto.dk/.../k-a-l-e-ii-d-o-mike-sheridan...\nDøre kl. 18:30\nKoncert kl. 19:00\nVenue: Dansepavillonen\n▲▲▲\nAnna Roemer og Cecilie Strange har på få år manifesteret sig på den danske musikscene med deres duo K A L E II D O og deres banebrydende tilgang til at spille øjebliksmusik. Hvert anslag, hvert åndedræt, hver enkelt tone opstår lige dér - i samspillet mellem Roemer og Strange og deres medmusikere. Det værende i studiet eller på scenen.\nHver gang afsøger de nye uafprøvet afgrunde og deres musik affødes af et roligt, langsomt talende tonesprog, hvor instrumenterne på indfølt vis smyger sig om hinanden. Der er på intet tidspunkt plads til egoer, musikalske afstikkere eller show-offs. Tvæ rtimod vidner duoens lyd om en musikalsk modenhed og kærlighed til samskabelse med deres gæstemusikere, som nærmer sig det transcenderende. K A L E II D O udgav deres anmelderroste debutalbum VOYAGE i januar 2021 og den prisvindende opfølger ELEMENTS i marts 2022. I efteråret 2023 udkom album nummer tre med navnet PLACES, som gæstes af Rumpistol på synthesizer, keyboard og sampling, Lars Vissing på trompet med diverse effekter, Rasmus Sitarz på trommer med effekter samt drum pad og Hannah Schneider på ordløs vokal.\nK A L E II D O vandt Carl Prisen i kategorien “Årets Komponist Jazz” i\n2023 for deres album ELEMENTS som de desuden også modtog “Jazznytprisen” for i efteråret 2022. K A L E II D O har også tidligere år været nomineret til Carl Prisen for VOYAGE, DMA JAZZ, indstillet til GAFFA-prisen i flere kategorier og høstet flotte anmeldelser for deres første tre første udgivelser VOYAGE fra 2021, ELEMENTS 2022 og PLACES fra 2023. PLACES vandt også Carl Prisen for \"Årets Komponist indenfor Jazz\" i 2024.\nNu har de for første gang været i studiet og indspille et duoalbum i det berømte Ocean Sound studie i Norge. Albummet forventes udgivet senere i år. I foråret 2024 indspillede Roemer og Strange en række livesessions i Pavillionen ved Karensminde Kulturhus. De er forevigt på 3 udgivelser som tilsammen er en EP ved navn: PART OF NATURE. Koncerten på KLEIN under dette års Copenhagen Jazz Festival er en duo koncert.\nSagt om K A L E II DO:\nPolitiken (5 hjerter)\n(David A. Dyrholm Nielsen) VOYAGE\n“Med duodebuten ’Voyage’ lukker guitarist Anna Roemer og saxofonist Cecilie Strange fuldstændig op for blændeåbningen, der lader lyset skinne direkte ind i kalejdoskopet, så spejlene og det farvede glas kan danne nye billeder i bevidstheden.”\nKristeligt Dagblad (5 stjerner)\n(Andreo Mielczarek) ELEMENTS\n“[…] musikken ligger og ulmer i ambiente flader, minimalistisk, men aldrig trivielt – aldrig overfyldt… Et flot album, som vokser for hver lytning, og som viser, at dansk jazz lever og har det godt.”"
-    },
-    {
       "id": "ra-2475305",
       "date": "2026-07-04",
       "startTime": "23:59",
@@ -18103,6 +18083,27 @@
         }
       ],
       "description": "Turbo Tanz is back once again! Let’s go!\n\nIt’s time to shit gears and celebrate life with fast beats, sweaty dance floors, and pure energy from start to finish. This time with a hot mixed lineup that will creating a back and forth dynamics from hypnotic techno to Hard techno, breaks, trance and back \nTwo floors, a stacked lineup, and no slowing down until the lights come on.\n\nLINEUP:\nMain Floor:\n00.00-02.00 Draho\n02.00-04.00 steamboi\n04.00-06.00 Kamikazem\n06.00-08.00 Forehead Kisses\n\nKiosk Floor:\n01.00-03.30 DJ Dopamina\n03.30-06.00 Holysss\n\nSafer Space & Inclusion – Our Shared Guidelines\nWe believe that all guests, artists, and staff are entitled to a space free from harassment, discrimination, and exclusion.\nBy entering our space, you agree to respect the following principles:\nⓞ No physical contact without clear consent.\nⓞ Racism, sexism, homophobia, and transphobia will not be tolerated.\nⓞ No staring or intrusive behavior – looking is fine, but respect boundaries.\nⓞ Photos and video recording are not permitted inside the club.\nWe come together with one common goal: to create a safer and open environment for everyone.\nAll genders, skin tones, sexual orientations, ages, and body types are welcome. Harassment of any kind is not accepted.\nOur staff is here to support you. If you feel uncomfortable or experience any form of boundary-crossing\nbehavior, please reach out immediately.\n\nAge: +20\nDoor: 00.00-01.00 110kr\n01.00-06.00 130kr\n06.00-END. 70k\nTurbo Tanz all night."
+    },
+    {
+      "id": "ra-2456342",
+      "date": "2026-07-04",
+      "startTime": "19:00",
+      "endTime": "22:00",
+      "title": "K A L E II D O + Mike Sheridan",
+      "venue": "KLEIN kbh, Copenhagen",
+      "lineup": [
+        "Mike Sheridan"
+      ],
+      "tickets": "https://ra.co/events/2456342",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/33449509f8f63e622622598624f7dcb325e0df46.jpg",
+      "promotionalLinks": [
+        {
+          "title": "Tickets",
+          "url": "https://billetto.dk/e/k-a-l-e-ii-d-o-mike-sheridan-billetter-1907462"
+        }
+      ],
+      "description": "Glæd dig til en aften med nærværende og sanselig jazz, når K A L E II D O + Mike Sheridan spiller i Dansepavillonen ved KLEIN under Copenhagen Jazz Festival 2026. Duoen skaber musik i øjeblikket med et roligt, intuitivt samspil, hvor hver tone opstår i nuet.\n▼▼▼\nEntré: 120 kr. plus gebyr (140 kr. i døren)\nBilletter: https://billetto.dk/.../k-a-l-e-ii-d-o-mike-sheridan...\nDøre kl. 18:30\nKoncert kl. 19:00\nVenue: Dansepavillonen\n▲▲▲\nAnna Roemer og Cecilie Strange har på få år manifesteret sig på den danske musikscene med deres duo K A L E II D O og deres banebrydende tilgang til at spille øjebliksmusik. Hvert anslag, hvert åndedræt, hver enkelt tone opstår lige dér - i samspillet mellem Roemer og Strange og deres medmusikere. Det værende i studiet eller på scenen.\nHver gang afsøger de nye uafprøvet afgrunde og deres musik affødes af et roligt, langsomt talende tonesprog, hvor instrumenterne på indfølt vis smyger sig om hinanden. Der er på intet tidspunkt plads til egoer, musikalske afstikkere eller show-offs. Tvæ rtimod vidner duoens lyd om en musikalsk modenhed og kærlighed til samskabelse med deres gæstemusikere, som nærmer sig det transcenderende. K A L E II D O udgav deres anmelderroste debutalbum VOYAGE i januar 2021 og den prisvindende opfølger ELEMENTS i marts 2022. I efteråret 2023 udkom album nummer tre med navnet PLACES, som gæstes af Rumpistol på synthesizer, keyboard og sampling, Lars Vissing på trompet med diverse effekter, Rasmus Sitarz på trommer med effekter samt drum pad og Hannah Schneider på ordløs vokal.\nK A L E II D O vandt Carl Prisen i kategorien “Årets Komponist Jazz” i\n2023 for deres album ELEMENTS som de desuden også modtog “Jazznytprisen” for i efteråret 2022. K A L E II D O har også tidligere år været nomineret til Carl Prisen for VOYAGE, DMA JAZZ, indstillet til GAFFA-prisen i flere kategorier og høstet flotte anmeldelser for deres første tre første udgivelser VOYAGE fra 2021, ELEMENTS 2022 og PLACES fra 2023. PLACES vandt også Carl Prisen for \"Årets Komponist indenfor Jazz\" i 2024.\nNu har de for første gang været i studiet og indspille et duoalbum i det berømte Ocean Sound studie i Norge. Albummet forventes udgivet senere i år. I foråret 2024 indspillede Roemer og Strange en række livesessions i Pavillionen ved Karensminde Kulturhus. De er forevigt på 3 udgivelser som tilsammen er en EP ved navn: PART OF NATURE. Koncerten på KLEIN under dette års Copenhagen Jazz Festival er en duo koncert.\nSagt om K A L E II DO:\nPolitiken (5 hjerter)\n(David A. Dyrholm Nielsen) VOYAGE\n“Med duodebuten ’Voyage’ lukker guitarist Anna Roemer og saxofonist Cecilie Strange fuldstændig op for blændeåbningen, der lader lyset skinne direkte ind i kalejdoskopet, så spejlene og det farvede glas kan danne nye billeder i bevidstheden.”\nKristeligt Dagblad (5 stjerner)\n(Andreo Mielczarek) ELEMENTS\n“[…] musikken ligger og ulmer i ambiente flader, minimalistisk, men aldrig trivielt – aldrig overfyldt… Et flot album, som vokser for hver lytning, og som viser, at dansk jazz lever og har det godt.”"
     },
     {
       "id": "ra-2466450",
@@ -18627,6 +18628,33 @@
       "description": "Bas Under Buen Extended. Saturday, July 11th. The party started under the bridge. Now it continues indoors at Sigurd. Same energy, more floor, no curfew.\n\nGavnlig\nDanish-Icelandic producer and DJ with a technical finesse and a truly distinctive taste. Usually operating in heavy breaks and techno territory but reads a room with the ease of someone who has done it long enough to know when to shift. Genre-fluid, always in service of the floor.\n\nHigh Graid\nFifteen years deep with roots in East London. Producer and DJ with stripped-down, high-intensity sets built for the dancefloor. UK funky, hard drum and UK bass at the core - pulls from anywhere, always lands the element of surprise.\n\nSanjari\nPersian melodies woven into modern house and dance music. Hypnotic rhythms, traditional textures, high-energy club grooves. Curator of the Silk Road event series at Sigurd CPH.\n\nCalifano\nDubstep, DnB and bass-heavy club sounds delivered hard. Known from Culture Box, Baggen and Module. Hits hard and keeps the floor locked.\n\nFergus Murphy\nA trusted Copenhagen selector with a sound that spans new and old music from all around the world. Blends soul with instinct, crosses genres and dives into musical wormholes that only make sense once you're in the room. Opening the evening across Klubben and Haven.\n\nNo requests, OK?! Follow where it goes. \n\nSigurdsgade 39, 2200 20:00–04:00 Free till 23 · 120 DKK after Free wardrobe · 21+"
     },
     {
+      "id": "ra-2476860",
+      "date": "2026-07-11",
+      "startTime": "23:59",
+      "endTime": "08:00",
+      "title": "ABSOLUTE BOUNCE 2000: ALYOSHA (ARG)",
+      "venue": "MODULE, Copenhagen",
+      "lineup": [
+        "ALYOSHA",
+        "Anna Logic",
+        "ASTA MARI",
+        "Captain Bubblegum",
+        "Minimy",
+        "dj bootymagic",
+        "FA999"
+      ],
+      "tickets": "https://ra.co/events/2476860",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/50a7cb89df4e51c917f7fed3058f2609d68c0574.png",
+      "promotionalLinks": [
+        {
+          "title": "EVENT PAGE",
+          "url": "https://www.facebook.com/events/1074115061944435"
+        }
+      ],
+      "description": "ABSOLUTE BOUNCE 2000\nBoot up. Log in. Lose control.\nAbsolute Bounce 2000 is your glitch in time—dialing straight back to the Y2K era where chrome dreams, pixel fever, and underground rave energy collide. Think flip phones, cybercore aesthetics, and dancefloors that feel like a corrupted hard drive on overload.\nExpect high-BPM bouncy techno, elastic basslines, bouncy techno and trance-laced grooves that hit like a dial-up connection on steroids.\n\nALYOSHA (ARG)\nAn acclaimed figure in the dance community, Alyosha’s sets are a journey through sound that leaves an indelible mark on all who experience them. Known for their infectious energy and captivating stage presence, they’re a true force in the world of electronic music, sweeter than the last drop of a perfectly crafted mix.\nWith a heart rooted in the essence of 90s acid and trance, Alyosha’s sound is a nostalgic homage to the iconic era of electronic music, infusing each set with the euphoric highs and mesmerizing beats that defined a generation. Alyosha hits harder than the drop in Sandstorm by Darude—no doubt about it.\n\nMain.\n00.00-02.00 Anna Logic\n02.00-04.00 Asta Mari\n04.00-06.00 ALYOSHA (ARG)\n06.00-08.00 Captain Bubblegum\n\nKiosk.\n01.00-03.30 FA999\n03.30-06.00 bootymagic b2b minimy (SE)\n\nSafer Space & Inclusion – Our Shared Guidelines\nWe believe that all guests, artists, and staff are entitled to a space free from harassment, discrimination, and exclusion.\nBy entering our space, you agree to respect the following principles:\nⓞ No physical contact without clear consent.\nⓞ Racism, sexism, homophobia, and transphobia will not be tolerated.\nⓞ No staring or intrusive behavior – looking is fine, but respect boundaries.\nⓞ Photos and video recording are not permitted inside the club.\nWe come together with one common goal: to create a safer and open environment for everyone.\nAll genders, skin tones, sexual orientations, ages, and body types are welcome. Harassment of any kind is not accepted.\nOur staff is here to support you. If you feel uncomfortable or experience any form of boundary-crossing\nbehavior, please reach out immediately.\n\nAge: + 20\nDoor:\n00.00-01.00 110 DKK\n01.00-06.00 160 DKK\n06.00-END. 70 DKK\n\nThis is your system update.\nThis is your rave.exe.\nThis is ABSOLUTE BOUNCE 2000."
+    },
+    {
       "id": "ra-2461550",
       "date": "2026-07-12",
       "startTime": "16:00",
@@ -19142,13 +19170,14 @@
       "date": "2026-07-25",
       "startTime": "20:00",
       "endTime": "06:00",
-      "title": "parashoot, Talons, Mwah, Sam Good, DJ Lukey",
+      "title": "parashoot, Talons, Mwah, Sam Good, DJ Lukey, Mary Harp",
       "venue": "Hangaren, Copenhagen",
       "lineup": [
         "parashoot",
         "Talons",
         "Mary Harp",
         "Mwah",
+        "samgood",
         "DJ Lukey"
       ],
       "tickets": "https://ra.co/events/2471567",
@@ -19168,7 +19197,32 @@
           "url": "https://www.hangaren.dk"
         }
       ],
-      "description": "On the 25th of July, our local UK Garage and Bassline masters will take over both our garden and indoor booth - starting outdoors in the sun, ending in the dark and gloomy hangar. If you like bouncy, driving bass, this night is a night you shouldn't miss out on!\n\n𝗟𝗜𝗡𝗘-𝗨𝗣:  \nParashoot\nTalons\nMwah\nSam Good\nDJ Lukey\n\nENTRANCE:\n- Free entrance: 20-21\n- Early entrance 21-23 50kr (presale and door sale)\n- All night entrance 22-04 100kr (presale and door sale)\n- Late entrance 04-05 50kr (door sale only)\n\n- No entrance after 5:00 \n- No re-entry \n- A presale ticket will ensure your entry before the selected time slot. \n- The presale ends when the door opens at 20:00 \n- There are always tickets for sale at the door, even if the presale is sold out. \n- Presale tickets are prioritized for faster entry.   \n- Please note that a presale ticket does not guarantee entry. Hangaren reserves the right to deny entry. Tickets will be automatically refunded in that case.  \n- Due to security checks at the entrance, there may be an increased waiting time even with a ticket. We ask you to please take this into account and respect it. \n- Come early, stay late! \n\nINFO: \nOpening hours 20:00-06:00 \nMinimum age: 20+ \nAddress: Hangaren, Refshalevej 185, 1432 Copenhagen \nLost & Found: Please fill out our lost item form on our website under info.\n\nWARDROBE/LOCKERS: \nHangaren has switched from manual wardrobe to digital lockers The use of the lockers is mandatory for every guest due to fire safety codes. Share the locker with your friends.\n\nMedium lockers with pace for 2-3 jackets = 40 DKK \nLarge lockers: Space for 3-5 jackets = 70 DKK\n\nHANGAREN: \nHangaren at Refshalevej 185 is an old hangar construction turned into a nightclub for electronic music and event space. Hangaren is located at a secluded green spot on Refshaleøen in central Copenhagen. We are here to present the city's vibrant electronic music scene. You will be treated with a heavy soundsystem by Lambda Labs at the indoor stage and a crisp Turbosound system at the outdoor stage.There is a cosy courtyard with chill-out possibility, a bonfire, big sky scenery from where you can watch the sunset, the stars and the sunrise. The bar serves organic beers, drinks at fair prices. Our main purpose is to serve as a platform and inspiration for the cultural scene in Copenhagen\n\nTHIS IS HOW WE PARTY: \nHangaren wants every guest to feel safe and free at our parties. This is a shared space and there should be an open atmosphere where everyone can enjoy themselves, whoever they are or wherever they come from. We do not want any harassment based on race, gender, sexual orientation, religion, disability, body size, political orientation, social background or age. \nIf you feel you are being harassed, a victim of nonconsensual touching, or otherwise made to feel unsafe by any form of aggressive or inappropriate attitude, contact our staff or security: they will assist you. It's only a party if we all feel free! \nNo photos and video - Stay in the moment! \nNo phones or loud conversations on the dancefloor. \nThe dancefloor is for dancing, Please respect the vibe! \nTake care of yourself and each other.\nPlease contact our staff if you need help or assistance of any kind.\n\n\n\n\n*Guests holding \"Early entrance\" tickets are expected to arrive between 20:00 and 23:00. Please be aware that due to security checks, wait times may range from 5 to 30 minutes. It is the guest's responsibility to ensure they reach the entrance desk by 22:59 at the latest. Any arrivals after this time will incur a late entrance fee of 50kr."
+      "description": "On the 25th of July, our local UK Garage and Bassline masters will take over both our garden and indoor booth - starting outdoors in the sun, ending in the dark and gloomy hangar. If you like bouncy, driving bass, this night is a night you shouldn't miss out on!\n\n𝗟𝗜𝗡𝗘-𝗨𝗣:  \nParashoot\nTalons\nMwah\nSam Good\nDJ Lukey\nMary Harp\n\nENTRANCE:\n- Free entrance: 20-21\n- Early entrance 21-23 50kr (presale and door sale)\n- All night entrance 22-04 100kr (presale and door sale)\n- Late entrance 04-05 50kr (door sale only)\n\n- No entrance after 5:00 \n- No re-entry \n- A presale ticket will ensure your entry before the selected time slot. \n- The presale ends when the door opens at 20:00 \n- There are always tickets for sale at the door, even if the presale is sold out. \n- Presale tickets are prioritized for faster entry.   \n- Please note that a presale ticket does not guarantee entry. Hangaren reserves the right to deny entry. Tickets will be automatically refunded in that case.  \n- Due to security checks at the entrance, there may be an increased waiting time even with a ticket. We ask you to please take this into account and respect it. \n- Come early, stay late! \n\nINFO: \nOpening hours 20:00-06:00 \nMinimum age: 20+ \nAddress: Hangaren, Refshalevej 185, 1432 Copenhagen \nLost & Found: Please fill out our lost item form on our website under info.\n\nWARDROBE/LOCKERS: \nHangaren has switched from manual wardrobe to digital lockers The use of the lockers is mandatory for every guest due to fire safety codes. Share the locker with your friends.\n\nMedium lockers with pace for 2-3 jackets = 40 DKK \nLarge lockers: Space for 3-5 jackets = 70 DKK\n\nHANGAREN: \nHangaren at Refshalevej 185 is an old hangar construction turned into a nightclub for electronic music and event space. Hangaren is located at a secluded green spot on Refshaleøen in central Copenhagen. We are here to present the city's vibrant electronic music scene. You will be treated with a heavy soundsystem by Lambda Labs at the indoor stage and a crisp Turbosound system at the outdoor stage.There is a cosy courtyard with chill-out possibility, a bonfire, big sky scenery from where you can watch the sunset, the stars and the sunrise. The bar serves organic beers, drinks at fair prices. Our main purpose is to serve as a platform and inspiration for the cultural scene in Copenhagen\n\nTHIS IS HOW WE PARTY: \nHangaren wants every guest to feel safe and free at our parties. This is a shared space and there should be an open atmosphere where everyone can enjoy themselves, whoever they are or wherever they come from. We do not want any harassment based on race, gender, sexual orientation, religion, disability, body size, political orientation, social background or age. \nIf you feel you are being harassed, a victim of nonconsensual touching, or otherwise made to feel unsafe by any form of aggressive or inappropriate attitude, contact our staff or security: they will assist you. It's only a party if we all feel free! \nNo photos and video - Stay in the moment! \nNo phones or loud conversations on the dancefloor. \nThe dancefloor is for dancing, Please respect the vibe! \nTake care of yourself and each other.\nPlease contact our staff if you need help or assistance of any kind.\n\n\n\n\n*Guests holding \"Early entrance\" tickets are expected to arrive between 20:00 and 23:00. Please be aware that due to security checks, wait times may range from 5 to 30 minutes. It is the guest's responsibility to ensure they reach the entrance desk by 22:59 at the latest. Any arrivals after this time will incur a late entrance fee of 50kr."
+    },
+    {
+      "id": "ra-2476020",
+      "date": "2026-07-25",
+      "startTime": "15:00",
+      "endTime": "05:00",
+      "title": "Prog Realm & Earth Dog: Extended",
+      "venue": "Jolene, Copenhagen",
+      "lineup": [
+        "Crisco",
+        "djfix",
+        "Jek (US)",
+        "Ricardo Roessel",
+        "Sørine"
+      ],
+      "tickets": "https://ra.co/events/2476020",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/84b1ecbb610465c955c80f2ff8f25be721ca94bb.jpg",
+      "promotionalLinks": [
+        {
+          "title": "Prog Realm",
+          "url": "https://www.instagram.com/progrealm/"
+        }
+      ],
+      "description": "Saturday, July 25th:\nProg Realm & Earth Dog: Extended\n\nBorn from years spent navigating dancefloors, labels, and DIY scenes, Earth Dog is the musical and visual project founded by Jek and djfix. After shaping their craft through independent label work, mix series, and extended raves across the Pacific Northwest, the duo has distilled a sound that feels both familiar and futuristic: early West Coast tech house, progressive trance, and organic psychedelia designed for powerful sound systems and open-air dancefloors."
     },
     {
       "id": "ra-2473635",
@@ -19288,7 +19342,7 @@
           "url": "https://www.hangaren.dk"
         }
       ],
-      "description": "Moving up from Lutruwita to Naarm, Sam Alfred has swiftly carved a space for himself in the local scene. He’s one of Melbourne’s newest and most exciting DJs,  known for mixing jazz-tipped house with deep cuts & UK garage. \n\nWith a signature house and techno sound that is reminiscent of the 90s. Sam has made a name for himself releasing music on amazing labels such as Love Above Records, Phenomena Records, Spinning Around and Happy Wax records. You will find yourself uncontrollably dancing and moving when Sam takes the stage slinging the finest house cuts and a rare selection of techno to get your heart racing.\n\n𝗟𝗜𝗡𝗘-𝗨𝗣:  \nSam Alfred\nDraber666\nYoon\n\nENTRANCE:\n- Early bird 125kr \n- Presale and Doorsale 150kr \n\n20% discount on doorsale with a valid O Days wristband/ticket.\n\n- No entrance after 4:00 \n- No re-entry \n- A presale ticket will ensure your entry before the selected time slot. \n- The presale ends when the door opens at 23:00 \n- There are always tickets for sale at the door, even if the presale is sold out. \n- Presale tickets are prioritized for faster entry.   \n- Please note that a presale ticket does not guarantee entry. Hangaren reserves the right to deny entry. Tickets will be automatically refunded in that case.  \n- Due to security checks at the entrance, there may be an increased waiting time even with a ticket. We ask you to please take this into account and respect it. \n- Come early, stay late! \n\nINFO: \nOpening hours 23:00-05:00 \nMinimum age: 20+ \nAddress: Hangaren, Refshalevej 185, 1432 Copenhagen \nLost & Found: Please fill out our lost item form on our website under info.\n\nWARDROBE/LOCKERS: \nHangaren has switched from manual wardrobe to digital lockers The use of the lockers is mandatory for every guest due to fire safety codes. Share the locker with your friends.\n\nMedium lockers with pace for 2-3 jackets = 40 DKK \nLarge lockers: Space for 3-5 jackets = 70 DKK\n\nHANGAREN: \nHangaren at Refshalevej 185 is an old hangar construction turned into a nightclub for electronic music and event space. Hangaren is located at a secluded green spot on Refshaleøen in central Copenhagen. We are here to present the city's vibrant electronic music scene. You will be treated with a heavy soundsystem by Lambda Labs at the indoor stage and a crisp Turbosound system at the outdoor stage.There is a cosy courtyard with chill-out possibility, a bonfire, big sky scenery from where you can watch the sunset, the stars and the sunrise. The bar serves organic beers, drinks at fair prices. Our main purpose is to serve as a platform and inspiration for the cultural scene in Copenhagen\n\nTHIS IS HOW WE PARTY: \nHangaren wants every guest to feel safe and free at our parties. This is a shared space and there should be an open atmosphere where everyone can enjoy themselves, whoever they are or wherever they come from. We do not want any harassment based on race, gender, sexual orientation, religion, disability, body size, political orientation, social background or age. \nIf you feel you are being harassed, a victim of nonconsensual touching, or otherwise made to feel unsafe by any form of aggressive or inappropriate attitude, contact our staff or security: they will assist you. It's only a party if we all feel free! \nNo photos and video - Stay in the moment! \nNo phones or loud conversations on the dancefloor. \nThe dancefloor is for dancing, Please respect the vibe! \nTake care of yourself and each other.\nPlease contact our staff if you need help or assistance of any kind."
+      "description": "𝟑𝟎.𝟎𝟕.𝟐𝟎𝟐𝟔 \n⭑.ᐟ House and UKG on a late Thursday summer night - aka the place to be for the ones wishing to continue the party after Odays festival. Doors open at 23:00, party goes til 05:00 ⭑.ᐟ\n\nSam Alfred \nMoving up from Lutruwita to Naarm, Sam Alfred has swiftly carved a space for himself in the local scene. He’s one of Melbourne’s newest and most exciting DJs,  known for mixing jazz-tipped house with deep cuts & UK garage. \n\nWith a signature house and techno sound that is reminiscent of the 90s. Sam has made a name for himself releasing music on amazing labels such as Love Above Records, Phenomena Records, Spinning Around and Happy Wax records. You will find yourself uncontrollably dancing and moving when Sam takes the stage slinging the finest house cuts and a rare selection of techno to get your heart racing.\n\n𝗟𝗜𝗡𝗘-𝗨𝗣:  \nSam Alfred\nDraber666\nYoon\n\nENTRANCE:\n- Early bird 125kr \n- Presale and Doorsale 150kr \n\n20% discount on doorsale with a valid O Days wristband/ticket.\n\n- No entrance after 4:00 \n- No re-entry \n- A presale ticket will ensure your entry before the selected time slot. \n- The presale ends when the door opens at 23:00 \n- There are always tickets for sale at the door, even if the presale is sold out. \n- Presale tickets are prioritized for faster entry.   \n- Please note that a presale ticket does not guarantee entry. Hangaren reserves the right to deny entry. Tickets will be automatically refunded in that case.  \n- Due to security checks at the entrance, there may be an increased waiting time even with a ticket. We ask you to please take this into account and respect it. \n- Come early, stay late! \n\nINFO: \nOpening hours 23:00-05:00 \nMinimum age: 20+ \nAddress: Hangaren, Refshalevej 185, 1432 Copenhagen \nLost & Found: Please fill out our lost item form on our website under info.\n\nWARDROBE/LOCKERS: \nHangaren has switched from manual wardrobe to digital lockers The use of the lockers is mandatory for every guest due to fire safety codes. Share the locker with your friends.\n\nMedium lockers with pace for 2-3 jackets = 40 DKK \nLarge lockers: Space for 3-5 jackets = 70 DKK\n\nHANGAREN: \nHangaren at Refshalevej 185 is an old hangar construction turned into a nightclub for electronic music and event space. Hangaren is located at a secluded green spot on Refshaleøen in central Copenhagen. We are here to present the city's vibrant electronic music scene. You will be treated with a heavy soundsystem by Lambda Labs at the indoor stage and a crisp Turbosound system at the outdoor stage.There is a cosy courtyard with chill-out possibility, a bonfire, big sky scenery from where you can watch the sunset, the stars and the sunrise. The bar serves organic beers, drinks at fair prices. Our main purpose is to serve as a platform and inspiration for the cultural scene in Copenhagen\n\nTHIS IS HOW WE PARTY: \nHangaren wants every guest to feel safe and free at our parties. This is a shared space and there should be an open atmosphere where everyone can enjoy themselves, whoever they are or wherever they come from. We do not want any harassment based on race, gender, sexual orientation, religion, disability, body size, political orientation, social background or age. \nIf you feel you are being harassed, a victim of nonconsensual touching, or otherwise made to feel unsafe by any form of aggressive or inappropriate attitude, contact our staff or security: they will assist you. It's only a party if we all feel free! \nNo photos and video - Stay in the moment! \nNo phones or loud conversations on the dancefloor. \nThe dancefloor is for dancing, Please respect the vibe! \nTake care of yourself and each other.\nPlease contact our staff if you need help or assistance of any kind."
     },
     {
       "id": "ra-2468236",
@@ -19406,7 +19460,7 @@
           "url": "https://www.hangaren.dk"
         }
       ],
-      "description": "Born and raised in Eastern Germany, Trancemaster Krause aka, ”Trancy” has gained international recognition through his unique sound and high-energy performances. \n\nAs a member of the Polyamor family, the DJ and producer knows how to captivate audiences—whether in underground clubs around the globe or on massive festival stages. His sets blend driving trance, old-school grooves, powerful kicks, and hard house influences, creating an infectious energy that pulls the crowd into an immersive, high-octane musical journey. \n\nWith releases ranging from emotional tracks to full-blown trancy party anthems, Trancemaster Krause has developed a distinctive sound that always hits the right nerve - recognizable, powerful, and made to move you.\n\n--\n\nOllie Lishman is a distinguished DJ and Producer hailing from Naarm/Melbourne Australia,  whose meteoric rise in the electronic music scene is propelled by his dynamic fusion of trance,  techno, and iconic grooves, captivating dance floors worldwide. \n\nDrawing inspiration from the  pulsating beats of 90s techno, hard house, and trance, Ollie's productions have garnered  widespread acclaim, earning him international recognition from esteemed figures such as Trym, Narciss, Marlon Hoffstadt, DJ Heartstring, among others. His tracks have become fixtures in the  global arena, featured in renowned Boiler Rooms and festivals.  \n\nOllie's artistic journey is characterized by sonic  innovation, seamlessly bridging the realms of hard house, techno intensity, and trance euphoria. His oeuvre stands as a testament to his meticulous craftsmanship and unwavering dedication to  the electronic music landscape.\n\n𝗟𝗜𝗡𝗘-𝗨𝗣:  \nTrancemaster Krause\nOllie Lishman\nSteamboi\nAnna Logic \nDJ Spice\n\nENTRANCE:\n- Free entrance: 20-21 \n- Early entrance 21-23 100kr (presale and door sale)\n - All night entrance 22-04 175kr (presale and door sale) \n- Late entrance 04-05 100kr (door sale only)\n\n20% discount on doorsale with a valid O Days wristband/ticket.\n\n- No entrance after 5:00 \n- No re-entry \n- A presale ticket will ensure your entry before the selected time slot. \n- The presale ends when the door opens at 20:00 \n- There are always tickets for sale at the door, even if the presale is sold out. \n- Presale tickets are prioritized for faster entry.   \n- Please note that a presale ticket does not guarantee entry. Hangaren reserves the right to deny entry. Tickets will be automatically refunded in that case.  \n- Due to security checks at the entrance, there may be an increased waiting time even with a ticket. We ask you to please take this into account and respect it. \n- Come early, stay late! \n\nINFO: \nOpening hours 20:00-06:00 \nMinimum age: 20+ \nAddress: Hangaren, Refshalevej 185, 1432 Copenhagen \nLost & Found: Please fill out our lost item form on our website under info.\n\nWARDROBE/LOCKERS: \nHangaren has switched from manual wardrobe to digital lockers The use of the lockers is mandatory for every guest due to fire safety codes. Share the locker with your friends.\n\nMedium lockers with pace for 2-3 jackets = 40 DKK \nLarge lockers: Space for 3-5 jackets = 70 DKK\n\nHANGAREN: \nHangaren at Refshalevej 185 is an old hangar construction turned into a nightclub for electronic music and event space. Hangaren is located at a secluded green spot on Refshaleøen in central Copenhagen. We are here to present the city's vibrant electronic music scene. You will be treated with a heavy soundsystem by Lambda Labs at the indoor stage and a crisp Turbosound system at the outdoor stage.There is a cosy courtyard with chill-out possibility, a bonfire, big sky scenery from where you can watch the sunset, the stars and the sunrise. The bar serves organic beers, drinks at fair prices. Our main purpose is to serve as a platform and inspiration for the cultural scene in Copenhagen\n\nTHIS IS HOW WE PARTY: \nHangaren wants every guest to feel safe and free at our parties. This is a shared space and there should be an open atmosphere where everyone can enjoy themselves, whoever they are or wherever they come from. We do not want any harassment based on race, gender, sexual orientation, religion, disability, body size, political orientation, social background or age. \nIf you feel you are being harassed, a victim of nonconsensual touching, or otherwise made to feel unsafe by any form of aggressive or inappropriate attitude, contact our staff or security: they will assist you. It's only a party if we all feel free! \nNo photos and video - Stay in the moment! \nNo phones or loud conversations on the dancefloor. \nThe dancefloor is for dancing, Please respect the vibe! \nTake care of yourself and each other.\nPlease contact our staff if you need help or assistance of any kind.\n\n\n\n\n*Guests holding \"Early entrance\" tickets are expected to arrive between 20:00 and 23:00. Please be aware that due to security checks, wait times may range from 5 to 30 minutes. It is the guest's responsibility to ensure they reach the entrance desk by 22:59 at the latest. Any arrivals after this time will incur a late entrance fee of 50kr."
+      "description": "𝟑𝟏.𝟎𝟕.𝟐𝟎𝟐𝟔 \n✧˖ We will kick off the last Friday of July with garden grooves of house, disco and acid house, bulding up to a trance and hardtrance heavy night from international selectors Trancemaster Krause and Ollie Lishman. ˖✧\n\n𝐓𝐫𝐚𝐧𝐜𝐞𝐦𝐚𝐬𝐭𝐞𝐫 𝐊𝐫𝐚𝐮𝐬𝐞\nAs a member of the Polyamor family, the DJ and producer knows how to captivate audiences—whether in underground clubs around the globe or on massive festival stages. \n\nHis sets blend driving trance, old-school grooves, powerful kicks, and hard house influences, creating an infectious energy that pulls the crowd into an immersive, high-octane musical journey. \n\n𝐎𝐥𝐥𝐢𝐞 𝐋𝐢𝐬𝐡𝐦𝐚𝐧\nOllie Lishman is a distinguished DJ and Producer hailing from Naarm/Melbourne Australia, whose meteoric rise in the electronic music scene is propelled by his dynamic fusion of trance, techno, and iconic grooves, captivating dance floors worldwide. \n\nOllie's artistic journey is characterized by sonic innovation, seamlessly bridging the realms of hard house, techno intensity, and trance euphoria. His oeuvre stands as a testament to his meticulous craftsmanship and unwavering dedication to the electronic music landscape. \n\n𝗟𝗜𝗡𝗘-𝗨𝗣:  \nTrancemaster Krause\nOllie Lishman\nSteamboi\nAnna Logic \nDJ Spice\n\nENTRANCE:\n- Free entrance: 20-21 \n- Early entrance 21-23 100kr (presale and door sale)\n - All night entrance 22-04 175kr (presale and door sale) \n- Late entrance 04-05 100kr (door sale only)\n\n20% discount on doorsale with a valid O Days wristband/ticket.\n\n- No entrance after 5:00 \n- No re-entry \n- A presale ticket will ensure your entry before the selected time slot. \n- The presale ends when the door opens at 20:00 \n- There are always tickets for sale at the door, even if the presale is sold out. \n- Presale tickets are prioritized for faster entry.   \n- Please note that a presale ticket does not guarantee entry. Hangaren reserves the right to deny entry. Tickets will be automatically refunded in that case.  \n- Due to security checks at the entrance, there may be an increased waiting time even with a ticket. We ask you to please take this into account and respect it. \n- Come early, stay late! \n\nINFO: \nOpening hours 20:00-06:00 \nMinimum age: 20+ \nAddress: Hangaren, Refshalevej 185, 1432 Copenhagen \nLost & Found: Please fill out our lost item form on our website under info.\n\nWARDROBE/LOCKERS: \nHangaren has switched from manual wardrobe to digital lockers The use of the lockers is mandatory for every guest due to fire safety codes. Share the locker with your friends.\n\nMedium lockers with pace for 2-3 jackets = 40 DKK \nLarge lockers: Space for 3-5 jackets = 70 DKK\n\nHANGAREN: \nHangaren at Refshalevej 185 is an old hangar construction turned into a nightclub for electronic music and event space. Hangaren is located at a secluded green spot on Refshaleøen in central Copenhagen. We are here to present the city's vibrant electronic music scene. You will be treated with a heavy soundsystem by Lambda Labs at the indoor stage and a crisp Turbosound system at the outdoor stage.There is a cosy courtyard with chill-out possibility, a bonfire, big sky scenery from where you can watch the sunset, the stars and the sunrise. The bar serves organic beers, drinks at fair prices. Our main purpose is to serve as a platform and inspiration for the cultural scene in Copenhagen\n\nTHIS IS HOW WE PARTY: \nHangaren wants every guest to feel safe and free at our parties. This is a shared space and there should be an open atmosphere where everyone can enjoy themselves, whoever they are or wherever they come from. We do not want any harassment based on race, gender, sexual orientation, religion, disability, body size, political orientation, social background or age. \nIf you feel you are being harassed, a victim of nonconsensual touching, or otherwise made to feel unsafe by any form of aggressive or inappropriate attitude, contact our staff or security: they will assist you. It's only a party if we all feel free! \nNo photos and video - Stay in the moment! \nNo phones or loud conversations on the dancefloor. \nThe dancefloor is for dancing, Please respect the vibe! \nTake care of yourself and each other.\nPlease contact our staff if you need help or assistance of any kind.\n\n\n\n\n*Guests holding \"Early entrance\" tickets are expected to arrive between 20:00 and 23:00. Please be aware that due to security checks, wait times may range from 5 to 30 minutes. It is the guest's responsibility to ensure they reach the entrance desk by 22:59 at the latest. Any arrivals after this time will incur a late entrance fee of 50kr."
     },
     {
       "id": "ra-2468237",
@@ -19468,14 +19522,17 @@
       "date": "2026-08-01",
       "startTime": "20:00",
       "endTime": "06:00",
-      "title": "DJ Tennis",
+      "title": "DJ Tennis, Ena Cosovic, NILU, RO, Adam Eisert ",
       "venue": "Hangaren, Copenhagen",
       "lineup": [
-        "DJ Tennis"
+        "DJ Tennis",
+        "Ena Cosovic",
+        "NILU",
+        "Adam Eisert"
       ],
       "tickets": "https://ra.co/events/2444741",
       "soldOut": false,
-      "flyer": "https://images.ra.co/79cfd2dd5145992a37fb3ef123251637eb611e7e.jpg",
+      "flyer": "https://images.ra.co/354d4d3fcdfbbb25baa96c14e3688878c951e8bd.png",
       "promotionalLinks": [
         {
           "title": "Instagram",
@@ -19490,7 +19547,7 @@
           "url": "https://www.hangaren.dk"
         }
       ],
-      "description": "Founder and A&R of Life and Death Records, Manfredi Romano grew up tour-managing punk bands and organizing left-field music events in Italy around the turn of the Millennium. Having completed his studies in computer science at the University of Pisa, Manfredi then formed DAZE, Italy’s first booking agency solely devoted to electronic music. \n\nDrawing on two decades of experience behind the scenes, Romano shifted focus to DJ Tennis, established in 2010 and quickly gained worldwide recognition in the electronic music scene.\n\nAs a performer, DJ Tennis has the unique ability to create intimate atmospheres in the vastest of gatherings, blending elements of house, techno and disco in eclectic and captivating ways. \n\nManfredi is also a long-time producer; in his studio work he consistently channels his past relationships with post-rock luminaries such as Godspeed You! Black Emperor, Tortoise and Fugazi into intricately-synthesized electronic constellations. Throughout his career, DJ Tennis’ music has been released on Kompakt, Rhythm Assault, Running Back Records, !K7, Cercle Records, Aus Music, Circoloco Records, other than having frequent his own releases on Life and Death. Tennis also remixed the likes of Diplo, Boys Noize, Loco Dice, WhoMadeWho, Acid Pauli and more. \n\n𝗟𝗜𝗡𝗘-𝗨𝗣:  \nDJ Tennis\ntba\ntba\ntba\n\nENTRANCE:\n- Free entrance: 20-21 \n- Early entrance 21-23 100kr (presale and door sale)\n - All night entrance 22-04 175kr (presale and door sale) \n- Late entrance 04-05 100kr (door sale only)\n\n\n- No entrance after 5:00 \n- No re-entry \n- A presale ticket will ensure your entry before the selected time slot. \n- The presale ends when the door opens at 20:00 \n- There are always tickets for sale at the door, even if the presale is sold out. \n- Presale tickets are prioritized for faster entry.   \n- Please note that a presale ticket does not guarantee entry. Hangaren reserves the right to deny entry. Tickets will be automatically refunded in that case.  \n- Due to security checks at the entrance, there may be an increased waiting time even with a ticket. We ask you to please take this into account and respect it. \n- Come early, stay late! \n\nINFO: \nOpening hours 20:00-06:00 \nMinimum age: 20+ \nAddress: Hangaren, Refshalevej 185, 1432 Copenhagen \nLost & Found: Please fill out our lost item form on our website under info.\n\nWARDROBE/LOCKERS: \nHangaren has switched from manual wardrobe to digital lockers The use of the lockers is mandatory for every guest due to fire safety codes. Share the locker with your friends.\n\nMedium lockers with pace for 2-3 jackets = 40 DKK \nLarge lockers: Space for 3-5 jackets = 70 DKK\n\nHANGAREN: \nHangaren at Refshalevej 185 is an old hangar construction turned into a nightclub for electronic music and event space. Hangaren is located at a secluded green spot on Refshaleøen in central Copenhagen. We are here to present the city's vibrant electronic music scene. You will be treated with a heavy soundsystem by Lambda Labs at the indoor stage and a crisp Turbosound system at the outdoor stage.There is a cosy courtyard with chill-out possibility, a bonfire, big sky scenery from where you can watch the sunset, the stars and the sunrise. The bar serves organic beers, drinks at fair prices. Our main purpose is to serve as a platform and inspiration for the cultural scene in Copenhagen\n\nTHIS IS HOW WE PARTY: \nHangaren wants every guest to feel safe and free at our parties. This is a shared space and there should be an open atmosphere where everyone can enjoy themselves, whoever they are or wherever they come from. We do not want any harassment based on race, gender, sexual orientation, religion, disability, body size, political orientation, social background or age. \nIf you feel you are being harassed, a victim of nonconsensual touching, or otherwise made to feel unsafe by any form of aggressive or inappropriate attitude, contact our staff or security: they will assist you. It's only a party if we all feel free! \nNo photos and video - Stay in the moment! \nNo phones or loud conversations on the dancefloor. \nThe dancefloor is for dancing, Please respect the vibe! \nTake care of yourself and each other.\nPlease contact our staff if you need help or assistance of any kind.\n\n\n\n\n*Guests holding \"Early entrance\" tickets are expected to arrive between 20:00 and 23:00. Please be aware that due to security checks, wait times may range from 5 to 30 minutes. It is the guest's responsibility to ensure they reach the entrance desk by 22:59 at the latest. Any arrivals after this time will incur a late entrance fee of 50kr."
+      "description": "DJ Tennis\nFounder and A&R of Life and Death Records, Manfredi Romano grew up tour-managing punk bands and organizing left-field music events in Italy around the turn of the Millennium. Having completed his studies in computer science at the University of Pisa, Manfredi then formed DAZE, Italy’s first booking agency solely devoted to electronic music. \n\nDrawing on two decades of experience behind the scenes, Romano shifted focus to DJ Tennis, established in 2010 and quickly gained worldwide recognition in the electronic music scene.\n\nAs a performer, DJ Tennis has the unique ability to create intimate atmospheres in the vastest of gatherings, blending elements of house, techno and disco in eclectic and captivating ways. \n\nManfredi is also a long-time producer; in his studio work he consistently channels his past relationships with post-rock luminaries such as Godspeed You! Black Emperor, Tortoise and Fugazi into intricately-synthesized electronic constellations. Throughout his career, DJ Tennis’ music has been released on Kompakt, Rhythm Assault, Running Back Records, !K7, Cercle Records, Aus Music, Circoloco Records, other than having frequent his own releases on Life and Death. Tennis also remixed the likes of Diplo, Boys Noize, Loco Dice, WhoMadeWho, Acid Pauli and more. \n\n𝗟𝗜𝗡𝗘-𝗨𝗣:  \nDJ Tennis\nEna Cosovic\nNilu\nRO\nAdam Eisert \n\nENTRANCE:\n- Free entrance: 20-21 \n- Early entrance 21-23 100kr (presale and door sale)\n - All night entrance 22-04 175kr (presale and door sale) \n- Late entrance 04-05 100kr (door sale only)\n\n20% discount on doorsale with a valid O Days wristband/ticket.\n\n- No entrance after 5:00 \n- No re-entry \n- A presale ticket will ensure your entry before the selected time slot. \n- The presale ends when the door opens at 20:00 \n- There are always tickets for sale at the door, even if the presale is sold out. \n- Presale tickets are prioritized for faster entry.   \n- Please note that a presale ticket does not guarantee entry. Hangaren reserves the right to deny entry. Tickets will be automatically refunded in that case.  \n- Due to security checks at the entrance, there may be an increased waiting time even with a ticket. We ask you to please take this into account and respect it. \n- Come early, stay late! \n\nINFO: \nOpening hours 20:00-06:00 \nMinimum age: 20+ \nAddress: Hangaren, Refshalevej 185, 1432 Copenhagen \nLost & Found: Please fill out our lost item form on our website under info.\n\nWARDROBE/LOCKERS: \nHangaren has switched from manual wardrobe to digital lockers The use of the lockers is mandatory for every guest due to fire safety codes. Share the locker with your friends.\n\nMedium lockers with pace for 2-3 jackets = 40 DKK \nLarge lockers: Space for 3-5 jackets = 70 DKK\n\nHANGAREN: \nHangaren at Refshalevej 185 is an old hangar construction turned into a nightclub for electronic music and event space. Hangaren is located at a secluded green spot on Refshaleøen in central Copenhagen. We are here to present the city's vibrant electronic music scene. You will be treated with a heavy soundsystem by Lambda Labs at the indoor stage and a crisp Turbosound system at the outdoor stage.There is a cosy courtyard with chill-out possibility, a bonfire, big sky scenery from where you can watch the sunset, the stars and the sunrise. The bar serves organic beers, drinks at fair prices. Our main purpose is to serve as a platform and inspiration for the cultural scene in Copenhagen\n\nTHIS IS HOW WE PARTY: \nHangaren wants every guest to feel safe and free at our parties. This is a shared space and there should be an open atmosphere where everyone can enjoy themselves, whoever they are or wherever they come from. We do not want any harassment based on race, gender, sexual orientation, religion, disability, body size, political orientation, social background or age. \nIf you feel you are being harassed, a victim of nonconsensual touching, or otherwise made to feel unsafe by any form of aggressive or inappropriate attitude, contact our staff or security: they will assist you. It's only a party if we all feel free! \nNo photos and video - Stay in the moment! \nNo phones or loud conversations on the dancefloor. \nThe dancefloor is for dancing, Please respect the vibe! \nTake care of yourself and each other.\nPlease contact our staff if you need help or assistance of any kind.\n\n\n\n\n*Guests holding \"Early entrance\" tickets are expected to arrive between 20:00 and 23:00. Please be aware that due to security checks, wait times may range from 5 to 30 minutes. It is the guest's responsibility to ensure they reach the entrance desk by 22:59 at the latest. Any arrivals after this time will incur a late entrance fee of 50kr."
     },
     {
       "id": "ra-2400145",
@@ -19534,6 +19591,40 @@
         }
       ],
       "description": "Open Decks & Ping Pong is back this August!\n\nAre you heading back to school, on your third sabbatical, or already back at your desk wondering how it happened again? Whatever your situation, it might be a good idea to drop in for some intense ping pong matches and off-kilter DJ sets.\n\n\n\nAs always, expect:\n\n-A ping pong tournament with amazing prizes\n-Round-the-table chaos all night long\n-Open decks for anyone who wants to play\n\n\nBring your own vinyl and jump on the decks — everyone’s welcome. Just speak to the crew to grab a slot. Early arrivals get the best set times, so come early before the schedule fills up."
+    },
+    {
+      "id": "ra-2476060",
+      "date": "2026-08-07",
+      "startTime": "22:00",
+      "endTime": "07:00",
+      "title": "Modeplex / Animal Print / Azpecialguest / AVI.avi / DJ BENDER / mrjs.ddk",
+      "venue": "Culture Box, Copenhagen",
+      "lineup": [
+        "Modeplex",
+        "Animal Print",
+        "Azpecialguest",
+        "AVI.avi",
+        "DJ BENDER",
+        "mrjs.ddk"
+      ],
+      "tickets": "https://ra.co/events/2476060",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/2a122cd8dd317e5b5a0660612d7cafa0167fba00.jpg",
+      "promotionalLinks": [
+        {
+          "title": "Website",
+          "url": "https://culture-box.com"
+        },
+        {
+          "title": "Instagram",
+          "url": "https://www.instagram.com/cultureboxdk/"
+        },
+        {
+          "title": "Facebook event",
+          "url": "https://www.facebook.com/events/1309207241369794"
+        }
+      ],
+      "description": "Germany's Modeplex and Bolivia's Animal Print arrive at Culture Box for a special night in the legendary Black Box hosted by Azpecialguest. Meanwhile, AVI.avi, DJ BENDER, and mrjs.ddk take over the Red Box.\n\nModeplex is renowned for releases on labels such as Katermukke, BeatFreak Recordings, Einmusika, Steyoyoke, and Solomun's Diynamic among many others. Animal Print has built an impressive catalogue with releases on Kompakt and Systematic Recordings, while Azpecialguest comes fresh off a release on 3000 Grad. All  artists have also released music on Renaissance. As you may have guessed, these are some of the most active names in contemporary melodic house and techno and the deeper, more melodic corners of electronic music. AVI.avi hosts Red Box after the return to Copenhagen and brings DJ BENDER, and mrjs.ddk for a fun and playful night in Red Box.\n\nFirst drink/beer for free the first open hour.\n\nAttitude Code\nRead about our Attitude Code / Safer Space policy and training on our website."
     },
     {
       "id": "ra-2457135",
@@ -19717,11 +19808,12 @@
       "title": "Vinocio Copenhagen 2026",
       "venue": "H15 Scene & Studio, Copenhagen",
       "lineup": [
-        "Vinocio"
+        "Vinocio",
+        "Ivan Dallmann"
       ],
       "tickets": "https://ra.co/events/2437917",
       "soldOut": false,
-      "flyer": "https://images.ra.co/1fd7b61ca9baa8ed0d8405ea98e61c4ed245e8c4.png",
+      "flyer": "https://images.ra.co/0283a10b01cec4b1a4fa1876de717044534f2e09.png",
       "promotionalLinks": [
         {
           "title": "Some Traces Of House",
@@ -19736,7 +19828,7 @@
           "url": "https://open.spotify.com/artist/73yh69zlE05t6t0dC3C55p?si=mA1nmHeQRteAeb1r4nWdFQ"
         }
       ],
-      "description": "Some Traces Of House represents an artistic platform focused on underground house music where different sound perceptions are highlighted according to each artist. This concept was founded by Ivan Dallmann in 2020. STOH allows international artists to express themselves in music podcasts and it also works as an independent record label and musical events promoter, aiming to diversify channels and boost up different ways of expression.\n\nIn this opportunity we are glad to host Vinocio for the second time and with the full band, on their 2026 European tour at H15 in the mythical meat packing district of Copenhagen. \n\nVinocio is a project that blends genres like Soul, R&B, Hip Hop and Jazz, strongly influenced by the 70 / 90's sounds but at the same time keeping loyal to its roots by their lyrics and Argentine accent. The founding members of this Funk / Soul band from Buenos Aires are Lucio Memi and Fermin Carpena, later on joined by other musicians such as Juan Duque (AKA Chiljud), Ivan Chapuis, Fer Moreno and Maxi Sayes. Their music is inspired by funk and soul from the 70's by artists like Roy Ayers and neo-soul artists like D’Angelo.\n\nThe promising band shared stage with iconic musicians such as Marcos Valle (Brazil), Kamaal Williams (UK) and Ratones Paranoicos (Argentina). They also played in international festivals like Lolapallozza, Primavera Sound and Cosquín Rock.\n\nIt will be a soulful summer evening with good music, drinks, chill vibes, DJ guests and that special argentine crowd atmosphere you don’t wanna miss.\n\nTickets Info.\n\nEarly Bird: 160 DKK + RA Fee\n1st Release: 180 DKK + RA Fee\nGeneral Admission: 200 DKK + RA Fee\nFinal Release: 220 DKK + RA Fee\nDoor: 250 DKK + RA Fee"
+      "description": "Some Traces Of House represents an artistic platform focused on underground house music where different sound perceptions are highlighted according to each artist. This concept was founded by Ivan Dallmann in 2020. STOH allows international artists to express themselves in music podcasts and it also works as an independent record label and musical events promoter, aiming to diversify channels and boost up different ways of expression.\n\nIn this opportunity we are glad to host Vinocio for the second time and with the full band, on their 2026 European tour at H15 in the mythical meat packing district of Copenhagen. \n\nVinocio is a project that blends genres like Soul, R&B, Hip Hop and Jazz, strongly influenced by the 70 / 90's sounds but at the same time keeping loyal to its roots by their lyrics and Argentine accent. The founding members of this Funk / Soul band from Buenos Aires are Lucio Memi and Fermin Carpena, later on joined by other musicians such as Juan Duque (AKA Chiljud), Ivan Chapuis, Fer Moreno and Maxi Sayes. Their music is inspired by funk and soul from the 70's by artists like Roy Ayers and neo-soul artists like D’Angelo.\n\nThe promising band shared stage with iconic musicians such as Kamasi Washington (USA), Marcos Valle (Brazil), Kamaal Williams (UK) and Ratones Paranoicos (Argentina). They also played in international festivals like Lolapallozza, Primavera Sound and Cosquín Rock.\n\nIt will be a soulful summer evening with good music, drinks, chill vibes, DJ guests and that special argentine crowd atmosphere you don’t wanna miss.\n\nTickets Info.\n\nEarly Bird: 160 DKK + RA Fee\n1st Release: 180 DKK + RA Fee\nGeneral Admission: 200 DKK + RA Fee\nFinal Release: 220 DKK + RA Fee\nDoor: 250 DKK + RA Fee"
     },
     {
       "id": "ra-2452029",
@@ -19930,6 +20022,33 @@
         }
       ],
       "description": "𝗟𝗜𝗡𝗘-𝗨𝗣:  \nDaria Kolosova\ntba\ntba\ntba\n\nENTRANCE:\n- Free entrance: 20-21\n- Early entrance 21-23 100kr (presale and door sale)\n- All night entrance 22-04 175kr (presale and door sale)\n- Late entrance 04-05 100kr (door sale only)\n\n- No entrance after 5:00 \n- No re-entry \n- A presale ticket will ensure your entry before the selected time slot. \n- The presale ends when the door opens at 20:00 \n- There are always tickets for sale at the door, even if the presale is sold out. \n- Presale tickets are prioritized for faster entry.   \n- Please note that a presale ticket does not guarantee entry. Hangaren reserves the right to deny entry. Tickets will be automatically refunded in that case.  \n- Due to security checks at the entrance, there may be an increased waiting time even with a ticket. We ask you to please take this into account and respect it. \n- Come early, stay late! \n\nINFO: \nOpening hours 20:00-06:00 \nMinimum age: 20+ \nAddress: Hangaren, Refshalevej 185, 1432 Copenhagen \nLost & Found: Please fill out our lost item form on our website under info.\n\nWARDROBE/LOCKERS: \nHangaren has switched from manual wardrobe to digital lockers The use of the lockers is mandatory for every guest due to fire safety codes. Share the locker with your friends.\n\nMedium lockers with pace for 2-3 jackets = 40 DKK \nLarge lockers: Space for 3-5 jackets = 70 DKK\n\nHANGAREN: \nHangaren at Refshalevej 185 is an old hangar construction turned into a nightclub for electronic music and event space. Hangaren is located at a secluded green spot on Refshaleøen in central Copenhagen. We are here to present the city's vibrant electronic music scene. You will be treated with a heavy soundsystem by Lambda Labs at the indoor stage and a crisp Turbosound system at the outdoor stage.There is a cosy courtyard with chill-out possibility, a bonfire, big sky scenery from where you can watch the sunset, the stars and the sunrise. The bar serves organic beers, drinks at fair prices. Our main purpose is to serve as a platform and inspiration for the cultural scene in Copenhagen\n\nTHIS IS HOW WE PARTY: \nHangaren wants every guest to feel safe and free at our parties. This is a shared space and there should be an open atmosphere where everyone can enjoy themselves, whoever they are or wherever they come from. We do not want any harassment based on race, gender, sexual orientation, religion, disability, body size, political orientation, social background or age. \nIf you feel you are being harassed, a victim of nonconsensual touching, or otherwise made to feel unsafe by any form of aggressive or inappropriate attitude, contact our staff or security: they will assist you. It's only a party if we all feel free! \nNo photos and video - Stay in the moment! \nNo phones or loud conversations on the dancefloor. \nThe dancefloor is for dancing, Please respect the vibe! \nTake care of yourself and each other.\nPlease contact our staff if you need help or assistance of any kind.\n\n\n\n\n*Guests holding \"Early entrance\" tickets are expected to arrive between 20:00 and 23:00. Please be aware that due to security checks, wait times may range from 5 to 30 minutes. It is the guest's responsibility to ensure they reach the entrance desk by 22:59 at the latest. Any arrivals after this time will incur a late entrance fee of 50kr."
+    },
+    {
+      "id": "ra-2476017",
+      "date": "2026-08-21",
+      "startTime": "21:00",
+      "endTime": "05:00",
+      "title": "RUN THE RAVE presents: Yamatai Records (5 year anniversary)",
+      "venue": "Kraftwerket, Copenhagen",
+      "lineup": [
+        "Popsie",
+        "Dwonji",
+        "HDN (DK)"
+      ],
+      "tickets": "https://ra.co/events/2476017",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/a8cd3b9088a318af32251f0dab59b97b7c9fdf9b.jpg",
+      "promotionalLinks": [
+        {
+          "title": "RUN THE RAVE",
+          "url": "https://linktr.ee/runtherave"
+        },
+        {
+          "title": "Yamatai Records",
+          "url": "https://lnk.bio/YamataiRecords"
+        }
+      ],
+      "description": "RUN THE RAVE presents: Yamatai Records (5 year anniversary)\n\nRUN THE RAVE has hosted a series of events around Denmark and is known for a wide spectrum of bass music combined with stunning visuals. Now they are ready to take things to the next level and bring you their next exciting booking: three artists representing the modern and futuristic UK Drum & Bass label, Yamatai Records: TER3NCE, VOXI, Leks (first time in DK). Along with the local heroes from Copenhagen: Popsie, HDN and Dwonji. This night will be a celebration of Yamatai Records' 5 year anniversary. Expect heavy bass and groovy rhythms - arrive early & stay late !!\n\nYamatai Records (UK, Bristol)\nFounded with a mission to support and promote all sorts of emerging Drum and Bass, Yamatai Records has quickly become a home for fresh and innovative sonics.\nBecoming known for their diverse and eclectic catalogue, and their commitment to nurturing unique and stand-out artists has earned a respectful badge as a label to look out for and also a home to release with. Nominated as Best Newcomer Label 2023 [Drum & Bass Arena Awards]\n_\n// INFO //\n· Friday, 21 August\n· Early-bird 70 kr · Pre-sale 90 kr\n· KraftWerket - Valgårdsvej 2, 2500 Copenhagen\n· 21-05\n· Cheap bar\n· Free wardrobe, at your own risk\n_\n// LINE-UP //\nTER3NCE (NL) \nVOXI (NL)\nLeks (UK)\nPopsie (DK)\nDwonji (DK)\nHDN (DK)\n_\n// TIMETABLE //\n21:00 • ?\n22:00 • ?\n23:00 • ?\n00:00 • ?\n01:00 • ?\n02:00 • ?\n03:00 • ?\n04:00 • ?\n_\n// VOLUNTEERS //\nWe need volunteers, if you are interested in helping out with this event or future events.\nJoin the discord or send us a DM on instagram."
     },
     {
       "id": "ra-2461544",
@@ -20557,6 +20676,29 @@
       "flyer": "https://images.ra.co/56dafc76224752ac8dedc0e0b814cda0e1c01bf3.jpg",
       "promotionalLinks": [],
       "description": "In the vibrant heart of Copenhagen, the new electronic monthly club celebrates the rhythm of life. Prepare for an extraordinary evening where light installations transform the venue into a magical electronic castle. Hop on the golden pumpkin and let yourself be enchanted."
+    },
+    {
+      "id": "ra-2464279",
+      "date": "2026-09-19",
+      "startTime": "21:00",
+      "endTime": "03:30",
+      "title": "ESCAPISM presents: MPH [uk] 360 XP + Guests",
+      "venue": "Pumpehuset, Copenhagen",
+      "lineup": [
+        "MPH (1)",
+        "parashoot",
+        "Lisa Fosmark"
+      ],
+      "tickets": "https://ra.co/events/2464279",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/3da821cfb4be009403d7362f6744b0ff9f9d5a04.png",
+      "promotionalLinks": [
+        {
+          "title": "PRE-SALE REGISTRATION",
+          "url": "https://www.reggi.ee/mph"
+        }
+      ],
+      "description": "Click 'interested' to be notified when pre-sale drops.\n_________________________________________\n\nDisclosure invited him on stage in San Francisco.\n\nFred Again had him perform at his London show.\n\nSwedish House Mafia brought him in for their Ultra Miami show.\n\nDaft Punk's Thomas Bangalter played not one, but two of his tracks at his viral Fred Again appearance.\n\nSammy Virji, Interplanetary Criminal, and Notion backs his music.\n\nCalvin Harris, Chris Lake and Four Tet have all turned to MPH for remixes and collabs, and he's soon dropping a new one with Skrillex.\n\nThis summer he joins FISHER at UNVRS in Ibiza and Peggy Gou at her massive London show. The night before Copenhagen, he's playing at Hï Ibiza with Camelphat.\n\nIt's safe to say MPH is one of the hottest names on the global dance scene right now.\n\nUK producer prodigy MPH steps down from major stages like Coachella and Glastonbury to deliver his first-ever Copenhagen show – just before his 2nd album is out.\n\nJoin MPH up close in 360° as Escapism transforms Pumpehusets industrial canvas into an exclusive 6-hour dance marathon."
     },
     {
       "id": "ra-2364521",
