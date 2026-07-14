@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-13T10:28:21",
+  "fetched": "2026-07-14T09:05:28",
   "area": "Copenhagen, Denmark",
   "source": "https://ra.co/events/dk",
   "events": [
@@ -1759,6 +1759,24 @@
       "description": "Saturday, the 24th - Synthy Trip at Baggen🫆🪬\n\nNew event series in Copenhagen, done by Sonydiam, that focuses on progressive house and trance this time at Baggen! Featuring two of the very established DJ´s of Copenhagen electronic music scene: Nat & Mikkel Wonsbek.\n\nNat\nResiding in Copenhagen, all the way from Bratislava, NAT is an upcoming talent with a deep passion ranging from acid-spiced vintage house, right up to future-facing techno and progressive electro rollers. With bold yet incisive style, she captivates the dancefloor by pushing the limits of electronic music. Often fast and high- energy yet always seamlessly connected, her selections weave together multifaceted sound niches. Balancing raw intensity with elegance and ease, she brings a dynamic presence to the dance floor, where every set is an unpredictable yet cohesive journey. \n\nMikkel Wonsbek\nMikkel Wonsbek is a Copenhagen-based DJ, drummer, and producer known for his groovy, high-energy sound and dynamic performances. With an extroverted style he regularly brings his vibrant sets to clubs across Denmark and throughout Europe. Beyond his solo projects, Mikkel is also one half of the DK Dance duo Slush Eyes, where he continues to push the boundaries of rhythm and electronic music.\n\nSonydiam\nSonydiam, originally from Ukraine and now based in Copenhagen, performing at underground venues and festivals across Denmark. A member of the Hot Wheelz and Eternity Rave collectives. After some time exploring her sound, now focusing on modern progressive trance and house textures with groovy melodies, while blending old-school with a synthesised forward-thinking sounds.\n\nSet-times:\nNat: kl23-01\nMikkel Wonsbek: kl01-03\nSonydiam: kl03-05 (kl22-23)\n\nOpen kl22-05\nFree entry the first hour!\n75kr after"
     },
     {
+      "id": "ra-2344803",
+      "date": "2026-01-24",
+      "startTime": "23:00",
+      "endTime": "05:00",
+      "title": "Trip Sitters // Tadan (LT), Matriark, STAINS, Al-x",
+      "venue": "Jolene, Copenhagen",
+      "lineup": [
+        "Tadan",
+        "STAINS",
+        "Matriark"
+      ],
+      "tickets": "https://ra.co/events/2344803",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/9a51d9f303c144f16e3f050ad470299cbb8f502d.jpg",
+      "promotionalLinks": [],
+      "description": "Trip Sitters introduces its next takeover in Jolene, created with a purpose to fill the space with well seasoned psychedelia and quality sound curation presented in a club night experience.\nFor this edition we are presenting Tadan, a Lithuanian producer and DJ with refined skills that are consistently being proved in the last years. His work is very well respected and contains an impeccable flow and sound design.\n\nJoining him are the local Stains, founder and curator of Trip Sitter club night series & Al-x for the opening times while Matriark takes over the closing set to complete and close the circle\nAn eventful evening is to be expected!"
+    },
+    {
       "id": "ra-2351604",
       "date": "2026-01-24",
       "startTime": "21:00",
@@ -1781,24 +1799,6 @@
         }
       ],
       "description": "Unearth and Copenhagen Contemporary present:\nThaiboy Digital (live)\ntonser (live)\nAtusa\nDj Srirachas\n\nThis event is part of CC10 - Copenhagen Contemporary’s 10-year anniversary."
-    },
-    {
-      "id": "ra-2344803",
-      "date": "2026-01-24",
-      "startTime": "23:00",
-      "endTime": "05:00",
-      "title": "Trip Sitters // Tadan (LT), Matriark, STAINS, Al-x",
-      "venue": "Jolene, Copenhagen",
-      "lineup": [
-        "Tadan",
-        "STAINS",
-        "Matriark"
-      ],
-      "tickets": "https://ra.co/events/2344803",
-      "soldOut": false,
-      "flyer": "https://images.ra.co/9a51d9f303c144f16e3f050ad470299cbb8f502d.jpg",
-      "promotionalLinks": [],
-      "description": "Trip Sitters introduces its next takeover in Jolene, created with a purpose to fill the space with well seasoned psychedelia and quality sound curation presented in a club night experience.\nFor this edition we are presenting Tadan, a Lithuanian producer and DJ with refined skills that are consistently being proved in the last years. His work is very well respected and contains an impeccable flow and sound design.\n\nJoining him are the local Stains, founder and curator of Trip Sitter club night series & Al-x for the opening times while Matriark takes over the closing set to complete and close the circle\nAn eventful evening is to be expected!"
     },
     {
       "id": "ra-2346605",
@@ -2351,6 +2351,27 @@
       "description": "Heart Greetings\n\nSoundsystem Sunday \n1st of february \ninna Special Soundsystem \nConfrence style \n2 Sounds 1 Arena\n\nDalarna Dubz Soundsystem \nhand build boxes outta \nDortmund Germany\n\nmeets\n\nRockers Ark Soundsystem  \nSoundsystem Sunday Host\npushing roots rockers music\nat H15 for more than 3 years.\n\nDoors opens at 15 until Late\n50 kr entrance \n( 2.pers for 50kr before 18:00 )\n\nmore guest selectahs, vokalist and players of instruments on both soundsystems \nT.B.A soon stay tuned Idreens\n\nRoots and Culture Tradition \nhandbuild HI-Power Soundsystem \n1st sunday every month.\n\n-------------------- Record Shop --------------------\n\nRockers Ark Record Distribution \nthere as always providing brand new \nlocal and internationale records\nfor all to enjoy for ivah and ivah more.\n\nAll tribes are welcome\n\nStricktly One Love Soundsystem Dance"
     },
     {
+      "id": "ra-2350274",
+      "date": "2026-02-04",
+      "startTime": "20:00",
+      "endTime": "23:59",
+      "title": "Lost2Reality: SØS Gunver Ryberg (live) Support: Mikael Frykman",
+      "venue": "Huset I Magstræde, Copenhagen",
+      "lineup": [
+        "SØS Gunver Ryberg"
+      ],
+      "tickets": "https://ra.co/events/2350274",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/ad20de0b7da03f0f1940c6664c8de401d5b14e54.jpg",
+      "promotionalLinks": [
+        {
+          "title": "Tickets",
+          "url": "https://billetto.dk/e/lost2reality-sos-gunver-ryberg-live-support-mikael-frykman-musikcafeen-billetter-1812262"
+        }
+      ],
+      "description": "I årets første kapitel af elektroniske onsdagskoncerter byder vi velkommen til SØS Gunver Ryberg: En prisvindende elektronisk komponist og lydkunstner, der skaber musik uden genregrænser og med fuld intensitet. Hun har optrådt på scener som Berghain, Roskilde Festival og Venedig Biennalen, og denne aften åbnes og sluttes kapitlet med support fra local friendly man Mikael Frykman.\n●○●○●○●○●○●○●○●○●○●○●○●○\nVenue: Musikcaféen, 3. etage\nDøre: 20:00\nShow: 21:00\nEntré: 70kr.\n●○●○●○●○●○●○●○●○●○●○●○●○\nSØS Gunver Ryberg:\nSØS Gunver Ryberg er en prisvindende elektronisk komponist og lydkunstner, kendt for sin innovative musik, der bryder med traditionelle genredefinitioner. Hun har optrådt på nogle af verdens mest prestigefyldte scener og festivaler, herunder Atonal Festival, Venedig Biennalen, Berlin Philharmonie, Flow Festival, Berghain og Roskilde Festival.\nMed en kompromisløs intensitet transformerer hun lytterens oplevelse og åbner bevidstheden for nye dimensioner. Hendes musik er kendetegnet ved kraftfulde og komplekse klangfarver, teksturer og rytmer, der væver sig sammen i et futuristisk og tidløst udtryk, der frygtløst omfavner nutiden og samtidig skaber perspektiver ind i den ukendte fremtid.\nMikael Frykman:\nLocal friendly man Mikael Frykman vil afkalke din koglekirtel og massere din amygdala med nogle af sine yndlings, afslappede og hjernegode bangers.\n------------------------------------------------------------------------\nENG.\nIn the first chapter of this year’s electronic Wednesday concerts, we welcome SØS Gunver Ryberg — an award-winning electronic composer and sound artist who creates music without genre boundaries and with full intensity. She has performed at venues such as Berghain, Roskilde Festival, and the Venice Biennale, and this evening the chapter opens and closes with support from local friendly man Mikael Frykman.\nSØS Gunver Ryberg:\nSØS Gunver Ryberg is an award-winning electronic composer and sound artist, known for her innovative music that breaks traditional genre boundaries. She has performed on some of the world’s most prestigious stages and festivals, including Atonal Festival, the Venice Biennale, Berlin Philharmonie, Flow Festival, Berghain, and Roskilde Festival.\nWith uncompromising intensity, she transforms the listener’s experience and opens the mind to new dimensions. Her music is characterized by powerful and complex tones, textures, and rhythms, woven together into a futuristic and timeless expression that fearlessly embraces the present while creating new perspectives into the unknown future.\nMikael Frykman:\nLocal friendly man Mikael will decalcify your pineal gland and massage your amygdala with some of his favorite chilled out brainy bangers."
+    },
+    {
       "id": "ra-2352549",
       "date": "2026-02-04",
       "startTime": "20:00",
@@ -2373,27 +2394,6 @@
         }
       ],
       "description": "POSH ISOLATION: LOKE RAHBEK & FREDERIK VALENTIN + VANITY PRODUCTIONS + OQBQBO\nFind billetter: https://www.ticketmaster.dk/event/539828917\n--------------------------------------\n• Døre: 19.00 • koncertstart: 20.00\n• Billetter: • Forsalg: 250 kr • Dørsalg: 260 kr\n--------------------------------------\nLoke Rahbek & Frederik Valentin\n“Together” er det tredje kollaborative album fra Frederik Valentin og Loke Rahbek, efter “Elephant” fra 2020 og \"Buy Corals Online\" fra 2017. Lo-fi-vignetter af guitar og feltoptagelser præsenteres side om side med elektroakustiske eksperimenter som fortryllende invitationer til rytmiske, syntetiske verdener, hvor hver især finder balance i Markers meditation over menneskets hukommelse. Med akustiske instrumenter behandlet digitalt og instrumentale optrædener fortolket på ny bevæger \"Together\" sig ad den frodige retning fra deres tidligere værker mod nye destinationer.\nValentins lange række af soloarbejde og samarbejder omfatter blandt andet hans produktioner med Yung Lean (som Jonatan Leandoer127) på albummet \"Nectar\", samt deres fælles bestillingsværk for Sveriges Cullberg Ballet. I mere end et årti har Rahbek skabt elektronisk musik som Croatian Amor og under en række andre aliaser. Han har siden 2009 drevet Posh Isolation sammen med Christian Stadsgaard.\n--------------------------------------\nVanity Productions\nPosh Isolations anden skaber, Christian Stadsgaard, laver musik under solo-aliasset Vanity Productions - en afgørende figur på den nordiske elektroniske musikscene.\nStadsgaard er kendt for sin innovative og udtryksfulde stil, og med Vanity Productions mixer han larmende elementer med introverte melodier. Med et eksistentialistisk touch og sløret sensibilitet, maler Stadsgaard soniske billeder af moderne melankoli.\nUdover sine anmelderroste solo-udgivelser, har Vanity Productions også samarbejdet med Merzbow, Loke Rahbek, Jonas Rönnberg og Isak Hansen.\n--------------------------------------\noqbqbo\noqbqbo er aliaset for den russiskfødte, København-baserede kunstner Nastya Sipulina. oqbqbo er tilknyttet pladeselskabet Posh Isolation, hvor hun repræsenterer den mere melodiske del af deres roster.\nHendes seneste udgivelse “Tired Sun” er hendes andet værk på Posh Isolation, og det seneste år har oqbqbo samarbejdet med kunstnere som Scandinavian Star og Vallmo – mest markant på singlerne ‘Airdrops’, ‘Open Like A Flash’ og bidraget til “Rift One” YEAR0001-kompilationen med ‘Wakening’.\nDerudover laver oqbqbo jævnligt explorative mixes på NTS Radio og lignende."
-    },
-    {
-      "id": "ra-2350274",
-      "date": "2026-02-04",
-      "startTime": "20:00",
-      "endTime": "23:59",
-      "title": "Lost2Reality: SØS Gunver Ryberg (live) Support: Mikael Frykman",
-      "venue": "Huset I Magstræde, Copenhagen",
-      "lineup": [
-        "SØS Gunver Ryberg"
-      ],
-      "tickets": "https://ra.co/events/2350274",
-      "soldOut": false,
-      "flyer": "https://images.ra.co/ad20de0b7da03f0f1940c6664c8de401d5b14e54.jpg",
-      "promotionalLinks": [
-        {
-          "title": "Tickets",
-          "url": "https://billetto.dk/e/lost2reality-sos-gunver-ryberg-live-support-mikael-frykman-musikcafeen-billetter-1812262"
-        }
-      ],
-      "description": "I årets første kapitel af elektroniske onsdagskoncerter byder vi velkommen til SØS Gunver Ryberg: En prisvindende elektronisk komponist og lydkunstner, der skaber musik uden genregrænser og med fuld intensitet. Hun har optrådt på scener som Berghain, Roskilde Festival og Venedig Biennalen, og denne aften åbnes og sluttes kapitlet med support fra local friendly man Mikael Frykman.\n●○●○●○●○●○●○●○●○●○●○●○●○\nVenue: Musikcaféen, 3. etage\nDøre: 20:00\nShow: 21:00\nEntré: 70kr.\n●○●○●○●○●○●○●○●○●○●○●○●○\nSØS Gunver Ryberg:\nSØS Gunver Ryberg er en prisvindende elektronisk komponist og lydkunstner, kendt for sin innovative musik, der bryder med traditionelle genredefinitioner. Hun har optrådt på nogle af verdens mest prestigefyldte scener og festivaler, herunder Atonal Festival, Venedig Biennalen, Berlin Philharmonie, Flow Festival, Berghain og Roskilde Festival.\nMed en kompromisløs intensitet transformerer hun lytterens oplevelse og åbner bevidstheden for nye dimensioner. Hendes musik er kendetegnet ved kraftfulde og komplekse klangfarver, teksturer og rytmer, der væver sig sammen i et futuristisk og tidløst udtryk, der frygtløst omfavner nutiden og samtidig skaber perspektiver ind i den ukendte fremtid.\nMikael Frykman:\nLocal friendly man Mikael Frykman vil afkalke din koglekirtel og massere din amygdala med nogle af sine yndlings, afslappede og hjernegode bangers.\n------------------------------------------------------------------------\nENG.\nIn the first chapter of this year’s electronic Wednesday concerts, we welcome SØS Gunver Ryberg — an award-winning electronic composer and sound artist who creates music without genre boundaries and with full intensity. She has performed at venues such as Berghain, Roskilde Festival, and the Venice Biennale, and this evening the chapter opens and closes with support from local friendly man Mikael Frykman.\nSØS Gunver Ryberg:\nSØS Gunver Ryberg is an award-winning electronic composer and sound artist, known for her innovative music that breaks traditional genre boundaries. She has performed on some of the world’s most prestigious stages and festivals, including Atonal Festival, the Venice Biennale, Berlin Philharmonie, Flow Festival, Berghain, and Roskilde Festival.\nWith uncompromising intensity, she transforms the listener’s experience and opens the mind to new dimensions. Her music is characterized by powerful and complex tones, textures, and rhythms, woven together into a futuristic and timeless expression that fearlessly embraces the present while creating new perspectives into the unknown future.\nMikael Frykman:\nLocal friendly man Mikael will decalcify your pineal gland and massage your amygdala with some of his favorite chilled out brainy bangers."
     },
     {
       "id": "ra-2316348",
@@ -10734,6 +10734,25 @@
       "description": "nachtschade is our new night in Copenhagen, focused on emotive and atmospheric house and techno. a slower approach to sound, music with depth, records for the small hours.\n\nour first guest channels this sound like few others. Lola Haro blurs deep, hypnotic basslines with spectral melodies and real drive on the floor, taking dancers on a dreamlike journey, telling a different story every time. Brussels-based, rooted in the Antwerp underground, and founder of the Small Steps label, Lola plays sets that move on mood rather than genre.\n\nexpect drifting soundscapes and dreamy atmospheres. some things only bloom at night.\n\ncome find us at Jolene, Friday the 1st of May 2026.\n\nLola Haro, Teison\n23:00-05:00\n100 DKK (free entry before 22:00)"
     },
     {
+      "id": "ra-2408859",
+      "date": "2026-05-01",
+      "startTime": "21:00",
+      "endTime": "03:00",
+      "title": "Scala: May Day",
+      "venue": "Odds and Ends, Copenhagen",
+      "lineup": [],
+      "tickets": "https://ra.co/events/2408859",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/f43957e726470277b82a635e6d650e4ca09db333.jpg",
+      "promotionalLinks": [
+        {
+          "title": "Scala",
+          "url": "https://linktr.ee/scala___sound"
+        }
+      ],
+      "description": "To celebrate May Day and the arrival of spring, we’re launching Scala, a new gathering centered around one thing: movement without interruption.\n\nWith a carefully curated selection of tracks from the Scala crew and friends, expect a foggy dancefloor, raw energy, and rhythms built for the night – all powered by a 4-point Funktion-One sound system made for total immersion, where you won’t just hear the music, you’ll feel it.\n\n\nFollow @scala___sound to stay updated."
+    },
+    {
       "id": "ra-2407739",
       "date": "2026-05-01",
       "startTime": "22:00",
@@ -10755,25 +10774,6 @@
         }
       ],
       "description": "Overtone Sound Collective big return after Sonoluma Festival with an intimate night at H15 studio!\nFeels good to be backkk in business \n​\n\n​We’re keeping it cosy and intimate this time. Limited capacity, and a focus on good sound and atmosphere. Expect an eclectic lineup rooted in the leftfield side of the Copenhagen scene, somewhere between bass, breakbeat, garage and techno.\n\n​The night moves from a live AV performance into fluid DJ sets, shifting energy as it goes. From playful and broken rhythms to more driving, hypnotic moments later on \n\n​This is a free event, but sign-up is required and capacity is limited. If you can’t make it, please cancel your spot so someone else can join.\n\n\n​Come early, stay late! \n\n\n​Set times\n\n​22:00–23:30 — Amazinggaijin\n\n23:30–00:15 — Pelzman (AV live)\n\n​00:15–01:45 — Tanfoolian Lukas (solo) + b2b Pelzman\n\n​01:45–04:00 — Nat & Yoon"
-    },
-    {
-      "id": "ra-2408859",
-      "date": "2026-05-01",
-      "startTime": "21:00",
-      "endTime": "03:00",
-      "title": "Scala: May Day",
-      "venue": "Odds and Ends, Copenhagen",
-      "lineup": [],
-      "tickets": "https://ra.co/events/2408859",
-      "soldOut": false,
-      "flyer": "https://images.ra.co/f43957e726470277b82a635e6d650e4ca09db333.jpg",
-      "promotionalLinks": [
-        {
-          "title": "Scala",
-          "url": "https://linktr.ee/scala___sound"
-        }
-      ],
-      "description": "To celebrate May Day and the arrival of spring, we’re launching Scala, a new gathering centered around one thing: movement without interruption.\n\nWith a carefully curated selection of tracks from the Scala crew and friends, expect a foggy dancefloor, raw energy, and rhythms built for the night – all powered by a 4-point Funktion-One sound system made for total immersion, where you won’t just hear the music, you’ll feel it.\n\n\nFollow @scala___sound to stay updated."
     },
     {
       "id": "ra-2410775",
@@ -13690,25 +13690,6 @@
       "description": "Do you love experimental music and experimental cocktails ?\nThen stop by Inferno on May 23rd for an evening of hypnotic electronic music, eclectic sounds, and carefully crafted drinks \nWe’re happy to announce a special event at one of our favorite spots in town — a night dedicated to immersive atmospheres, curious listeners, and sonic exploration.\nCome by for deep textures, unexpected rhythms, and experimental cocktails in an intimate setting."
     },
     {
-      "id": "ra-2443992",
-      "date": "2026-05-23",
-      "startTime": "20:00",
-      "endTime": "02:00",
-      "title": "Ocean Club: The Embassy & Mythologen",
-      "venue": "Christianshavns Beboerhus, Copenhagen",
-      "lineup": [],
-      "tickets": "https://ra.co/events/2443992",
-      "soldOut": false,
-      "flyer": "https://images.ra.co/0ab5465d5be9c41c43280b7898785d1b7a7f9e99.jpg",
-      "promotionalLinks": [
-        {
-          "title": "Christianshavns Beboerhus",
-          "url": "https://beboerhus.dk/program-skjult/4nrxdz1q0ktfgjhyudrhvbx8n1wz7a"
-        }
-      ],
-      "description": "The Embassy, formed in Gothenburg in 1999, is one of the most influential bands from the Swedish indie scene. Their music is a blend of disco, twee and pubrock. In combination with the bands anti-rock aesthetics and disrespectful live performances, the band has become both loved and loathed.\nMythologen is the alias of artist, designer and musician Alexander Palmestål from Gothenburg, Sweden. His early demos began circulating in 2002 as Pistol Disco, combining his love for Acid House, Bleep, and Kraut-influenced Techno to critical acclaim. This momentum led to international tours and releases on influential indie labels.\nAs a dance music producer he is inspired by House, 00's Scandinavian Electro and the eternal motorik pulse that haunts the highways of Europe.\nHis album, Eurovision was released on June 6th, 2025 via YEAR0001.\n\ntickets: 120 dkk"
-    },
-    {
       "id": "ra-2439453",
       "date": "2026-05-23",
       "startTime": "15:00",
@@ -13726,6 +13707,25 @@
         }
       ],
       "description": "Get ready for an afternoon of grooves and dancing in the heart of Copenhagen with NULA.\n\nJoin us at Assembly Bar at 25Hours Hotel (Indre By) on May 23rd from 15:00–18:00 for a free daytime session featuring 2 DJs spinning groovy house all afternoon.\n\nNULA, meaning “zero” in Bulgarian, is a sober party series focused on creating a space centered around music, connection, presence, and feeling good without alcohol. It’s about everything we love about nightlife without the hangover, next-day regrets, or drained energy.\n\nWe’ll be serving specially curated mocktails crafted with BITE organic mixers, designed to keep the energy high and the dance floor moving.\n\nNULA is not here to shame drinking culture, but rather to offer an alternative: a vibrant, social, and energetic atmosphere during earlier hours, paired with zero-proof drinks that leave you feeling recharged instead of needing to recover the next day."
+    },
+    {
+      "id": "ra-2443992",
+      "date": "2026-05-23",
+      "startTime": "20:00",
+      "endTime": "02:00",
+      "title": "Ocean Club: The Embassy & Mythologen",
+      "venue": "Christianshavns Beboerhus, Copenhagen",
+      "lineup": [],
+      "tickets": "https://ra.co/events/2443992",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/0ab5465d5be9c41c43280b7898785d1b7a7f9e99.jpg",
+      "promotionalLinks": [
+        {
+          "title": "Christianshavns Beboerhus",
+          "url": "https://beboerhus.dk/program-skjult/4nrxdz1q0ktfgjhyudrhvbx8n1wz7a"
+        }
+      ],
+      "description": "The Embassy, formed in Gothenburg in 1999, is one of the most influential bands from the Swedish indie scene. Their music is a blend of disco, twee and pubrock. In combination with the bands anti-rock aesthetics and disrespectful live performances, the band has become both loved and loathed.\nMythologen is the alias of artist, designer and musician Alexander Palmestål from Gothenburg, Sweden. His early demos began circulating in 2002 as Pistol Disco, combining his love for Acid House, Bleep, and Kraut-influenced Techno to critical acclaim. This momentum led to international tours and releases on influential indie labels.\nAs a dance music producer he is inspired by House, 00's Scandinavian Electro and the eternal motorik pulse that haunts the highways of Europe.\nHis album, Eurovision was released on June 6th, 2025 via YEAR0001.\n\ntickets: 120 dkk"
     },
     {
       "id": "ra-2433845",
@@ -18913,6 +18913,20 @@
       "description": "Group Therapy presents: Sexistential Therapy @ Den Anden Side\n\nTuesday, July 14 │ Normal Selection | House, Sexistential\n\n————\n\nYou are hereby cordially invited to the official Robyn afterparty, hosted by your very own Group Therapy <3\n\nWe've gathered some of the best acts from our local scene to celebrate the icon's return to Copenhagen. And for that extra dopamine hit, she’s bringing a special guest to light up the dance floor and make it xxtra sexistential.\n\nNo one will be dancing on their own for this one.\n\nAnd who knows... maybe you'll get to say Konnichiwa, bitch to Miss Indestructible herself?\n\nCome get your honey, baby.\n\nxoxo\nGroup Therapy\n\n𝗟𝗶𝗻𝗲𝘂𝗽\nSpecial guest\nCockwhore & Macho\nGavnlig & suziethecockroach\nBella Sarris & Lucky Lube\n\n————\n𝗔𝗱𝗺𝗶𝘀𝘀𝗶𝗼𝗻\nPresale 150 DKK\nDoor sale 150 DKK\n80 DKK after 02:00\nCommunity tickets available - reach out to Group Therapy at grouptherapy.cph@gmail.com\n\nLimited pre-sale tickets can be purchased on Resident Advisor.\nEntrance closes 1 hour before the club (earliest at 3 am)\nRe-entry is possible all night.\n\nAge: 20+\n\nWardrobe: Lockers are free to use with a lock. Bring your own or purchase one for 50 DKK at the entrance.\n\nDoor Policy - Normal Selection:\nOur door staff will curate the crowd to the extent they find necessary, and they have an increased focus on the vibe and balance of the audience. On these nights we expect anyone who enters to have a basic knowledge about our policy.\n\n‍All club nights operate with some level of selection. This event operates with the middle level, Normal Selection. You can always reach out to the management before or after an event on awareness@denandenside.com with questions or concerns. For the safety of our guests and staff, we may find it necessary to deny entry without providing an explanation.\n\n————\nBelow you’ll find important information and code of conduct to be read and considered before you go to Den Anden Side. Find our full policy on our website.\n\n𝗩𝗶𝗯𝗲 𝗩𝗶𝘀𝗶𝗼𝗻\nAt Den Anden Side, we care deeply about our guests' safety and their ability to express themselves freely, without judgment or unwanted attention. We strive to always be a place where minoritized individuals can feel safe and comfortable.\nWe kindly ask you to be mindful of the space and event you are entering, the space you occupy, and how your presence influences the vibe and the experience of other guests.\n\n𝗖𝗼𝗱𝗲 𝗢𝗳 𝗖𝗼𝗻𝗱𝘂𝗰𝘁\n- Feel the room and consider how you influence it.\n- Don't assume gender or pronouns.\n- No discriminatory language or actions of any kind.\n-‍ Take the time to listen and learn and be aware of your privileges\n- No pictures or videos of any kind inside the club.‍\n- Dancefloor is for dancing; Don’t have loud conversations or use your phones.\n- Ask for consent and respect each other’s boundaries.\n- Don’t stare at or approach other guests non-consensually.\n- Take care of yourself and each other, and consume responsibly.\n- The darkroom is for intimate and consensual play only.\n\n𝗔𝘄𝗮𝗿𝗲𝗻𝗲𝘀𝘀‍\nThe Awareness Team is at the club every weekend, identifiable by their bright green shirts labeled \"AWARENESS.\" You can also reach them by contacting the door staff.\nGuests must speak with the door staff upon entry to ensure everyone is informed about our code of conduct and policies. Violating these policies can result in immediate eviction without a refund."
     },
     {
+      "id": "ra-2489370",
+      "date": "2026-07-15",
+      "startTime": "17:00",
+      "endTime": "23:00",
+      "title": "Wine Wednesday: Hugo & Diogo",
+      "venue": "Baggen, Copenhagen",
+      "lineup": [],
+      "tickets": "https://ra.co/events/2489370",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/591622ac3587ece026b29d9c5fec3ac90730dc2e.png",
+      "promotionalLinks": [],
+      "description": ""
+    },
+    {
       "id": "ra-2446695",
       "date": "2026-07-16",
       "startTime": "19:00",
@@ -18933,6 +18947,20 @@
         }
       ],
       "description": "Open Decks & Ping Pong is back once again!\n\n\nRight now it’s hot, humid, and slightly delirious — so what better time to cool off with cold drinks, deep cuts you’ll probably never hear again, and a few hard-fought ping pong victories?\n\n\nAs always, expect:\n\n-A ping pong tournament with amazing prizes\n-Round-the-table chaos all night long\n-Open decks for anyone who wants to play\n\n\nBring your own vinyl and jump on the decks — everyone’s welcome. Just speak to the crew to grab a slot. Early arrivals get the best set times, so come early before the schedule fills up."
+    },
+    {
+      "id": "ra-2487914",
+      "date": "2026-07-16",
+      "startTime": "15:00",
+      "endTime": "22:00",
+      "title": "Orientkaj - Din ven i solen",
+      "venue": "TBA - Levantkaj 6, 2150 Nordhavn, Danmark, Copenhagen",
+      "lineup": [],
+      "tickets": "https://ra.co/events/2487914",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/138adcfd51f149d6fb148e5f9aaca0ef10468b04.png",
+      "promotionalLinks": [],
+      "description": "Vi følger op med endnu et brag i Nordhavn 🦩 På pladsen foran den Internationale skole 🥳 I dagens smukke anledning er dine musikalske ledere Sakena, Braver, Nicka & Rosa Lux 💚💛🧡❤️ Vanen og ganen tro serverer vi økologiske forfriskninger til krammepriser 🍹🍾 Fred i maven med vores klassiske Kaj burger 🍔 Vi glæder os til at fejre sommerferien med dig under åben himmel og med havnen som kulisse ☀️⛱️ Orientkaj Metro station kan køre dig direkte til dansegulvet 🎶💥 Vi glæder os maximalt til at se dig til åbningen af Orientkaj 2026 💗"
     },
     {
       "id": "ra-2484244",
@@ -18956,20 +18984,6 @@
       "description": "WE ARE ROLLING IT BACK with our next FREE EVENT at Jolene! MARK THE DATE; Thursday, July 16!\n\nLINEUP\n\nAerocell\nZiggy Stardubb\nHIGHL4NAD3R \navoN\n\nINFO\n\nLocation: Jolene Bar, Flæsketorvet 81\nDate/time: Thursday, July 16, 20:00 - 03:00\nEntrance: Free entrance, 18+"
     },
     {
-      "id": "ra-2487914",
-      "date": "2026-07-16",
-      "startTime": "15:00",
-      "endTime": "22:00",
-      "title": "Orientkaj - Din ven i solen",
-      "venue": "TBA - Levantkaj 6, 2150 Nordhavn, Danmark, Copenhagen",
-      "lineup": [],
-      "tickets": "https://ra.co/events/2487914",
-      "soldOut": false,
-      "flyer": "https://images.ra.co/138adcfd51f149d6fb148e5f9aaca0ef10468b04.png",
-      "promotionalLinks": [],
-      "description": "Vi følger op med endnu et brag i Nordhavn 🦩 På pladsen foran den Internationale skole 🥳 I dagens smukke anledning er dine musikalske ledere Sakena, Braver, Nicka & Rosa Lux 💚💛🧡❤️ Vanen og ganen tro serverer vi økologiske forfriskninger til krammepriser 🍹🍾 Fred i maven med vores klassiske Kaj burger 🍔 Vi glæder os til at fejre sommerferien med dig under åben himmel og med havnen som kulisse ☀️⛱️ Orientkaj Metro station kan køre dig direkte til dansegulvet 🎶💥 Vi glæder os maximalt til at se dig til åbningen af Orientkaj 2026 💗"
-    },
-    {
       "id": "ra-2468228",
       "date": "2026-07-16",
       "startTime": "22:00",
@@ -18987,6 +19001,20 @@
         }
       ],
       "description": "Thursday is FLOOR. One DJ, one continuous flow, and a room that's allowed to go wherever the music takes it. No handovers. No resets. Just one person in full control of the night from start to finish.\n\nWe begin with happy hour from 22 to 23: Vodka Dansevand/Maté drinks and Dark 'n' Stormy for 65,-, and Classic or Pilsner beers for 30,-. Start early, stay late.\n\n**Karlita's Way** takes over the booth.\n\nA Copenhagen selector with a selection that spans Baile Funk, Batida, Dembow, UK Garage and global bass edits, brought together with the instinct of someone who genuinely loves every corner of it. Karlita's Way pulls from São Paulo, London, Kingston and everywhere in between, dropping unreleased flips and sharp edits alongside the tracks that shaped the sound. Genre lines dissolve somewhere in the middle and you stop caring where.\n\nNo requests, OK?! Follow the sound and dance. Ses på FLOOR!\n\nSigurdsgade 39, 2200\n22:00–03:00\nFree entrance\nFree wardrobe · 20+"
+    },
+    {
+      "id": "ra-2489372",
+      "date": "2026-07-16",
+      "startTime": "23:00",
+      "endTime": "05:00",
+      "title": "Aston & Doni",
+      "venue": "Baggen, Copenhagen",
+      "lineup": [],
+      "tickets": "https://ra.co/events/2489372",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/c6d845c768d54984299c8c4c766c7ea2511b9696.png",
+      "promotionalLinks": [],
+      "description": ""
     },
     {
       "id": "ra-2427839",
@@ -19100,7 +19128,7 @@
       "soldOut": false,
       "flyer": "https://images.ra.co/73e5155e19ce56c67a4c0ea1cbdfaaabdb8cdb5b.png",
       "promotionalLinks": [],
-      "description": "INFERNA returns from the depths for our second gathering:\nFor this edition, we welcome Pomah, Berlin-based DJ and producer known for rhythm-driven sets shaped by industrial influences, textured atmospheres, and a fluid, dancefloor-focused approach. As founder of Exaltation Techno, he brings a distinctive vision of techno built on tension, movement, and immersive detail.\nHe will be supported by local artists, completing a lineup designed to keep the energy dark, raw, and underground from start to finish.\nShaped by LMN and Cakebutcher - INFERNA aims to create an environment where everyone can lose themselves in the music, freealy and without judgement.\nExpect a journey through Hard Techno, Schranz, Industrial, Hypnotic and Emotional Textures.\n\nMain.\n00.00-02.00 Anastasia Terra\n02.00-04.00 LMN\n04.00-06.00 Pomah (FR)\n06.00-08.00 Cakebutcher\n\nKiosk.\n01.00-03.30 BL:ND\n03.30-06.00 Elliott Taguchi\n\nSafer Space & Inclusion – Our Shared Guidelines\nWe believe that all guests, artists, and staff are entitled to a space free from harassment, discrimination, and exclusion.\nBy entering our space, you agree to respect the following principles:\nⓞ No physical contact without clear consent.\nⓞ Racism, sexism, homophobia, and transphobia will not be tolerated.\nⓞ No staring or intrusive behavior – looking is fine, but respect boundaries.\nⓞ Photos and video recording are not permitted inside the club.\nWe come together with one common goal: to create a safer and open environment for everyone.\nAll genders, skin tones, sexual orientations, ages, and body types are welcome. Harassment of any kind is not accepted.\nOur staff is here to support you. If you feel uncomfortable or experience any form of boundary-crossing\nbehavior, please reach out immediately.\n\nAge: + 20\nDoor:\n00.00-01.00 110 DKK\n01.00-06.00 160 DKK\n06.00-END. 70 DKK"
+      "description": "INFERNA returns from the depths for our second gathering:\nFor this edition, we welcome Pomah, Berlin-based DJ and producer known for rhythm-driven sets shaped by industrial influences, textured atmospheres, and a fluid, dancefloor-focused approach. As founder of Exaltation Techno, he brings a distinctive vision of techno built on tension, movement, and immersive detail.\nHe will be supported by local artists, completing a lineup designed to keep the energy dark, raw, and underground from start to finish.\nShaped by LMN and Cakebutcher - INFERNA aims to create an environment where everyone can lose themselves in the music, freealy and without judgement.\nExpect a journey through Hard Techno, Schranz, Industrial, Hypnotic and Emotional Textures.\n\nMain.\n00.00-02.00 Anastasia Terra\n02.00-04.00 LMN\n04.00-06.00 Pomah (FR)\n06.00-08.00 Cakebutcher\n\nKiosk.\n01.00-03.30 BL:ND\n03.30-06.00 Elliott Taguchi\n\nSafer Space & Inclusion – Our Shared Guidelines\nWe believe that all guests, artists, and staff are entitled to a space free from harassment, discrimination, and exclusion.\nBy entering our space, you agree to respect the following principles:\nⓞ No physical contact without clear consent.\nⓞ Racism, sexism, homophobia, and transphobia will not be tolerated.\nⓞ No staring or intrusive behavior – looking is fine, but respect boundaries.\nⓞ Photos and video recording are not permitted inside the club.\nWe come together with one common goal: to create a safer and open environment for everyone.\nAll genders, skin tones, sexual orientations, ages, and body types are welcome. Harassment of any kind is not accepted.\nOur staff is here to support you. If you feel uncomfortable or experience any form of boundary-crossing\nbehavior, please reach out immediately.\n\nAge: + 20\nDoor:\n00.00-01.00 110 DKK\n01.00-06.00 170 DKK\n06.00-END. 100 DKK"
     },
     {
       "id": "ra-2483421",
@@ -19120,6 +19148,23 @@
       "description": "Space Ghost touches down in Copenhagen to kick off his European tour\n\nAll night at Bodega Danza, with Behrang Mohammadi warming things up.\n\nFrom 20.00-22.00, we’ll be taking over the courtyard for an exclusive vinyl + merch sale, with brand new items up for grabs."
     },
     {
+      "id": "ra-2488479",
+      "date": "2026-07-17",
+      "startTime": "23:00",
+      "endTime": "05:00",
+      "title": "nachtschade presents Mattias El Mansouri, Teison",
+      "venue": "Jolene, Copenhagen",
+      "lineup": [
+        "Mattias El Mansouri",
+        "Teison"
+      ],
+      "tickets": "https://ra.co/events/2488479",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/f1f9f32eb427fd17b653a2dc3670b785428f1c59.jpg",
+      "promotionalLinks": [],
+      "description": "nachtschade returns to Jolene on Friday, the 17th of July with Mattias El Mansouri. \n\nexpect drifting soundscapes and dreamy atmospheres. some things only bloom at night.\n\nMattias El Mansouri, Teison\n23:00-05:00\n75 DKK (free entry before 22:00)"
+    },
+    {
       "id": "ra-2468231",
       "date": "2026-07-17",
       "startTime": "22:00",
@@ -19137,23 +19182,6 @@
         }
       ],
       "description": "2200! is back on Friday, July 17th. Named after the postcode, built around the neighbourhood. Every week a different sound, a different combination of DJs, and a floor that moves accordingly.\n\n**Jonas Tuk**\nHas always had a love for 90s and 00s trance, techno and breakbeats but refuses to stay in one lane. Sets that move between the best electronic music of the past and present, always finding the thread that connects them.\n\n**Jungle Julia**\nCo-founder of Baile House CPH. Jungle Julia's sets are rooted in Brazilian and Afro-Portuguese sounds - Baile Funk at the core, shifting through Batida, Dembow and Afro House with percussion and vocals that don't let go. Deeply obsessed with what's moving dancefloors right now.\n\nNo requests, OK?! Trust the DJs, stay with the flow.\n\nSigurdsgade 39, 2200\n22:00–04:00\nFree till 23 · 120 DKK after\nFree wardrobe · 21+"
-    },
-    {
-      "id": "ra-2488479",
-      "date": "2026-07-17",
-      "startTime": "23:00",
-      "endTime": "05:00",
-      "title": "nachtschade presents Mattias El Mansouri, Teison",
-      "venue": "Jolene, Copenhagen",
-      "lineup": [
-        "Mattias El Mansouri",
-        "Teison"
-      ],
-      "tickets": "https://ra.co/events/2488479",
-      "soldOut": false,
-      "flyer": "https://images.ra.co/f1f9f32eb427fd17b653a2dc3670b785428f1c59.jpg",
-      "promotionalLinks": [],
-      "description": "nachtschade returns to Jolene on Friday, the 17th of July with Mattias El Mansouri. \n\nexpect drifting soundscapes and dreamy atmospheres. some things only bloom at night.\n\nMattias El Mansouri, Teison\n23:00-05:00\n75 DKK (free entry before 22:00)"
     },
     {
       "id": "ra-2446946",
@@ -19208,6 +19236,25 @@
       "description": "GAG x DAS XXXIII at Den Anden Side\nSaturday, July 18 │ Normal Selection │ Hypnotic, Techno, Progressive, Trance\n\n—\n\n◈ Den Anden Side ◈ \nHypnotic, Techno\n☆ Paula Koski [she/her]\n☆ Draho [he/him]\n☆ Pamela Svart [she/her]\n☆ Levant [he/him]\n\n◈ Den Anden Ende ◈ \nProgressive, Trance\n☆ Alexander Santana [he/him]\nb2b dj joe [he/him]\n\n————\n\n𝗔𝗱𝗺𝗶𝘀𝘀𝗶𝗼𝗻\nEarlybird: 160 DKK\nSecond drop: 170 DKK\nThird and final drop: 190 DKK\nDoor sale: 190 DKK\n100 DKK after 05:30\nLimited pre-sale tickets can be purchased on Resident Advisor.\nEntrance closes 1 hour before the club (earliest at 7 am)\nRe-entry is possible all night.\nAge: 20+\nWardrobe: Lockers are free to use with a lock. Bring your own or purchase one for 50 DKK at the entrance.\nDoor Policy - Normal Selection:\nOur door staff will curate the crowd to the extent they find necessary, and they and have an increased focus on the vibe and balance of the audience. On these nights we expect anyone who enters to have a basic knowledge about our policy.\n‍All club nights operate with some level of selection. This event operates with the middle level, Normal Selection. You can always reach out to the management before or after an event on awareness@denandenside.com with questions or concerns. For the safety of our guests and staff, we may find it necessary to deny entry without providing an explanation.\n————\nBelow you’ll find important information and code of conduct to be read and considered before you go to Den Anden Side. Find our full policy on our website.\n𝗩𝗶𝗯𝗲 𝗩𝗶𝘀𝗶𝗼𝗻\nAt Den Anden Side, we care deeply about our guests' safety and their ability to express themselves freely, without judgment or unwanted attention. We strive to always be a place where minoritized individuals can feel safe and comfortable.\nWe kindly ask you to be mindful of the space and event you are entering, the space you occupy, and how your presence influences the vibe and the experience of other guests.\n𝗖𝗼𝗱𝗲 𝗢𝗳 𝗖𝗼𝗻𝗱𝘂𝗰𝘁\n- Feel the room and consider how you influence it.\n- Don't assume gender or pronouns.\n- No discriminatory language or actions of any kind.\n-‍ Take the time to listen and learn and be aware of your privileges\n- No pictures or videos of any kind inside the club.‍\n- Dancefloor is for dancing; Don’t have loud conversations or use your phones.\n- Ask for consent and respect each other’s boundaries.\n- Don’t stare at or approach other guests non-consensually.\n- Take care of yourself and each other, and consume responsibly.\n- The darkroom is for intimate and consensual play only.\n𝗔𝘄𝗮𝗿𝗲𝗻𝗲𝘀𝘀‍\nThe Awareness Team is at the club every weekend, identifiable by their bright green shirts labeled \"AWARENESS.\" You can also reach them by contacting the door staff.\nGuests must speak with the door staff upon entry to ensure everyone is informed about our code of conduct and policies. Violating these policies can result in immediate eviction without a refund"
     },
     {
+      "id": "ra-2481881",
+      "date": "2026-07-18",
+      "startTime": "19:00",
+      "endTime": "05:00",
+      "title": "Phat 909: Jordan George (UK), Adrian Salcedo, Harrison Heat, JohanTheFirst (UK), Thor Calin",
+      "venue": "Baggen, Copenhagen",
+      "lineup": [
+        "Jordan George",
+        "Adrian Salcedo",
+        "Harrison Heat",
+        "Thor Calin"
+      ],
+      "tickets": "https://ra.co/events/2481881",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/3c952edd81518065a54ec0564adcd2079274fd39.jpg",
+      "promotionalLinks": [],
+      "description": "Phat 909 \n\nMain Line up\n\nJordan George (UK)\nJordan George is a fast rising DJ and producer out of Birmingham, and if you've caught one of his sets you already know the vibe: high energy, feel good, and built on old school sounds he's twisted into something that's unmistakably his. He's been picking up support from some serious names in the scene along the way, and his catalogue of guest mixes (including a hard house session for Groove Society) shows a guy who's not just riding a sound but genuinely obsessed with it.\n\nAdrian Salcedo\nFresh of Fête de la Musique and Distortion Festival, Adrian has cemented his signature style blending high energy Gospel, Trance, UKG, 90's and House. Drawing inspiration from the Dutch scene (ADE, Dekmantel), he will also introduce fresh, original mixes crafted alongside multi-platinum award-winning producer Daniel Mirza. As always he will be taking you to church only this time adding groves inspired by his Thailand tour and Circoloco Phuket.\n\nHarrison Heat\nHarrison Heat has been behind the decks in Copenhagen for close to ten years now, and he's the kind of DJ who'll talk your ear off about vinyl if you let him. His sound comes straight out of Chicago house, jacking and bouncy, and he's played alongside heavyweights like Eris Drew and Octo Octa at REFRACTIONS. Outside the booth he's co founder and booking manager at Pleasure Control and keeps busy as a graphic designer too, so the guy's got his hands in pretty much every corner of the scene.\n\nWarm up\n\nJohanTheFirst\nJohanTheFirst grew up in London but he's made Copenhagen home, and he's brought a genre bending sound with him that jumps between grime, UKG and Jersey club without ever feeling forced. Since the move he's quietly built himself a name locally, playing venues, in store sessions and festivals, with a standout appearance at CPH Distortion along the way. Expect bass, energy and a proper gun fingers moment or two.\n\nThor Calin\nAn rising star, who recently won a spot at Relevance Festival warm up with a strong deep house selection. It earned him a spot at the notorious Culturebox delivering a groovy deep house set. This time giving you a house-focused Baggen spirit warm up set.\n\nWarm up\n19.00 - 21.00 Thor Calin\n21.00 - 23.00 JohanTheFirst (UK)\n\nNightclub\n23.00 - 01.00 Harrison Heat\n01.00 - 03.00 Adrian Salcedo\n03.00 - 05.00 Jordan George (UK)"
+    },
+    {
       "id": "ra-2461534",
       "date": "2026-07-18",
       "startTime": "17:00",
@@ -19243,49 +19290,6 @@
       "description": "𝐇𝐚𝐧𝐠𝐚𝐫𝐞𝐧 𝐒𝐮𝐦𝐦𝐞𝐫 𝐱 𝐏𝐚𝐞𝐥𝐥𝐚 𝐂ó𝐬𝐦𝐢𝐜𝐚\nPaella Cósmica returns to Hangaren for an evening of paella, music and cosmic vibes in the garden. Come early for seafood and vegan paella, stay late for Norwegian techno favourite MRD taking over the Hangar for an extended set.\nFree entrance from 17:00–21:00. Make sure to pre-order your paella to secure a plate.\n\n𝗟𝗜𝗡𝗘-𝗨𝗣:  \nMRD\nVixen\nLead Ore\nDJ SRA\nMostany\nDivad Yaya\nRob MDNA\n\n𝐌𝐑𝐃\nKent Tonning - a.k.a. MRD of the it-collective Live From Earth - first arrived on the scene with his debut project, R.O.T, cultivating a core group of fans intoxicated by his willingness to bend all genres of music towards his punk, electronic, and industrial-informed childhood favorites. His DJ sets are a relentless, high-energy fusion of hard techno and euphoric trance melodies, characterized by moody post-punk atmospheres and 80s-inspired new wave influences.\n\n\n𝐓𝐈𝐂𝐊𝐄𝐓𝐒\n- Free entrance: 17-21\n- Paella preorder via Billetfix (link in bio)\n- Early entrance 21-23 100kr (presale and door sale)*\n- All night entrance 22-04 175kr (presale and door sale)\n- Late entrance 04-05 100kr (door sale only)\n𝐏𝐫𝐞𝐬𝐚𝐥𝐞 𝐭𝐢𝐜𝐤𝐞𝐭𝐬 for club night: Resident Advisor \n𝐏𝐚𝐞𝐥𝐥𝐚 𝐭𝐢𝐜𝐤𝐞𝐭𝐬: Billetfix.dk (grants access to the whole club night)\n\n- No entrance after 5:00 \n- No re-entry \n- A presale ticket will ensure your entry before the selected time slot. \n- The presale ends when the door opens at 20:00 \n- There are always tickets for sale at the door, even if the presale is sold out. \n- Presale tickets are prioritized for faster entry.   \n- Please note that a presale ticket does not guarantee entry. Hangaren reserves the right to deny entry. Tickets will be automatically refunded in that case.  \n- Due to security checks at the entrance, there may be an increased waiting time even with a ticket. We ask you to please take this into account and respect it. \n- Come early, stay late! \n\nINFO: \nOpening hours 20:00-06:00 \nMinimum age: 20+ \nAddress: Hangaren, Refshalevej 185, 1432 Copenhagen \nLost & Found: Please fill out our lost item form on our website under info.\n\nWARDROBE/LOCKERS: \nHangaren has switched from manual wardrobe to digital lockers The use of the lockers is mandatory for every guest due to fire safety codes. Share the locker with your friends.\n\nMedium lockers with pace for 2-3 jackets = 40 DKK \nLarge lockers: Space for 3-5 jackets = 70 DKK\n\nHANGAREN: \nHangaren at Refshalevej 185 is an old hangar construction turned into a nightclub for electronic music and event space. Hangaren is located at a secluded green spot on Refshaleøen in central Copenhagen. We are here to present the city's vibrant electronic music scene. You will be treated with a heavy soundsystem by Lambda Labs at the indoor stage and a crisp Turbosound system at the outdoor stage.There is a cosy courtyard with chill-out possibility, a bonfire, big sky scenery from where you can watch the sunset, the stars and the sunrise. The bar serves organic beers, drinks at fair prices. Our main purpose is to serve as a platform and inspiration for the cultural scene in Copenhagen\n\nTHIS IS HOW WE PARTY: \nHangaren wants every guest to feel safe and free at our parties. This is a shared space and there should be an open atmosphere where everyone can enjoy themselves, whoever they are or wherever they come from. We do not want any harassment based on race, gender, sexual orientation, religion, disability, body size, political orientation, social background or age. \nIf you feel you are being harassed, a victim of nonconsensual touching, or otherwise made to feel unsafe by any form of aggressive or inappropriate attitude, contact our staff or security: they will assist you. It's only a party if we all feel free! \nNo photos and video - Stay in the moment! \nNo phones or loud conversations on the dancefloor. \nThe dancefloor is for dancing, Please respect the vibe! \nTake care of yourself and each other.\nPlease contact our staff if you need help or assistance of any kind.\n\n\n\n\n*Guests holding \"Early entrance\" tickets are expected to arrive between 20:00 and 23:00. Please be aware that due to security checks, wait times may range from 5 to 30 minutes. It is the guest's responsibility to ensure they reach the entrance desk by 22:59 at the latest. Any arrivals after this time will incur a late entrance fee of 50kr."
     },
     {
-      "id": "ra-2479145",
-      "date": "2026-07-18",
-      "startTime": "14:00",
-      "endTime": "02:00",
-      "title": "PARAÍSO at Reffen & Klub Werkstatt",
-      "venue": "Klub Werkstatt, Copenhagen",
-      "lineup": [
-        "Enterthevoigt",
-        "Mendel",
-        "Siquiche",
-        "DJ Spice"
-      ],
-      "tickets": "https://ra.co/events/2479145",
-      "soldOut": false,
-      "flyer": "https://images.ra.co/147aa18a3fbbd2f27989fecd70eaa24fa62a116d.png",
-      "promotionalLinks": [
-        {
-          "title": "Klub Werkstatt",
-          "url": "https://klubwerkstatt.dk/events/"
-        }
-      ],
-      "description": "PARAÍSO\nJuly 18, 2026 · 2:00 PM–2:00 AM\n\nJoin us for an unforgettable day and night at Paraíso—a celebration of the world’s music and the good life.\nParaíso is the party you won’t want to leave.\n\nThe day begins with warm melodies and gentle vibes under the summer sun, with your feet in the sand. Enjoy the sunset over Copenhagen as you move to the rhythms of world music, eclectic disco, and Balearic beats.\nAs darkness falls, the party continues at Klub Werkstatt, where the music keeps the dance floor going all night long.\n\nSpend the day enjoying cold drinks, food from around the world, and great company. The music is provided by local and international DJs, carefully selected to create the relaxed, beachy, and sun-drenched atmosphere that Paraíso is all about, before the tempo picks up at Klub Werkstatt.\n\nPRACTICAL INFO\nDate: July 18, 2026\nTime: 2:00 PM–1:00 AM\nReffen\n2:00 PM–10:00 PM\nKlub Werkstatt\n9:00 PM–2:00 AM\nFree admission to Klub Werkstatt until 10:00 PM.\n\nLINEUP\nREFFEN · 2:00 PM–10:00 PM\nNicka\nEnterthevoigt\n\nKLUB WERKSTATT · 9:00 PM–2:00 AM\n(ticket required)\nMendel\nSiquiche\nDJ Spice"
-    },
-    {
-      "id": "ra-2481881",
-      "date": "2026-07-18",
-      "startTime": "19:00",
-      "endTime": "05:00",
-      "title": "Phat 909: Jordan George (UK), Adrian Salcedo, Harrison Heat, JohanTheFirst (UK), Thor Calin",
-      "venue": "Baggen, Copenhagen",
-      "lineup": [
-        "Jordan George",
-        "Adrian Salcedo",
-        "Harrison Heat",
-        "Thor Calin"
-      ],
-      "tickets": "https://ra.co/events/2481881",
-      "soldOut": false,
-      "flyer": "https://images.ra.co/3c952edd81518065a54ec0564adcd2079274fd39.jpg",
-      "promotionalLinks": [],
-      "description": "Phat 909 \n\nMain Line up\n\nJordan George (UK)\nJordan George is a fast rising DJ and producer out of Birmingham, and if you've caught one of his sets you already know the vibe: high energy, feel good, and built on old school sounds he's twisted into something that's unmistakably his. He's been picking up support from some serious names in the scene along the way, and his catalogue of guest mixes (including a hard house session for Groove Society) shows a guy who's not just riding a sound but genuinely obsessed with it.\n\nAdrian Salcedo\nFresh of Fête de la Musique and Distortion Festival, Adrian has cemented his signature style blending high energy Gospel, Trance, UKG, 90's and House. Drawing inspiration from the Dutch scene (ADE, Dekmantel), he will also introduce fresh, original mixes crafted alongside multi-platinum award-winning producer Daniel Mirza. As always he will be taking you to church only this time adding groves inspired by his Thailand tour and Circoloco Phuket.\n\nHarrison Heat\nHarrison Heat has been behind the decks in Copenhagen for close to ten years now, and he's the kind of DJ who'll talk your ear off about vinyl if you let him. His sound comes straight out of Chicago house, jacking and bouncy, and he's played alongside heavyweights like Eris Drew and Octo Octa at REFRACTIONS. Outside the booth he's co founder and booking manager at Pleasure Control and keeps busy as a graphic designer too, so the guy's got his hands in pretty much every corner of the scene.\n\nWarm up\n\nJohanTheFirst\nJohanTheFirst grew up in London but he's made Copenhagen home, and he's brought a genre bending sound with him that jumps between grime, UKG and Jersey club without ever feeling forced. Since the move he's quietly built himself a name locally, playing venues, in store sessions and festivals, with a standout appearance at CPH Distortion along the way. Expect bass, energy and a proper gun fingers moment or two.\n\nThor Calin\nAn rising star, who recently won a spot at Relevance Festival warm up with a strong deep house selection. It earned him a spot at the notorious Culturebox delivering a groovy deep house set. This time giving you a house-focused Baggen spirit warm up set.\n\nWarm up\n19.00 - 21.00 Thor Calin\n21.00 - 23.00 JohanTheFirst (UK)\n\nNightclub\n23.00 - 01.00 Harrison Heat\n01.00 - 03.00 Adrian Salcedo\n03.00 - 05.00 Jordan George (UK)"
-    },
-    {
       "id": "ra-2486099",
       "date": "2026-07-18",
       "startTime": "12:00",
@@ -19316,6 +19320,30 @@
         }
       ],
       "description": "ESSENCE EXTENDED WEEKENDER\n \n❀ Téa \n❀ S.A.M. \n❀ Lola Haro \n❀ Matriark \n❀ Peach \n❀ Eris Drew \n❀ Andy Martin\n❀ Kasper Marott \n❀ Britney Speed \n❀ Alfredo92 LIVE\n❀ Hannah D \n❀ Hugo \n\n\nSaturday to Sunday\n18. - 19. July 2026\n12.00 - end \n36h nonstop\n\n\nESSENCE SOCIAL CLUB\nYou’ll need to be member of essence social club to enter our gatherings. The membership fee is a one time payment of min. 25 DKK (if finances allow, you're welcome to contribute more).\n\nThis will help us keep the space open, affordable, and community-driven.\n\nLink below. See u ᰔ"
+    },
+    {
+      "id": "ra-2479145",
+      "date": "2026-07-18",
+      "startTime": "14:00",
+      "endTime": "02:00",
+      "title": "PARAÍSO at Reffen & Klub Werkstatt",
+      "venue": "Klub Werkstatt, Copenhagen",
+      "lineup": [
+        "Enterthevoigt",
+        "Mendel",
+        "Siquiche",
+        "DJ Spice"
+      ],
+      "tickets": "https://ra.co/events/2479145",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/147aa18a3fbbd2f27989fecd70eaa24fa62a116d.png",
+      "promotionalLinks": [
+        {
+          "title": "Klub Werkstatt",
+          "url": "https://klubwerkstatt.dk/events/"
+        }
+      ],
+      "description": "PARAÍSO\nJuly 18, 2026 · 2:00 PM–2:00 AM\n\nJoin us for an unforgettable day and night at Paraíso—a celebration of the world’s music and the good life.\nParaíso is the party you won’t want to leave.\n\nThe day begins with warm melodies and gentle vibes under the summer sun, with your feet in the sand. Enjoy the sunset over Copenhagen as you move to the rhythms of world music, eclectic disco, and Balearic beats.\nAs darkness falls, the party continues at Klub Werkstatt, where the music keeps the dance floor going all night long.\n\nSpend the day enjoying cold drinks, food from around the world, and great company. The music is provided by local and international DJs, carefully selected to create the relaxed, beachy, and sun-drenched atmosphere that Paraíso is all about, before the tempo picks up at Klub Werkstatt.\n\nPRACTICAL INFO\nDate: July 18, 2026\nTime: 2:00 PM–1:00 AM\nReffen\n2:00 PM–10:00 PM\nKlub Werkstatt\n9:00 PM–2:00 AM\nFree admission to Klub Werkstatt all night!\n\nLINEUP\nREFFEN · 2:00 PM–10:00 PM\nNicka\nEnterthevoigt\n\nKLUB WERKSTATT · 9:00 PM–2:00 AM\nMendel\nSiquiche\nDJ Spice"
     },
     {
       "id": "ra-2428227",
@@ -19420,6 +19448,27 @@
       "flyer": "https://images.ra.co/7b42a8df3488fd6ef7550ac848eaee83ceda0d5f.jpg",
       "promotionalLinks": [],
       "description": "🌊 COPENHAGEN, ARE YOU READY? 🌊\nWe’re back at Kalvebod Brygge 3 on Saturday, July 18th for another unforgettable day by the water. ☀️🩵\nWe’ll be turning the harbour into Copenhagen’s favourite open-air dance floor with an incredible soundtrack from:\n🎧 Thomas Madvig\n🎧 Jean von Baden\n🎧 Christian Nielsen\nExpect fresh cocktails and ice-cold drinks from our bars, delicious food trucks, sunshine (fingers crossed 🤞), and the kind of atmosphere that only happens when great music, great people, and the Copenhagen waterfront come together.\nBring your friends, your best energy, and your dancing shoes, we’ll take care of the rest\n📍 Kalvebod Brygge 3\n🗓️ Saturday, July 18\n🕑 From 14:00\nSee you on what might just be Copenhagen’s best open-air dance floor. 🌊💙"
+    },
+    {
+      "id": "ra-2489083",
+      "date": "2026-07-18",
+      "startTime": "23:59",
+      "endTime": "09:00",
+      "title": "RITUALS X Lara Klart (ARG)",
+      "venue": "MODULE, Copenhagen",
+      "lineup": [
+        "Business Risky",
+        "Lara Klart",
+        "UBER KNAST",
+        "Bestrawa",
+        "dj bootymagic",
+        "Timo Tapani"
+      ],
+      "tickets": "https://ra.co/events/2489083",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/1152656a04f96871631f39376692c16e074fe7ae.png",
+      "promotionalLinks": [],
+      "description": "It’s time to create new rituals. Let’s come together to create a new ritual that will give us all a new level of understanding and a next level experience\n\nOn July 18th, Lara Klart arrives from the USA. Some artists are game-changers, pioneers and true forces of nature. This is Lara Klart’s case. She’s the first internationally acclaimed DJ/Producer from Ecuador but her rise to international stardom is a tale filled with bold decisions, hardships and a relentless drive to deliver the best version of herself.\n\nAlongside her, Business Risky, Uberknast, and in the Kiosk we have The Kuusamo Experience all night to complete the first gathering.\n\nMain.\n00.00-02.00 business Risky\n02.00-04.00 Lara Klart (ARG)\n04.00-06.00 Uberknast\n06.00-08.00 Bestrawa\n\nKiosk.\n01.00-06.00 the kuusamo experience\n(DJ Bootymagic b2b Timo Tipani)\n\nSafer Space & Inclusion – Our Shared Guidelines\nWe believe that all guests, artists, and staff are entitled to a space free from harassment, discrimination, and exclusion.\n\nBy entering our space, you agree to respect the following principles:\nⓞ No physical contact without clear consent.\nⓞ Racism, sexism, homophobia, and transphobia will not be tolerated.\nⓞ No staring or intrusive behavior – looking is fine, but respect boundaries.\nⓞ Photos and video recording are not permitted inside the club.\n\nWe come together with one common goal: to create a safer and open environment for everyone.\nAll genders, skin tones, sexual orientations, ages, and body types are welcome. Harassment of any kind is not accepted.\nOur staff is here to support you. If you feel uncomfortable or experience any form of boundary-crossing\nbehavior, please reach out immediately.\n\nAge: + 20\n\nDoor:\n00.00-01.00 110kr\n01.00-06.00 170kr\n06.00-END. 100kr\n\nRITUALS\n18.07.2026"
     },
     {
       "id": "ra-2486099",
@@ -19608,6 +19657,22 @@
       "description": "Born and raised in Thessaloniki, Greece, Annē began her music career in 2012 and has since emerged as a rising talent in the world of techno. Fully committed to her craft as both a DJ and producer, she transitioned from being a passionate raver to a driving force in her country’s techno scene, delivering a uniquely experiential approach to music. \n\nAnnē’s DJ sets are high-energy and dynamic, crafted to create seamless connections with her audience. In her productions, she draws inspiration from  Detroit techno and the sounds of the ’90s and early 00s, channeling her emotions into tracks that resonate deeply. \n\n𝗟𝗜𝗡𝗘-𝗨𝗣:  \nANNĒ\nMilo Makua\nDavid Garset\nVika\nTania Just\nLucky Lube\n\nENTRANCE:\n- Free entrance: 20-21\n- Early entrance 21-23 100kr (presale and door sale)\n- All night entrance 22-04 175kr (presale and door sale)\n- Late entrance 04-05 100kr (door sale only)\n\n- No entrance after 5:00 \n- No re-entry \n- A presale ticket will ensure your entry before the selected time slot. \n- The presale ends when the door opens at 20:00 \n- There are always tickets for sale at the door, even if the presale is sold out. \n- Presale tickets are prioritized for faster entry.   \n- Please note that a presale ticket does not guarantee entry. Hangaren reserves the right to deny entry. Tickets will be automatically refunded in that case.  \n- Due to security checks at the entrance, there may be an increased waiting time even with a ticket. We ask you to please take this into account and respect it. \n- Come early, stay late! \n\nINFO: \nOpening hours 20:00-06:00 \nMinimum age: 20+ \nAddress: Hangaren, Refshalevej 185, 1432 Copenhagen \nLost & Found: Please fill out our lost item form on our website under info.\n\nWARDROBE/LOCKERS: \nHangaren has switched from manual wardrobe to digital lockers The use of the lockers is mandatory for every guest due to fire safety codes. Share the locker with your friends.\n\nMedium lockers with pace for 2-3 jackets = 40 DKK \nLarge lockers: Space for 3-5 jackets = 70 DKK\n\nHANGAREN: \nHangaren at Refshalevej 185 is an old hangar construction turned into a nightclub for electronic music and event space. Hangaren is located at a secluded green spot on Refshaleøen in central Copenhagen. We are here to present the city's vibrant electronic music scene. You will be treated with a heavy soundsystem by Lambda Labs at the indoor stage and a crisp Turbosound system at the outdoor stage.There is a cosy courtyard with chill-out possibility, a bonfire, big sky scenery from where you can watch the sunset, the stars and the sunrise. The bar serves organic beers, drinks at fair prices. Our main purpose is to serve as a platform and inspiration for the cultural scene in Copenhagen\n\nTHIS IS HOW WE PARTY: \nHangaren wants every guest to feel safe and free at our parties. This is a shared space and there should be an open atmosphere where everyone can enjoy themselves, whoever they are or wherever they come from. We do not want any harassment based on race, gender, sexual orientation, religion, disability, body size, political orientation, social background or age. \nIf you feel you are being harassed, a victim of nonconsensual touching, or otherwise made to feel unsafe by any form of aggressive or inappropriate attitude, contact our staff or security: they will assist you. It's only a party if we all feel free! \nNo photos and video - Stay in the moment! \nNo phones or loud conversations on the dancefloor. \nThe dancefloor is for dancing, Please respect the vibe! \nTake care of yourself and each other.\nPlease contact our staff if you need help or assistance of any kind.\n\n\n\n\n*Guests holding \"Early entrance\" tickets are expected to arrive between 20:00 and 23:00. Please be aware that due to security checks, wait times may range from 5 to 30 minutes. It is the guest's responsibility to ensure they reach the entrance desk by 22:59 at the latest. Any arrivals after this time will incur a late entrance fee of 50kr."
     },
     {
+      "id": "ra-2488661",
+      "date": "2026-07-24",
+      "startTime": "17:00",
+      "endTime": "01:00",
+      "title": "Ritmica",
+      "venue": "Banegaarden, Copenhagen",
+      "lineup": [
+        "Eva Claudia"
+      ],
+      "tickets": "https://ra.co/events/2488661",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/847f7fe208d09880c4ddaa55cd7338f8b0798c43.jpg",
+      "promotionalLinks": [],
+      "description": "RITMICA official launch: Open-Air DJ event - enjoy the sunset with Latin rhythms \n\nCome join RITMICA for an afternoon and evening to celebrate the diversity of Latin sound: from reggaeton, dembow, baile funk, salsa, Latin hip hop, and Miami bass, to Latin-inspired techno. \n\n\n Free entry – open to all\n\n\nLINE UP\n\nDJ Kathe BR\nLatin Hip Hop & Miami Bass Sounds\n\nDJ Raige\nReggaeton, Salsa & More\n\nDJ Malamirada\nReggaeton, Dembow & Baile Funk\n\nDJ Triz\nBaile Funk with Reggaeton, Dembow & Dancehall\n\nEva Claudia\nLatin Techno / Hardgroove\n\n***\n\nRITMICA is a woman-founded community with a mission to support upcoming DJs in the Copenhagen scene through a shared passion for Latin sounds. We exclusively promote musical curations rooted in or inspired by the diverse spectrum of Latin sounds."
+    },
+    {
       "id": "ra-2468234",
       "date": "2026-07-24",
       "startTime": "22:00",
@@ -19764,20 +19829,6 @@
       "description": "Bringing the heat and energy all the way from Chile - Panal Records will be visiting Module for a showcase in proper techno! Danilea Fuzz & Leonor Baesler will be jloining us for their European tour: Bringing along Berlin Based Chilean Pamela Svart and two local legends for the Kiosk: Vanpana & Dico Nemus <3 \n\n\nMain.\n00.00-02.00 Pamela Svart (CL)\n02.00-04.00 Daniela Fuzz (CL)\n04.00-06.00 Leonor Baesler (CL)\n06.00-08.00 B2B2B\n\nKiosk.\n01.00-03.00 Vanpana\n03.00-06.00 Dico Nemus\n\nSafer Space & Inclusion – Our Shared Guidelines\nWe believe that all guests, artists, and staff are entitled to a space free from harassment, discrimination, and exclusion.\nBy entering our space, you agree to respect the following principles:\nⓞ No physical contact without clear consent.\nⓞ Racism, sexism, homophobia, and transphobia will not be tolerated.\nⓞ No staring or intrusive behavior – looking is fine, but respect boundaries.\nⓞ Photos and video recording are not permitted inside the club.\nWe come together with one common goal: to create a safer and open environment for everyone.\nAll genders, skin tones, sexual orientations, ages, and body types are welcome. Harassment of any kind is not accepted.\nOur staff is here to support you. If you feel uncomfortable or experience any form of boundary-crossing\nbehavior, please reach out immediately.\n\nAge: + 20\nDoor:\n00.00-01.00 110kr\n01.00-06.00 160kr\n06.00-END. 70kr"
     },
     {
-      "id": "ra-2485848",
-      "date": "2026-07-25",
-      "startTime": "19:00",
-      "endTime": "01:00",
-      "title": "Real Live at Mayhem: A summer party, perfected",
-      "venue": "Mayhem, Copenhagen",
-      "lineup": [],
-      "tickets": "https://ra.co/events/2485848",
-      "soldOut": false,
-      "flyer": "https://images.ra.co/e50a8f6188edf628637671489543fffd69c95917.png",
-      "promotionalLinks": [],
-      "description": "25.07.26] Real Live at Mayhem\n“A summer party, perfected”\n\nLineup:\n\nHarto Falión @harto_falion\nGoat Arc @g.o.a.t.a.r.c\nBasegirls @h4nn4hchlo3 @negin.jakobsson\nEmanuella @emaella__\nMiracle Door @mileyrapture\nFace paint booth by Vio Lino @vio_lino_o\n\nEntry is 70DKK\nDoors at 19:00\nDont be an Asshole"
-    },
-    {
       "id": "ra-2480680",
       "date": "2026-07-25",
       "startTime": "21:00",
@@ -19795,6 +19846,20 @@
         }
       ],
       "description": "Peak summer - Time for some Brazilian beats and baile funk!\n\nBaile Techno is back this July with a lot of energy, so get ready to enjoy the dancefloor with us.\n\nThis time, we have 2 amazing headliners MARIEH and DJ FIFONHA, both from Brasil and on their Summer Euro Tour /o/\n\nTwo dancefloors, Two Vibes, Angels and Demons \n\nHeaven will feature Brazilian beats and Baile Funk with a fine selection from Ligis and Malamiranda, with a special presentation from MARIEH, blessing everyone with her Piranhaste session.\n\nHell, as you can expect, will be quite the opposite vibes from heaven - Latin tech, baile, getthoclub, and other things that are unholy.\nExpect heavy beats and higher BPM with Mister Miawsaki, Karlitas Way and Avontz. Those DJs will harvest all the energy from the dancefloor to summon FIFONHA, one of the queens of mandelao in brasil!\n\nWe welcome all people, angels, and demons. Dance like no one is watching :)\n\nTickets:\n\nEarly bid tickets: 100dkk (only 20 tickets)\nAdvanced: 150dkk (when early bid is sold out, limited to 100 tickets)\nDoor: 200dkk (we will refuse entrance if the venue is full)\n\n\n﻿Heaven:\n﻿/ Ligis\n﻿﻿/ Malamiranda\n﻿﻿/ Marieh\n﻿\n﻿Hell:\n﻿~ Miawsaki\n﻿~ Karlitas Way\n﻿﻿~ Marieh\n﻿~ Fifonha\n﻿~ Avontz ﻿﻿"
+    },
+    {
+      "id": "ra-2485848",
+      "date": "2026-07-25",
+      "startTime": "19:00",
+      "endTime": "01:00",
+      "title": "Real Live at Mayhem: A summer party, perfected",
+      "venue": "Mayhem, Copenhagen",
+      "lineup": [],
+      "tickets": "https://ra.co/events/2485848",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/e50a8f6188edf628637671489543fffd69c95917.png",
+      "promotionalLinks": [],
+      "description": "25.07.26] Real Live at Mayhem\n“A summer party, perfected”\n\nLineup:\n\nHarto Falión @harto_falion\nGoat Arc @g.o.a.t.a.r.c\nBasegirls @h4nn4hchlo3 @negin.jakobsson\nEmanuella @emaella__\nMiracle Door @mileyrapture\nFace paint booth by Vio Lino @vio_lino_o\n\nEntry is 70DKK\nDoors at 19:00\nDont be an Asshole"
     },
     {
       "id": "ra-2486613",
@@ -19901,20 +19966,6 @@
       "flyer": "https://images.ra.co/b0ef26501f168a931f18cb4105e256d11790e699.jpg",
       "promotionalLinks": [],
       "description": "We bring you strawberry summer vibes and house music - in the loveliest of city gardens.\nBring your spouses, kids, flatmates, besties and other legends. And most and foremost: your best dancing shoes.\nEntry: free as summer\nLove.Rave.❤️\nLine-Up:\nB FROM E b2b BRAVER\nSamuel Rees b2b Niko Nuevo\n-----------------\nFor all those who enjoy electronic music and good company, not able or willing to do the late nights out. If you are serious about your lifestyle, a good night's sleep or parenting this is for you. We adore kids, so please bring them. Best time to arrive with little ones is in the early hours.\nNext date: August 23, Sept 13"
-    },
-    {
-      "id": "ra-2485823",
-      "date": "2026-07-26",
-      "startTime": "17:00",
-      "endTime": "22:00",
-      "title": "Ever Felt a Sound?",
-      "venue": "Eliaskirken, Copenhagen",
-      "lineup": [],
-      "tickets": "https://ra.co/events/2485823",
-      "soldOut": false,
-      "flyer": "https://images.ra.co/59c995d309ddb9ac5b2da324e4345f05f2ca5416.png",
-      "promotionalLinks": [],
-      "description": "ever felt a sound?\novum sessions : four\nmore info TBA\nsunday evening - save the date🦻🏼"
     },
     {
       "id": "ra-2318730",
@@ -20254,6 +20305,7 @@
         "Cakebutcher",
         "avoN",
         "Emma Priis",
+        "Eva Claudia",
         "Bestrawa",
         "FA999"
       ],
@@ -20314,7 +20366,7 @@
       "startTime": "20:00",
       "endTime": "05:00",
       "title": "Dijital Drama 8th",
-      "venue": "TBA - under a bridge , Copenhagen",
+      "venue": "Christians Brygge 31, Copenhagen",
       "lineup": [
         "maurinstarr",
         "Lucy Headburn"
@@ -20848,6 +20900,36 @@
         }
       ],
       "description": "Argentine producer, DJ, and singer Rocío Portillo returns to What Happens — Denmark's longest-running monthly club night and one of Europe's leading events for organic and progressive house music.\n\nRocío Portillo releases music on Mango Alley, Hoomidaas, and Sudbeat Music, and her productions have received support from renowned artists including Hernán Cattáneo, Guy J, and Nick Warren. She is joined in Black Box by Denmark's award-winning legend Tim Andresen, fresh from the release of his album on Sofa Beats, and Ayelen, who took us by storm with her debut appearance. Meanwhile, in Red Box, Marsans, Matias Oliveros, and Distracted will take the crowd on a musical journey in what promises to be a truly magical night at Culture Box.\n\nFirst drink/beer for free the first open hour.\n\nAttitude Code\nRead about our Attitude Code / Safer Space policy and training on our website."
+    },
+    {
+      "id": "ra-2489409",
+      "date": "2026-08-15",
+      "startTime": "23:30",
+      "endTime": "08:00",
+      "title": "GAGxDAS: PRIDE",
+      "venue": "Pumpehuset, Copenhagen",
+      "lineup": [
+        "Metaraph",
+        "Samantha Togni",
+        "Peachlyfe",
+        "Milo Makua",
+        "DRAHO",
+        "dj Joe"
+      ],
+      "tickets": "https://ra.co/events/2489409",
+      "soldOut": false,
+      "flyer": "https://images.ra.co/eb34c638c6bcee5ddf557dbf568ac1a3469cc853.jpg",
+      "promotionalLinks": [
+        {
+          "title": "Website",
+          "url": "https://denandenside.com"
+        },
+        {
+          "title": "Instagram",
+          "url": "https://www.instagram.com/den_anden_side_cph/"
+        }
+      ],
+      "description": "Saturday, August 15 │ Normal Selection │ Hypnotic, Hard House, Techno, Trance\n\n————\n\nJust like last year GAG is moving together with Den Anden Side to Pumpehuset. Last year was on the next level of club experiance in Copenhagen, if you where there you know. We strongly recommend to buy presale. Last year was sold out long before the event + we sold way more than first planned. That resulted in less than 200 tickets at the door. Just like last year you’re about to experience a GAG with a killer light show, a killer lineup. And like last year we’re opening up the main floor (Kransalen).\n\nLINEUP\n\nMétaraph [they/them]\n\nMetaraph is a multidisciplinary artist based in Berlin, known for weaving together sound, movement, and visual expression into an immersive and emotionally charged artistic universe. As a DJ, music producer, dancer, jewellery designer, and performance artist, Metaraph blurs boundaries across mediums, genres, and dimensions. Their sonic journeys are fast, raw, ethereal, melancholic, and powerful—designed to unearth inner chaos and elevate it into higher consciousness. Blending techno, ambient, trance, and psy with sharp grooves and haunting melodies, Metaraph’s music doesn’t just defy genre—it devours it. A master of metamorphosis, Metaraph doesn’t simply perform—they transmit.\n\nSamantha Togni [she/her]\n\nIn today’s world, it’s more important than ever for artists to be interdisciplinary.Samantha Togni is an internationally-renowned DJ, producer, and promoter, who has she played headline sets in super-clubs from Tokyo to Berlin.Togni is the founder of Boudica, a platform aimed to give visibility to women, trans+ and nonbinary people in music. Boudica is a music conference at FOLD, a series of events in London and Europe, a record label, and a radio show. She is a DJ resident of GEGEN, a Berlin-based club collective renowned for fusing club culture, performance art, and techno.\n\nPeachlyfe b2b Milo Makua [they/she+she/they]\n\nPeachlyfe (they/them) is a hydra-sonic electronic musician that shook & seduced the Copenhagen fast-paced techno scene, claiming their seat along with the Fast Forward Agency.\nPeachlyfe’s productions and live-sets rebelliously weave across genres, trippy melodies cut with heavy slaps while slithering whispers in your ear sowing the dismantlement of the ‘cistem’. Their previous EP “All Tits are Real, All Money is Fake, All Hail Satan” is an ode to that anarchic-playfulness, a marvellous feat in blending rave-rush joy and queer defiance.\n\nFrom techno’s multitudes Milo Makua displays a preference for the headsier edges of the enchanted and the deep. Through sets riding the lines of intensity and intrigue she casts forth a kind of wormhole textural minimalism paired against energetically charged 4x4, whirring rhythms jittering under nuanced and dense atmospheric layers. Yielding at times to experimental urges all whilst remaining firmly in step with the fundamentalist drive of techno in all its vast stylings, there is an art here, one which distills the purist essences of early techno with the textural complexity and detailed minutiae found in many of the genres more mutated and modern iterations.\n\nDRAHO b2b joe [he/him+he/him] \n\nDraho delivers hypnotic, loop-driven techno built on rolling grooves, percussive precision and controlled energy. Based in Copenhagen, he is a resident at GAG at Den Anden Side and founder of UNIT ZERO, a podcast and event series exploring hypnotic, long-form techno. His sets focus on rhythm, flow and gradual progression through careful track selection and long, seamless transitions.\n\nAfter a 20 year break from playing the found the joy back to dj again two years\nago. He doesn’t have a specific style, but plays mainly trance, hard trance and\nhard house from the 90’s. He is also the creator of GAG and handles all the\nbookings since three years back.\n\n————\n𝗔𝗱𝗺𝗶𝘀𝘀𝗶𝗼𝗻\nDoorsale: \n290 DKK\n120 DKK after 05:30\n—\nPresale (purchased on Resident Advisor): \nEarly bird - very limited quantity: 180 DKK\nSecond drop - available until 15th July: 250 DKK\nThird drop: 290 DKK\n—\nOpening hours: 23:59 - 08:00\nEntrance closes at 7am\nRe-entry is possible all night.\n\nAge: 20+\n\nWardrobe: You can purchase lockers or regular wardrobe at the venue.\n\nDoor Policy - Normal Selection:\nOur door staff will curate the crowd to the extent they find necessary, and they have an increased focus on the vibe and balance of the audience. On these nights we expect anyone who enters to have a basic knowledge about our policy.\n‍All club nights operate with some level of selection. This event operates with the middle level, Normal Selection. You can always reach out to the management before or after an event on awareness@denandenside.com with questions or concerns. For the safety of our guests and staff, we may find it necessary to deny entry without providing an explanation.\n\n————\nBelow you’ll find Important information and code of conduct to be read and considered before you go to Den Anden Side. Find our full policy on our website. \n\n𝗩𝗶𝗯𝗲 𝗩𝗶𝘀𝗶𝗼𝗻\nAt Den Anden Side, we care deeply about our guests' safety and their ability to express themselves freely, without judgment or unwanted attention. We strive to always be a place where minoritized individuals can feel safe and comfortable.\nWe kindly ask you to be mindful of the space and event you are entering, the space you occupy, and how your presence influences the vibe and the experience of other guests.\n𝗖𝗼𝗱𝗲 𝗢𝗳 𝗖𝗼𝗻𝗱𝘂𝗰𝘁\n- Feel the room and consider how you influence it.\n- Don't assume gender or pronouns.\n- No discriminatory language or actions of any kind.\n-‍ Take the time to listen and learn and be aware of your privileges\n- No pictures or videos of any kind inside the club.‍\n- Dancefloor is for dancing; Don’t have loud conversations or use your phones.\n- Ask for consent and respect each other’s boundaries.\n- Don’t stare at or approach other guests non-consensually.\n- Take care of yourself and each other, and consume responsibly.\n- The darkroom is for intimate and consensual play only.\n𝗔𝘄𝗮𝗿𝗲𝗻𝗲𝘀𝘀‍\nThe Awareness Team is at the club every weekend, identifiable by their bright green shirts labeled \"AWARENESS.\" You can also reach them by contacting the door staff.\nGuests must speak with the door staff upon entry to ensure everyone is informed about our code of conduct and policies. Violating these policies can result in immediate eviction without a refund."
     },
     {
       "id": "ra-2461529",
@@ -21719,6 +21801,7 @@
         "Wille",
         "Sakena Ali",
         "Kirakingkong",
+        "Eva Claudia",
         "KLENA"
       ],
       "tickets": "https://ra.co/events/2470481",
