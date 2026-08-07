@@ -2,7 +2,7 @@ name: Refresh RA events
 
 on:
   schedule:
-    - cron: '0 7 * * *'   # daily at 07:00 UTC (09:00 Copenhagen time)
+    - cron: '0 7 * * 1'   # weekly on Monday at 07:00 UTC (09:00 Copenhagen time)
   workflow_dispatch:        # allows manual trigger from GitHub UI
 
 jobs:
